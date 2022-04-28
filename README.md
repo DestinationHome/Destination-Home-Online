@@ -11,6 +11,7 @@ This is a work in progress/template for when we have our production servers onli
 - Create a writeup on how users can reinstall Home on OFW.
 - Make a detailed write up of FAQ/Disclaimers.
 - Be sure to review any final package files & RPCS3 builds.
+- Create a release page for our public client builds.
 
 # Missing services/functions:
 
