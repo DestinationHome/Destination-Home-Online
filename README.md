@@ -25,7 +25,8 @@ As far as the development Destination Home project has come, unfortunately their
 # Working services & features.
 
 - Official Firmware Support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 4/29/2022 4.88 is the latest firmware for PS3.`
-- We are using the [1.86 version of PlayStation®Home] as our production client.
+- We are using the [1.86 version of PlayStation®Home](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) as our production client.
+- Trophy support will be available on PS3. RPCS3 will **not** have this function as this is an PSN service.
 - Rewards. `This includes furniture, clothing, apartments, etc.`
 - Cross-regional support `Users can access all regional spaces despite their origin country that is connected to their PSN account. For instance a player who is from Japan can access North American scenes and vice versa.`
 - Users who have PlayStation Plus on PSN can have additional PS Plus Font colors for their ID's in game & have the ability to customize their avatars hair in any color. For more information about this feature, feel free to view the video [here]().
