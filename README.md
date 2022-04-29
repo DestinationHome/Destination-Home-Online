@@ -2,6 +2,11 @@
 
 Welcome to the official guide on how users can re-expierence [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/).
 
+<p align="center">
+<a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
+</p>
+
+
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
 
 This is a work in progress/template for when we have our production servers online.
@@ -13,16 +18,32 @@ This is a work in progress/template for when we have our production servers onli
 - Be sure to review any final package files & RPCS3 builds.
 - Create a release page for our public client builds.
 
+# Disclaimers:
+
+As far as the development Destination Home project has come, unfortunately their will be some missing services & functions that will not be avaialble which will be documented in this thread. However, as time progress such services *may* come back to Home once we have created the necesarry back-end implementations for our production servers. 
+
+# Working services & features.
+
+- Official Firmware Support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 4/29/2022 4.88 is the latest firmware for PS3.`
+- We are using the [1.86 version of PlayStation®Home] as our production client.
+- Rewards. `This includes furniture, clothing, apartments, etc.`
+- Cross-regional support `Users can access all regional spaces despite their origin country that is connected to their PSN account. For instance a player who is from Japan can access North American scenes and vice versa.`
+- Users who have PlayStation Plus on PSN can have additional PS Plus Font colors for their ID's in game & have the ability to customize their avatars hair in any color. For more information about this feature, feel free to view the video [here]().
+
+
 # Missing services/functions:
 
 - Clans/Clubs. 
 - Commerce Points "Stores" for RPCS3.
 - [PlayStation Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
 
-# Disclaimers:
-
-As far as the development Destination Home project has come, unfortunately
 
 # How to play PlayStation®Home on PS3
 
 # How to play PlayStation®Home on RPCS3
+
+# Legal Information:
+
+We are not affiliated with Sony Interactive Entertainment (SIE) or any other game developers licensed by SIE. This project is purely for preservation/educational purposes, and our team doesn't accept ANY forms of donations.
+
+**All rights are reserved by Sony Interactive Entertainment Europe Limited, as well as the respective third-party companies responsible for implementing content into PlayStation®Home. Destination Home is working on PlayStation®Home as the adaptation of publicly leaked software, the usage of this software falling under abandonware due to the lack of copyright enforcement involving the tools. The online section of PlayStation®Home is protected by the laws implied by the Digital Millennium Copyright Act 17 U.S. Code § 1201 for the purpose of preservation, education and public viewing as a museum effort. That the teams focus is to reproduce the functionality once accessible and hosted by Sony, PlayStation®Home. Tools that are provided to us will be to our best ability given the utmost protection unless stated otherwise by the provider. Our focus is the protection of Sony copyright and intellectual property while following the goal of reproduction of online functionality, and do not claim any of this as our own.**
