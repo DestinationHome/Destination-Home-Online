@@ -15,6 +15,10 @@ This is a work in progress/template for when we have our production servers onli
 
 # Missing services/functions:
 
+- PlayStation Home Challenge Systems.
+- Clans/Clubs. 
+- Commerce Points for RPCS3.
+
 # Disclaimers:
 
 # How to play PlayStation®Home on PS3
