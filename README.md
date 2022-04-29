@@ -14,7 +14,7 @@ This is a work in progress/template for when we have our production servers onli
 # Goals:
 
 - Create a write-up on how users can reinstall Home on OFW.
-- Make a detailed write up of FAQ/Disclaimers.
+- Make a detailed write-up of FAQ/Disclaimers.
 - Be sure to review any final package files & RPCS3 builds.
 - Create a release page for our public client builds.
 
@@ -24,7 +24,7 @@ Despite the lengthy development on the Destination Home project, there will unfo
 
 # Working services & features:
 
-- Official Firmware support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/29/4, v4.88 is the latest firmware for PS3.`
+- Official Firmware support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/4/29, v4.88 is the latest firmware for PS3.`
 - We are using the [1.86 version of PlayStation®Home](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) for our production client.
 - Trophy support will be available on PS3. RPCS3 will use its equivalent service for handling trophies.
 - Rewards. `This includes furniture, clothing, apartments, etc.`
