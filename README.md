@@ -6,7 +6,6 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
 </p>
 
-
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
 
 This is a work in progress/template for when we have our production servers online.
@@ -36,6 +35,7 @@ Despite the lengthy development on the Destination Home project, there will unfo
 
 - Clans/Clubs. 
 - Commerce Points "Stores" for RPCS3.
+- PlayStation Network Matching2 Services will not be available for RPCS3.
 - [PlayStation Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
 
 
