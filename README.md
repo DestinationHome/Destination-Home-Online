@@ -19,7 +19,9 @@ This is a work in progress/template for when we have our production servers onli
 
 # Disclaimers:
 
-Despite the lengthy development on the Destination Home project, there will unfortunately still be some missing services & functions at or after release. These missing features will be documented in this thread. However, as time progress such services *may* come back to Home once the necessary backend implementations have been created for our production servers. In regards to minigames, unfortunately for certain titles
+Despite the lengthy development on the Destination Home project, there will unfortunately still be some missing services & functions at or after release. These missing features will be documented in this thread. However, as time progress such services *may* come back to Home once the necessary backend implementations have been created for our production servers.
+
+In regards to minigames, unfortunately for certain scenes not all minigames will work as it requires some extra attention/time for the Destination Home team to get such services up and running in a stable environment. For our beta launch, I've created a simple compatibility [list](https://github.com/DestinationHome/Destination-Home-Online/blob/1073c10863923ae1218968f9e7c5903172e9c0ed/PlayStationHome_Minigame_Compatibility_List/PlayStationHome_Minigame_Compatibility_List_Beta.csv) that documents which minigames fully work or not.
 
 # Working services & features:
 
