@@ -19,7 +19,7 @@ This is a work in progress/template for when we have our production servers onli
 
 # Disclaimers:
 
-Despite the lengthy development on the Destination Home project, there will unfortunately still be some missing services & functions at or after release. These missing features will be documented in this thread. However, as time progress such services *may* come back to Home once the necessary backend implementations have been created for our production servers. 
+Despite the lengthy development on the Destination Home project, there will unfortunately still be some missing services & functions at or after release. These missing features will be documented in this thread. However, as time progress such services *may* come back to Home once the necessary backend implementations have been created for our production servers. In regards to minigames, unfortunately for certain titles
 
 # Working services & features:
 
