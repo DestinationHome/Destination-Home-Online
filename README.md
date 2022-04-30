@@ -1,6 +1,6 @@
 # Destination-Home-Online
 
-Welcome to the official guide on how users can re-expierence [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/).
+Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/).
 
 <p align="center">
 <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
@@ -11,25 +11,25 @@ Welcome to the official guide on how users can re-expierence [PlayStation®Home]
 
 This is a work in progress/template for when we have our production servers online.
 
-# Goals
+# Goals:
 
-- Create a writeup on how users can reinstall Home on OFW.
-- Make a detailed write up of FAQ/Disclaimers.
+- Create a write-up on how users can reinstall Home on OFW.
+- Make a detailed write-up of FAQ/Disclaimers.
 - Be sure to review any final package files & RPCS3 builds.
 - Create a release page for our public client builds.
 
 # Disclaimers:
 
-As far as the development Destination Home project has come, unfortunately their will be some missing services & functions that will not be avaialble which will be documented in this thread. However, as time progress such services *may* come back to Home once we have created the necesarry back-end implementations for our production servers. 
+Despite the lengthy development on the Destination Home project, there will unfortunately still be some missing services & functions at or after release. These missing features will be documented in this thread. However, as time progress such services *may* come back to Home once the necessary backend implementations have been created for our production servers. 
 
-# Working services & features.
+# Working services & features:
 
-- Official Firmware Support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 4/29/2022 4.88 is the latest firmware for PS3.`
-- We are using the [1.86 version of PlayStation®Home](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) as our production client.
-- Trophy support will be available on PS3. RPCS3 will **not** have this function as this is an PSN service.
+- Official Firmware support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/4/29, v4.88 is the latest firmware for PS3.`
+- We are using the [1.86 version of PlayStation®Home](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) for our production client.
+- Trophy support will be available on PS3. RPCS3 will use its equivalent service for handling trophies.
 - Rewards. `This includes furniture, clothing, apartments, etc.`
-- Cross-regional support `Users can access all regional spaces despite their origin country that is connected to their PSN account. For instance a player who is from Japan can access North American scenes and vice versa.`
-- Users who have PlayStation Plus on PSN can have additional PS Plus Font colors for their ID's in game & have the ability to customize their avatars hair in any color. For more information about this feature, feel free to view the video [here]().
+- Cross-region support `Users can access all regional spaces despite the origin country connected to their PSN account. For instance, a player who is from Japan can access North American scenes and vice-versa.`
+- Users who have PlayStation Plus on PSN will have access to additional font colors for their IDs in game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video [here]().
 
 
 # Missing services/functions:
