@@ -19,7 +19,7 @@ This is a work in progress/template for when we have our production servers onli
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-ps3">How to play PlayStation®Home on PS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-rpcs3">How to play PlayStation®Home on RPCS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/edit/main/README.md#contact-me">Contact Me!</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/edit/main/README.md#%EF%B8%8F-joincheck-out-our-social-platforms">Join/Check out our social platforms</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#%EF%B8%8F-joincheck-out-our-social-platforms">Join/Check out our social platforms</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#legal-information">Legal Information</a>
 </p>
 
