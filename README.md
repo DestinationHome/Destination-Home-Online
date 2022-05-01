@@ -12,7 +12,7 @@ This is a work in progress/template for when we have our production servers onli
 
 <h1 align="center">📖 Table of Contents 📖</h1>
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#disclaimers">Disclaimers</a> |	
-<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#important-terminologiest">Important terminolgies!</a> |	
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#important-terminologies">Important terminolgies!</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#working-services--features">Working services & features</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#missing-servicesfunctions">Missing services/functions</a> |
 <a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#general-information-about-this-archive">Prerequisites for PlayStation 3 users</a> |	
