@@ -1,5 +1,5 @@
 Minigame Name:,Scene:,Current Status For PS3,Current Status For RPCS3,Notes:
-DanceDanceRevolution,Konami Penthouse,Medium Issues,Medium Issues,"Users can fully play DanceDanceRevolution in the following game modes: Solo, Group. Currently the Konami Leaderboard System along with the Twitter Board is defunct. Depending on your PC hardware, you might experience lag during the dance off session."
+DanceDanceRevolution,Konami Penthouse,Minor Issues,Minor Issues,"Users can fully play DanceDanceRevolution in the following game modes: Solo, Group. Currently the Konami Leaderboard System along with the Twitter Board is defunct. Depending on your PC hardware, you might experience lag during the dance off session."
 Dolphy Race,Hudson Gate,Playable,Playable,"Dolphy Race initaties where users can bet on different dolphins to receive prizes. Futhermore, users can bet win rewards just by entering this public scene. "
 Bomber Night Fever,Hudson Bomber Dome,Playable,Playable,The Bomber Night Fever minigame plays original Bomberman music as intended. 
 Survival Bomber,Hudson Bomber Dome,Playable,Playable,The Survival Bomber minigame allows up to 8-players to play in the same lobby. 
@@ -8,9 +8,9 @@ Loco Reversi,Loco Roco: MuiMui Ship,Playable,Playable,
 Domingo Race,Loco Roco: MuiMui Ship,Playable,Playable,
 Saucer Pop,Central Plaza,Minor Issues,Minor Issues,
 Bowling,Bowling Alley,Playable,Playable,Users will be able to play in the following game modes: Solo & Group for both PS3/RPCS3.
-,Bowling Alley,Playable,Minor Issues,MLA issues for RPCS3 turns int
-,,,Playable,
-,,,Playable,
+Ice Breaker,Bowling Alley,Playable,Major Issues,"MLA issues will arise for RPCS3 after users play Ice Breaker, after quiting the game."
+Scribble Shooter,Bowling Alley,Playable,Major Issues,"MLA issues will arise for RPCS3 after users play Ice Breaker, after quiting the game."
+Echochrome,Bowling Alley,Playable,Major Issues,"MLA issues will arise for RPCS3 after users play Ice Breaker, after quiting the game."
 ,,,Playable,
 ,,,Playable,
 ,,,Playable,
