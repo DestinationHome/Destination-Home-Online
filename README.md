@@ -11,17 +11,16 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 This is a work in progress/template for when we have our production servers online.
 
 <h1 align="center">📖 Table of Contents 📖</h1>
-
-
-<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#welcome-to-the-playstation-home-preservation-project">Welcome to the PlayStation Home Preservation Project!</a> |	
-<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#the-current-status-of-destination-homes-online-project">The current status of Destination Home's Online Project</a> |
-<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#observed-domainsurls">Observed Domains/URL's</a> |
-<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#general-information-about-this-archive">General information about this archive</a> |	
-<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#how-can-you-help-out-with-the-project">How can you help out with the project?</a> |
-<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#our-team-is-also-looking-for-any-developmentprod-qaalpha-betaretail-builds-of-playstation-home-and-the-following-other-data">Additional sought after PlayStation Home Data</a> |
-<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#contact-me">Contact Me!</a> |
-<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#%EF%B8%8F-joincheck-out-our-social-platforms">Join/Check out our social platforms</a> |
-<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#legal-information">Legal Information</a>
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#disclaimers">Disclaimers</a> |	
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#important-terminologiest">Important terminolgies!</a> |	
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#working-services--features">Working services & features</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#missing-servicesfunctions">Missing services/functions</a> |
+<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#general-information-about-this-archive">Prerequisites for PlayStation 3 users</a> |	
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-ps3">How to play PlayStation®Home on PS3</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-rpcs3">How to play PlayStation®Home on RPCS3</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/edit/main/README.md#contact-me">Contact Me!</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/edit/main/README.md#%EF%B8%8F-joincheck-out-our-social-platforms">Join/Check out our social platforms</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#legal-information">Legal Information</a>
 </p>
 
 # Goals:
@@ -56,7 +55,6 @@ This section will give a general synopsis of some key terminologies that I think
 - Cross-region support `Users can access all regional spaces despite the origin country connected to their PSN account. For instance, a player who is from Japan can access North American scenes and vice-versa.`
 - Users who have PlayStation Plus on PSN will have access to additional font colors for their IDs in-game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video [here]().
 
-
 # Missing services/functions:
 
 - Clans/Clubs. 
@@ -74,17 +72,22 @@ This section will give a general synopsis of some key terminologies that I think
 ⚠️ | Your PS3 needs to have a working Blu-ray drive with a working Wi-Fi Bluetooth module. In simplistic terms, your device disc drive should work as well as be able to connect to a network Wi-Fi connection regardless if it's wireless or by an ethernet cable. ```NOTE: IF YOUR PS3 HAS A BROKEN BluRay Drive or your Wi-Fi/BT adapter is broken STOP RIGHT NOW. Currently, there is no noBD HFW/HEN firmware at the moment for systems that have those issues stated. If you try to install HFW over a console that has a broken Blu-ray drive or a Wi-Fi/BT adapter it is possible that your system will be semi-bricked and stuck into a boot loop.```
 :---: | :---
 
-# How to play PlayStation®Home on PS3
+2. You will need a USB stick that is formatted to `FAT32`.
 
-- Note that the following guide will **require** you to be on either **HEN/HFW (Hybrid Firmware)** or **Custom firmware** to install our custom PlayStation®Home package file for PS3. The Destination Home Team extremely recommends for users convert back to OFW *Official Firmware*. 
+# How to play PlayStation®Home on PS3:
+
+Note that the following guide will **require** you to be on either **HEN/HFW (Hybrid Firmware)** or **Custom firmware** to install our custom PlayStation®Home package file for PS3. The Destination Home Team extremely recommends for users convert back to OFW *Official Firmware*. 
 
 In addition to this, users who **already** have PlayStation Home on their device should highly consider donating their data to the team as you will still need to download our custom package. By donating your PlayStation®Home data we can implement original Home content back into our online services. For more information on how you can help out the Destination Home Project check out the official guide PlayStation®Home Cache Extraction Guide [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/table-of-contents/updating-your-ps3-to-hybrid-firmware).
 
-Lastly, I also strongly suggest for users to 
+⚠️ | Lastly, I also strongly suggest for users to watch my [official latest HEN how-to video guide](https://www.youtube.com/watch?v=oJWhmBwlCcQ) as it covers all of the necessary steps to convert your official firmware system to HFW/HEN. ![YouTube Thumbnails (8)](https://user-images.githubusercontent.com/67494727/166142560-e4efbe78-ae59-40f2-936a-6c7c145ea7a6.png)
+:---: | :---
+
+<h1 align="center">Without further ado, lets get back 🏠</h1>
 
 1. Download the latest [PlayStation®Home 1.86 OFW patched PKG file]() and download it to any file directory on your computer.
 
-2. Download and install [qcma](https://codestation.github.io/qcma/), [psvimgtools](https://github.com/yifanlu/psvimgtools) and [pkg2zip](https://github.com/mmozeiko/pkg2zip) (check the releases section for the binaries).  
+2. Download and install
    If you don't know where to put psvimgtools and pkg2zip binaries, just put them in the `h-encore` folder.
 
 3. Download the vulnerable DRM-free demo of [bitter smile](http://ares.dl.playstation.net/cdn/JP0741/PCSG90096_00/xGMrXOkORxWRyqzLMihZPqsXAbAXLzvAdJFqtPJLAZTgOcqJobxQAhLNbgiFydVlcmVOrpZKklOYxizQCRpiLfjeROuWivGXfwgkq.pkg) (yes, that's the user entry point).
@@ -127,6 +130,28 @@ Lastly, I also strongly suggest for users to
 13. Enjoy. Note that you have to relaunch the exploit everytime you reboot or shutdown your device. Of course if you only put your device into standby mode, you don't need to relaunch.
 
 # How to play PlayStation®Home on RPCS3
+
+# Contact Me!
+<img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
+
+Have any questions about this release? Feel free to contact me at the following methods:
+
+* My Twitter: [NagatoRevenge](https://twitter.com/NagatoRevenge)
+* My Youtube Channel: [Nagato's Revenge](https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw)
+
+# ❤️ Join/Check out our social platforms:
+
+[![name](https://discordapp.com/api/guilds/621722473695805450/widget.png?style=banner2&raw=true)](https://discord.gg/QguSBT3)
+
+* [Destination Home Official Website](http://destinationho.me/)
+
+* [Destination Home Preservation `Alternative Discord Link`](https://discord.gg/QguSBT3)
+
+* [Destination Home Twitch Channel](https://www.twitch.tv/playstationhome/)
+
+* [Destination Home Official YouTube Channel](https://www.youtube.com/channel/UCQhwhFevEgsRqMTHof7FwPQ)
+
+* [Destination Home 1.86 Dev Offline Client Patches](https://github.com/NagatoDEV/Destination-Home-1.86-Offline-Client-Patches)
 
 # Legal Information:
 
