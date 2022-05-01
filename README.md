@@ -186,36 +186,36 @@ Now that you are on `ps3exploit.com` you want to hover over the `PS3HEN` tab. Wi
 
 ![Screenshot Network 3](https://user-images.githubusercontent.com/67494727/166166887-cb9d6124-159e-4e57-9363-d956d8984c71.png)
 
-**17** As for the next step you need to choose `Custom`, as the `Easy` option will not allow you to change your DNS to be a custom value. 
+**17.** As for the next step you need to choose `Custom`, as the `Easy` option will not allow you to change your DNS to be a custom value. 
 
 ![Screenshot_11](https://user-images.githubusercontent.com/67494727/166166919-e52e22f1-eda7-4455-88a1-27dc4f805e13.png)
 
 **18** Once you have connected to your `WLAN Settings` for your Home network, and you see the `IP Address Setting` pane, please select `Automatic`
 
-**19** When you are on the `DHCP Host Name setting` select the option `Do Not Set`.
+**19.** When you are on the `DHCP Host Name setting` select the option `Do Not Set`.
 
-**20** In the `DNS Setting` window, select the `Manual` option.
+**20.** In the `DNS Setting` window, select the `Manual` option.
 
 ![dns settings ps3](https://user-images.githubusercontent.com/67494727/166167771-d0a2ccc2-09f9-4c20-b206-f9d4ee78e3b3.png)
 
-**21** This step is `vital` for you to access our Home servers, you will need to enter the following information in the DNS options
+**21.** This step is `vital` for you to access our Home servers, you will need to enter the following information in the DNS options
 
 - **Primary DNS:**
 - **Secondary DNS:** 8.8.8.8
 
-**22** On the `MTU Setting` window, select the `Automatic` option.
+**22.** On the `MTU Setting` window, select the `Automatic` option.
 
 ![automatic MTU](https://user-images.githubusercontent.com/67494727/166167750-f5d05957-dadf-4f88-b3d5-d512d6e66a07.png)
 
-**23** On the `Do Not Use` window, select the `Do Not Use` option.
+**23.** On the `Do Not Use` window, select the `Do Not Use` option.
 
 ![DO NOT USE](https://user-images.githubusercontent.com/67494727/166167740-75afc960-dbbd-4f29-b2fe-6f2ec64497d5.png)
 
-**24** On the `UPnP` window, select the `Enable` option.
+**24.** On the `UPnP` window, select the `Enable` option.
 
 ![UPNP](https://user-images.githubusercontent.com/67494727/166167728-b71861d0-a80d-4bf1-80f0-37dcb4c859a0.png)
 
-**25** Lastly, confirm your networking settings & then sign back into PlayStation™Network. Once you are on PlayStation™Network, you should be able to finally replay PlayStation®Home on PS3!
+**25.** Lastly, confirm your networking settings & then sign back into PlayStation™Network. Once you are on PlayStation™Network, you should be able to finally replay PlayStation®Home on PS3!
 
 ![confirm your settingssssss](https://user-images.githubusercontent.com/67494727/166167725-71c487d2-bfd5-43fc-b0f2-1dad317e46a2.png)
 
