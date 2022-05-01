@@ -87,8 +87,14 @@ In addition to this, users who **already** have PlayStation Home on their device
 
 1. Download the latest [PlayStation®Home 1.86 OFW patched PKG file]() and download it to any file directory on your computer.
 
-2. Download and install
-   If you don't know where to put psvimgtools and pkg2zip binaries, just put them in the `h-encore` folder.
+2. Download and install the [latest version of Hybrid Firmware]() "HFW" which is 4.88 `As of 5/1/2022`.
+
+  ```
+   MD5 Hash for 4.88 HFW: 23F60BAF3C3D38BC77AA452E770D1248
+   ```
+
+⚠️ | IMPORTANT INFORMATION: PLEASE CHECK YOUR MD5 Hash before updating your console to avoid any bricks. By checking your MD5 hash, you can verify that your downloading the correct update and your firmware is not corrupt. You can use the [OnlineMD5](http://onlinemd5.com/) hash checker for this process. Please refer back to the [latest HEN tutorial](https://youtu.be/oJWhmBwlCcQ) if you need a reminder on how to check your MD5 hash.
+:---: | :---
 
 3. Download the vulnerable DRM-free demo of [bitter smile](http://ares.dl.playstation.net/cdn/JP0741/PCSG90096_00/xGMrXOkORxWRyqzLMihZPqsXAbAXLzvAdJFqtPJLAZTgOcqJobxQAhLNbgiFydVlcmVOrpZKklOYxizQCRpiLfjeROuWivGXfwgkq.pkg) (yes, that's the user entry point).
 
