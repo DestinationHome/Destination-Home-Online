@@ -1,24 +1,27 @@
 Minigame Name:,Scene:,Current Status For PS3,Current Status For RPCS3,Notes:
-DanceDanceRevolution,Konami Penthouse,Minor Issues,Minor Issues,"Users can fully play DanceDanceRevolution in the following game modes: Solo, Group. Currently the Konami Leaderboard System along with the Twitter Board is defunct. Depending on your PC hardware, you might experience lag during the dance off session."
-Dolphy Race,Hudson Gate,Playable,Playable,"Dolphy Race initaties where users can bet on different dolphins to receive prizes. Futhermore, users can bet win rewards just by entering this public scene. "
+Abduct The Earthling,Peakvox Labs,Minor Issues,Minor Issues,"Users can fully play DanceDanceRevolution in the following game modes: Solo, Group. Currently the Konami Leaderboard System along with the Twitter Board is defunct. Depending on your PC hardware, you might experience lag during the dance off session."
+Binoculars,Loco Roco: MuiMui Ship,Playable,Playable,"Dolphy Race initaties where users can bet on different dolphins to receive prizes. Futhermore, users can bet win rewards just by entering this public scene. "
 Bomber Night Fever,Hudson Bomber Dome,Playable,Playable,The Bomber Night Fever minigame plays original Bomberman music as intended. 
-Survival Bomber,Hudson Bomber Dome,Playable,Playable,The Survival Bomber minigame allows up to 8-players to play in the same lobby. 
-Binoculars,Loco Roco: MuiMui Ship,Playable,Playable,
-Loco Reversi,Loco Roco: MuiMui Ship,Playable,Playable,
+Bowling,Bowling Alley,Playable,Playable,The Survival Bomber minigame allows up to 8-players to play in the same lobby. 
+DanceDanceRevolution,Konami Penthouse,Playable,Playable,
+Dolphy Race,Hudson Gate,Playable,Playable,
 Domingo Race,Loco Roco: MuiMui Ship,Playable,Playable,
-Saucer Pop,Central Plaza,Minor Issues,Minor Issues,
-Bowling,Bowling Alley,Playable,Playable,Users will be able to play in the following game modes: Solo & Group for both PS3/RPCS3.
-Ice Breaker,Bowling Alley,Playable,Major Issues,"MLA issues will arise for RPCS3 after users play Ice Breaker, after quiting the game."
-Scribble Shooter,Bowling Alley,Playable,Major Issues,"MLA issues will arise for RPCS3 after users play Ice Breaker, after quiting the game."
-Echochrome,Bowling Alley,Playable,Major Issues,"MLA issues will arise for RPCS3 after users play Ice Breaker, after quiting the game."
-,,,Playable,
-,,,Playable,
-,,,Playable,
-,,,Playable,
-,,,Playable,
-,,,Playable,
-,,,Playable,
-,,,Playable,
+Echochrome,Bowling Alley,Minor Issues,Minor Issues,
+Escape The Virus,Peakvox Labs,Playable,Playable,Users will be able to play in the following game modes: Solo & Group for both PS3/RPCS3.
+Hammer The Virus,Peakvox Labs,Playable,Major Issues,MLA issues will arise for RPCS3 after users after quiting the game.
+Ice Breaker,Bowling Alley,Playable,Major Issues,MLA issues will arise for RPCS3 after users after quiting the game.
+Loco Reversi,Loco Roco: MuiMui Ship,Playable,Major Issues,MLA issues will arise for RPCS3 after users after quiting the game.
+L-Project,Peakvox Labs,Minor Issues,Minor Issues,This game requires a ticket system to launch.
+MotorStorm® Carrier Treasure Hunt,MotorStorm® Carrier,Minor Issues,Minor Issues,This game requires a ticket system to launch.
+MotorStorm® DJ Deck,MotorStorm® Carrier,Minor Issues,Minor Issues,This game requires a ticket system to launch.
+MotorStorm® Light Controls,MotorStorm® Carrier,Playable,Playable,Users can collect bacteria to cultivate new items and pets at Peakvox Labs. 
+MotorStorm® Lunatic Launcher,MotorStorm® Carrier,Inoperable,Inoperable,"Due to a non-implemented syscall function in RPCS3 #sys_net Syscalls, Web Browser functions will not work on RPCS3 for Home. As for PS3, the original webpage has not been archived."
+MotorStorm® Web Portal,MotorStorm® Carrier,Playable,Playable,All Stage Lights & Lasers functions are working as intended for both PS3/RPCS3.
+Saucer Pop,Central Plaza,Playable,Playable,All original music content has been implemented for the end-user. 
+Scribble Shooter,Bowling Alley,Playable,Major Issues,MLA issues will arise for RPCS3 after users after quiting the game.
+Survival Bomber,Hudson Bomber Dome,Playable,Playable,The Survival Bomber minigame allows up to 8-players to play in the same lobby.
+Shooting The Earthling,Peakvox Labs,Minor Issues,Minor Issues,This game requires a ticket system to launch.
+Abduction Simulator,Peakvox Labs,Minor Issues,Minor Issues,This game requires a ticket system to launch.
 ,,,Playable,
 ,,,Playable,
 ,,,Playable,
