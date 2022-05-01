@@ -15,7 +15,7 @@ This is a work in progress/template for when we have our production servers onli
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#important-terminologies">Important terminolgies!</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#working-services--features">Working services & features</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#missing-servicesfunctions">Missing services/functions</a> |
-<a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive#general-information-about-this-archive">Prerequisites for PlayStation 3 users</a> |	
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#prerequisites-for-playstation-3-users">Prerequisites for PlayStation 3 users</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-ps3">How to play PlayStation®Home on PS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-rpcs3">How to play PlayStation®Home on RPCS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/edit/main/README.md#contact-me">Contact Me!</a> |
