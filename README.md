@@ -45,6 +45,7 @@ This section will give a general synopsis of some key terminologies that I think
 - HEN: HEN stands for Homebrew Enabler, which sounds exactly like its primary function. It allows users to run homebrew!
 - OFW: In the context of PS3 **Official Firmware** or *OFW* for short can be detailed as the official OS/firmware that is distributed by a manufacturer in our case Sony. As of writing this guide `5/1/2022` version [4.88](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) is the latest PlayStation®3 System Software Update.
 - PKG files: The term *.PKG* or *Package files* can be used interchangeably. Package files contain critical game data that is installed onto a user's PS3 HDD. 
+- Rufus: **Rufus** is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.
 
 # Working services & features:
 
@@ -87,7 +88,7 @@ In addition to this, users who **already** have PlayStation Home on their device
 
 1. Download the latest [PlayStation®Home 1.86 OFW patched PKG file]() and download it to any file directory on your computer.
 
-2. Download and install the [latest version of Hybrid Firmware]() "HFW" which is 4.88 `As of 5/1/2022`.
+2. Download and install the [latest version of Hybrid Firmware](https://github.com/DestinationHome/Destination-Home-Online/releases/download/test/PS3UPDAT.PUP) "HFW" which is 4.88 `As of 5/1/2022`.
 
   ```
    MD5 Hash for 4.88 HFW: 23F60BAF3C3D38BC77AA452E770D1248
@@ -96,19 +97,33 @@ In addition to this, users who **already** have PlayStation Home on their device
 ⚠️ | IMPORTANT INFORMATION: PLEASE CHECK YOUR MD5 Hash before updating your console to avoid any bricks. By checking your MD5 hash, you can verify that your downloading the correct update and your firmware is not corrupt. You can use the [OnlineMD5](http://onlinemd5.com/) hash checker for this process. Please refer back to the [latest HEN tutorial](https://youtu.be/oJWhmBwlCcQ) if you need a reminder on how to check your MD5 hash.
 :---: | :---
 
-3. Download the vulnerable DRM-free demo of [bitter smile](http://ares.dl.playstation.net/cdn/JP0741/PCSG90096_00/xGMrXOkORxWRyqzLMihZPqsXAbAXLzvAdJFqtPJLAZTgOcqJobxQAhLNbgiFydVlcmVOrpZKklOYxizQCRpiLfjeROuWivGXfwgkq.pkg) (yes, that's the user entry point).
+3.The third step is to format your USB to `FAT32` with either Windows File Explorer or [Rufus](https://rufus.ie/en/). If your USB is already on `FAT32` you can skip this step. You can use this video [here](https://www.youtube.com/watch?v=Wg1aVe-PxT0), if you need a visual representation on how to correctly format your USB to FAT32 or you can use my [HEN tutorial](https://youtu.be/oJWhmBwlCcQ).
 
-4. Extract the demo using this command in terminal/cmd:
-   ```
-   pkg2zip -x PATH_OF_PKG
-   ```
+4. The fourth step is to drag the PlayStation®Home 1.86 OFW patched PKG file to the `root` of your USB device.
 
-   This will output the files to `app/PCSG90096`.
 
-5. Copy the contents of the output `app/PCSG90096` to the folder `h-encore/app/ux0_temp_game_PCSG90096_app_PCSG90096` (such that the files `eboot.bin` and `VITA_PATH.TXT` are within the same folder).
+5. Now that we are on file system `FAT32`, you will want to rename the HFW firmware to `PS3UPDAT.PUP`
 
-6. Copy the license file `app/PCSG90096/sce_sys/package/temp.bin` to the folder  
-   `h-encore/license/ux0_temp_game_PCSG90096_license_app_PCSG90096` and rename the just pasted file `temp.bin` to ` 6488b73b912a753a492e2714e9b38bc7.rif`. Be careful with the file extension, it should not be `.rif.bin`. Again, this file should be in the same folder as `VITA_PATH.TXT`.
+ℹ️ | Make sure that the filename is in all capital letters: `PS3UPDAT.PUP`
+:---: | :---
+
+ℹ️ | As well before installing the firmware on your PS3 please verify the MD5 has via with [OnlineMD5](http://onlinemd5.com/) hash. This is the MD5 Hash: `23F60BAF3C3D38BC77AA452E770D1248`
+:---: | :---
+
+⚠️ | NOT VERIFYING YOUR MD5 HASH CAN RESULT IN A BRICKED CONSOLE. 
+:---: | :---
+
+6. Step 6 deals with **Updating our console**. Now that your USB is now formatted to `FAT32` and has the update file you can now plug your USB into the rightmost USB port on your PS3 (The USB port that is nearest to your BluRay drive).
+
+ℹ️ | Make sure as well to disable your Wi-Fi connection and take any disc that might be in your PS3 BluRay drive. This ensures that you’re not downloading the latest live firmware from Sony's Servers for the PS3.
+:---: | :---
+
+ℹ️ | Now go into System Settings and Update via Storage Media. If you have done everything correctly, you should see the following screen:![121427753-14917180-c943-11eb-9bae-1c2ba0e28576](https://user-images.githubusercontent.com/67494727/166143719-f3f0757c-21b8-4eeb-93d2-abe5352ac218.png)
+:---: | :---
+
+ℹ️ | If you see this screen just click OK and proceed with the on-screen instructions. Once your PS3 has successfully updated we can start on step the next segment of this process which is activating **HEN Enabler**.
+:---: | :---
+
 
 7. Start qcma and within the qcma settings set the option `Use this version for updates` to `FW 0.00 (Always up-to-date)` to spoof the System Software check.
 
