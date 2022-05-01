@@ -143,9 +143,8 @@ In addition to this, users who **already** have PlayStation Home on their device
 - Make sure to `Delete Cache` and click `Yes` to confirm this setting.
 - Make sure to `Delete Authentication Information` to confirm this setting.
 
-**9.** Once all of the following settings have been initialized. Within the `Internet Browser` you want to go to [ps3xploit.com]
+**9.** Once all of the following settings have been initialized. Within the `Internet Browser` you want to go to [ps3xploit.com](http://ps3xploit.com/).
 
-(http://ps3xploit.com/).
 ![118725001-58d69980-b7fd-11eb-9134-4bef78ea0d68](https://user-images.githubusercontent.com/67494727/166163886-85866265-49d2-487b-9d19-0e7ea2350891.png)
 
 Now that you are on `ps3exploit.com` you want to hover over the `PS3HEN` tab. Within the PS3HEN tab, you want to select the `HEN Installer/Enabler` option. Once you have launched that option you should be redirected to the `PS3 HEN Installer page` which will download a file called `PS3HEN.p3t`
