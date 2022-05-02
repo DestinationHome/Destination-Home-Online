@@ -15,6 +15,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#important-terminologies">Important terminologies!</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#working-services--features">Working services & features</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#missing-servicesfunctions">Missing services/functions</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/edit/main/README.md#%EF%B8%8Fplaystation-home-minigame-compatibility-list">PlayStation®Home Minigame Compatibility List</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#prerequisites-for-playstation-3-users">Prerequisites for PlayStation 3 users</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-ps3">How to play PlayStation®Home on PS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-rpcs3">How to play PlayStation®Home on RPCS3</a> |
@@ -33,8 +34,6 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 # Disclaimers:
 
 Despite the lengthy development of the Destination Home project, there will unfortunately still be some missing services & functions at or after release. These missing features will be documented in this thread. However, as time progresses such services *may* come back to Home once the necessary backend implementations have been created for our production servers.
-
-In regards to minigames, unfortunately for certain scenes, not all minigames will work as it requires some extra attention/time for the Destination Home team to get such services up and running in a stable environment. For our beta launch, I've created a straightforward [compatibility list](https://github.com/DestinationHome/Destination-Home-Online/blob/1073c10863923ae1218968f9e7c5903172e9c0ed/PlayStationHome_Minigame_Compatibility_List/PlayStationHome_Minigame_Compatibility_List_Beta.csv) that documents which minigames fully work or not in alphabetical order (A-Z).
 
 # Important terminologies:
 
@@ -62,6 +61,12 @@ This section will give a general synopsis of some key terminologies that I think
 - Commerce Points "Stores" for RPCS3.
 - PlayStation™Network Matching2 Services will not be available for RPCS3.
 - [PlayStation®Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
+
+# 🕹️ PlayStation®Home Minigame Compatibility List:
+
+![NPIA00005_screenshot_2022_04_30_16_22_56](https://user-images.githubusercontent.com/67494727/166170289-8182e235-31be-4794-9fbb-303e93b5e579.png)
+
+In regards to minigames, unfortunately for certain scenes, not all minigames will work as it requires some extra attention/time for the Destination Home team to get such services up and running in a stable environment. For our beta launch, I've created a straightforward [compatibility list](https://github.com/DestinationHome/Destination-Home-Online/blob/1073c10863923ae1218968f9e7c5903172e9c0ed/PlayStationHome_Minigame_Compatibility_List/PlayStationHome_Minigame_Compatibility_List_Beta.csv) that documents which minigames fully work or not in alphabetical order (A-Z).
 
 # Prerequisites for PlayStation 3 users:
 
