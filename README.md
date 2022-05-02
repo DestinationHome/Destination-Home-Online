@@ -68,7 +68,7 @@ https://user-images.githubusercontent.com/67494727/166172201-69fa3657-f91f-4108-
 
 ![NPIA00005_screenshot_2022_04_30_16_22_56](https://user-images.githubusercontent.com/67494727/166170289-8182e235-31be-4794-9fbb-303e93b5e579.png)
 
-In regards to minigames, unfortunately for certain scenes, not all minigames will work as it requires some extra attention/time for the Destination Home team to get such services up and running in a stable environment. For our beta launch, I've created a straightforward [compatibility list](https://github.com/DestinationHome/Destination-Home-Online/blob/1073c10863923ae1218968f9e7c5903172e9c0ed/PlayStationHome_Minigame_Compatibility_List/PlayStationHome_Minigame_Compatibility_List_Beta.csv) that documents which minigames fully work or not in alphabetical order (A-Z).
+In regards to minigames, unfortunately for certain scenes, not all minigames will work as it requires some extra attention/time for the Destination Home team to get such services up and running in a stable environment. For our beta launch, I've created a straightforward [compatibility list](https://github.com/DestinationHome/Destination-Home-Online/blob/main/PlayStationHome_Minigame_Compatibility_List/PlayStationHome_Minigame_Compatibility_List_Beta.csv) that documents which minigames fully work or not in alphabetical order (A-Z).
 
 # 🕷️Notice critical bugs in PlayStation&Home? Here is how you can report them to the Destination Home Team!
 
