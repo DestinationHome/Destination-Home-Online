@@ -53,7 +53,9 @@ This section will give a general synopsis of some key terminologies that I think
 - Trophy support will be available on PS3. RPCS3 will use its equivalent service for handling trophies.
 - Rewards. `This includes furniture, clothing, apartments, etc.`
 - Cross-region support `Users can access all regional spaces despite the origin country connected to their PSN account. For instance, a player who is from Japan can access North American scenes and vice-versa.`
-- Users who have PlayStation Plus on PSN will have access to additional font colors for their IDs in-game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video [here]().
+- Users who have PlayStation®Plus on PSN will have access to additional font colors for their IDs in-game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video down below.
+
+https://user-images.githubusercontent.com/67494727/166172201-69fa3657-f91f-4108-bfd2-a163809472bf.mp4
 
 # Missing services/functions:
 
@@ -67,6 +69,14 @@ This section will give a general synopsis of some key terminologies that I think
 ![NPIA00005_screenshot_2022_04_30_16_22_56](https://user-images.githubusercontent.com/67494727/166170289-8182e235-31be-4794-9fbb-303e93b5e579.png)
 
 In regards to minigames, unfortunately for certain scenes, not all minigames will work as it requires some extra attention/time for the Destination Home team to get such services up and running in a stable environment. For our beta launch, I've created a straightforward [compatibility list](https://github.com/DestinationHome/Destination-Home-Online/blob/1073c10863923ae1218968f9e7c5903172e9c0ed/PlayStationHome_Minigame_Compatibility_List/PlayStationHome_Minigame_Compatibility_List_Beta.csv) that documents which minigames fully work or not in alphabetical order (A-Z).
+
+# 🕷️Notice critical bugs in PlayStation&Home? Here is how you can report them to the Destination Home Team!
+
+- As all with any major software project, even the best applications are known to have bugs, and PlayStation Home online is no exception. With that being said the Destination Home give serious consideration when it comes to stablility for our community. If you see any **critical bugs** please create a ticket/issue [here](https://github.com/DestinationHome/Destination-Home-Online/issues) on the official Destination Home Online repo. In order to fix bugs fast, we ask for users to provide as much documentation as possible. For instance:
+
+- What client are your using (RPCS3/PS3)?
+- Where did this bug occur? List the scene name.
+- Provide picutures/videos of the error occuring.
 
 # Prerequisites for PlayStation 3 users:
 
