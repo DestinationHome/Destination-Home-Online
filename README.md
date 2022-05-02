@@ -176,7 +176,7 @@ Now that you are on `ps3exploit.com` you want to hover over the `PS3HEN` tab. Wi
 
 **12.** Once you see the `Welcome to HEN 3.03 message` you can exit out of the `Internet Browser`. Once you have exited the browser, you should see a package `.pkg file` being downloaded to your PS3. The file is 11MB and is called `Latest_HEN_Installer_signed.pkg` Let this package file be fully installed before restarting your PS3.
 
-![Screenshot_10](https://user-images.githubusercontent.com/67494727/166164349-be67ff1d-8dbe-428a-89c6-b61379fb5f15.png)
+![Latest HEN installer signed pkg](https://user-images.githubusercontent.com/67494727/166173568-5a64d822-d1e0-4a6c-95fd-1d893f5e6095.png)
 
 **13.** Once you start back up your PS3 head over to the `Game` column you should see 2 new options on your XMB which is `★ Enable HEN` & `★ Package Manager`. If you have these 2 new options that means HEN has been successfully installed.
 
