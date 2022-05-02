@@ -15,7 +15,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#important-terminologies">Important terminologies!</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#working-services--features">Working services & features</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#missing-servicesfunctions">Missing services/functions</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/edit/main/README.md#%EF%B8%8Fplaystation-home-minigame-compatibility-list">PlayStation®Home Minigame Compatibility List</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#%EF%B8%8F-playstationhome-minigame-compatibility-list">PlayStation®Home Minigame Compatibility List</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#prerequisites-for-playstation-3-users">Prerequisites for PlayStation 3 users</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-ps3">How to play PlayStation®Home on PS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-rpcs3">How to play PlayStation®Home on RPCS3</a> |
