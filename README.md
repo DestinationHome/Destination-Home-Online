@@ -63,9 +63,10 @@ https://user-images.githubusercontent.com/67494727/166172201-69fa3657-f91f-4108-
 - [ ] [Clans/Clubs](https://playstation.fandom.com/wiki/Clubs). 
 - [ ] Commerce Points "Stores" for RPCS3.
 - [ ] [Inspect Feature for Avatars](https://blog.playstation.com/2013/09/18/new-to-playstation-home-inspect-items/).
-- [ ] [Teleporter System for core scenes](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) e.g., **The Hub, First Floor Mall, Pier Park**.
+- [ ] [Quest Manager](https://www.engadget.com/2011-08-23-playstation-home-relaunches-this-fall-with-a-questing-system-th.htm).
 - [ ] PlayStation™Network Matching2 Services will not be available for RPCS3.
 - [ ] [PlayStation®Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
+- [ ] [Teleporter System for core scenes](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) e.g., **The Hub, First Floor Mall, Pier Park**.
 
 # 🕹️ PlayStation®Home Minigame Compatibility List:
 
@@ -256,8 +257,6 @@ Then go to `System Update` > `Update via Storage Media`. Next, follow the on-scr
 ℹ️ | As referenced from the official RPCS3 Quickstart [page](https://rpcs3.net/quickstart) in regards to **recommended desktop PC requirements** RPCS3 developers have mentioned the following disclaimer "_The hardware requirements for running the emulator vary depending on your current configuration. We have listed the minimum and recommend hardware requirements below. For the best experience, users should be running within the recommended requirements. We cannot guarantee the performance of system specifications below the recommended requirements but you're always welcome to experiment._![Screenshot_3](https://user-images.githubusercontent.com/67494727/166646462-f395f08c-889e-4b69-83e7-0a24809cdeb8.png)![Screenshot_4](https://user-images.githubusercontent.com/67494727/166646466-2c626d96-5822-48c7-8f3e-8c828ee75407.png)
 :---: | :---
 
-ℹ️ | In order to play PlayStation®Home on RPCS3 you will need to utilize our **custom client** as we have made critical changes that are not in the core RPCS3 build. Our custom client has implemented new functions in order for online to work for the end user. 
-:---: | :---
 
 ℹ️ | RPCS3 users will need to be whitelisted before accessing our servers. To get whitelisted please join our official discord here for more information.
 :---: | :---
