@@ -1,6 +1,6 @@
 # Destination-Home-Online
 
-Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/).
+Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page in our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our our Community Manager will post the latest news in regards to new Home updates.
 
 <h1 align="center">🌐 Destination Home Public DNS Setting: </h1>
 
