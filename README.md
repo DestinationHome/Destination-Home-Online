@@ -18,7 +18,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#%EF%B8%8F-playstationhome-minigame-compatibility-list">PlayStation®Home Minigame Compatibility List</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#prerequisites-for-playstation-3-users">Prerequisites for PlayStation 3 users</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-ps3">How to play PlayStation®Home on PS3</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-ps3">Prerequisites for RPCS3</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online#prerequisites-for-rpcs3-users">Prerequisites for RPCS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-rpcs3">How to play PlayStation®Home on RPCS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#contact-me">Contact Me!</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#%EF%B8%8F-joincheck-out-our-social-platforms">Join/Check out our social platforms</a> |
@@ -77,9 +77,11 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 
 - As all with any major software project, even the best applications are known to have bugs, and PlayStation Home online is no exception. With that being said the Destination Home gives serious consideration when it comes to stability for our community. If you see any **critical bugs** please create a ticket/issue [here](https://github.com/DestinationHome/Destination-Home-Online/issues) on the official Destination Home Online repo. In order to fix bugs fast, we ask for users to provide as much documentation as possible. For instance:
 
-- What client are your using (RPCS3/PS3)?
-- Where did this bug occur? List the scene name.
-- Provide pictures/videos of the error occurring.
+  - What client are your using (RPCS3/PS3)?
+  - Where did this bug occur? List the scene name.
+  - Provide pictures/videos of the error occurring.
+  
+- If you see an a issue topic that has already **been documented** please refrain from creating another report/thread as this will cause confusion for the development team.
 
 # Prerequisites for PlayStation 3 users:
 
