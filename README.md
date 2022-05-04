@@ -237,7 +237,7 @@ Now that you are on `ps3exploit.com` you want to hover over the `PS3HEN` tab. Wi
 
 <h2 align="center">🔄 Reverting back to Official Firmware</h2>
 
-**26.** As stated before Official Firmware is the safest way to play PlayStation®Home as running any kind of *Custom firmware* you are at risk to get banned on PlayStation™Network. The Destination Home is not responsible for any accounts that may get banned for you using your account on custom firmware, as we have made it clear on the best option for our community to play Home. To revert back to OFW simply, just [download](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) the latest PS3 System Software version and place the PS3UPDAT.PUP file, in the following directory: 
+**26.** As stated before Official Firmware is the safest way to play PlayStation®Home as running any kind of *Custom firmware* you are at risk to get banned on PlayStation™Network. The Destination Home is not responsible for any accounts that may get banned for you using your account on custom firmware, as we have made it clear on the best option for our community to play Home. To revert back to OFW simply, just [download](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) the latest PS3 System Software version and place the **PS3UPDAT.PUP** file, in the following directory: 
 
 ```
 PS3/UPDATE/PS3UPDAT.PUP
