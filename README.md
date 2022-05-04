@@ -1,6 +1,6 @@
 # Destination-Home-Online
 
-Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page in our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our our Community Manager will post the latest news in regards to new Home updates.
+Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager will post the latest news in regards to new Home updates.
 
 <h1 align="center">🌐 Destination Home Public DNS Setting: </h1>
 
@@ -18,6 +18,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#%EF%B8%8F-playstationhome-minigame-compatibility-list">PlayStation®Home Minigame Compatibility List</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#prerequisites-for-playstation-3-users">Prerequisites for PlayStation 3 users</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-ps3">How to play PlayStation®Home on PS3</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-ps3">Prerequisites for RPCS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#how-to-play-playstationhome-on-rpcs3">How to play PlayStation®Home on RPCS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#contact-me">Contact Me!</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#%EF%B8%8F-joincheck-out-our-social-platforms">Join/Check out our social platforms</a> |
@@ -37,7 +38,7 @@ Despite the lengthy development of the Destination Home project, there will unfo
 
 # Important terminologies:
 
-This section will give a general synopsis of some key terminologies that I think are important for users who might be new to the PS3 modding scene.
+This section will give a general synopsis of some key terminologies that I think are important for users who might be new to the PS3 console modding scene.
 
 - CFW: **Custom Firmware** or *CFW* for short allows you to run unsigned code/homebrew on your PS3 system.
 - HFW: **Hybrid Firmware** or *HFW* for short allows the end-user to run unsigned code/homebrew on your PS3 system. As a side note users will need to have HFW & HEN enabled in order to install PlayStation Home.
@@ -74,7 +75,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 
 # 🕷️Notice critical bugs in PlayStation&Home? Here is how you can report them to the Destination Home Team!
 
-- As all with any major software project, even the best applications are known to have bugs, and PlayStation Home online is no exception. With that being said the Destination Home give serious consideration when it comes to stablility for our community. If you see any **critical bugs** please create a ticket/issue [here](https://github.com/DestinationHome/Destination-Home-Online/issues) on the official Destination Home Online repo. In order to fix bugs fast, we ask for users to provide as much documentation as possible. For instance:
+- As all with any major software project, even the best applications are known to have bugs, and PlayStation Home online is no exception. With that being said the Destination Home gives serious consideration when it comes to stability for our community. If you see any **critical bugs** please create a ticket/issue [here](https://github.com/DestinationHome/Destination-Home-Online/issues) on the official Destination Home Online repo. In order to fix bugs fast, we ask for users to provide as much documentation as possible. For instance:
 
 - What client are your using (RPCS3/PS3)?
 - Where did this bug occur? List the scene name.
@@ -87,7 +88,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 ⚠️ | Be sure to verify that your PS3 USB slots are functioning for this process. You can plug in a `FAT32 USB` stick to test if both USBs are working. If you see your PS3 USB stick under the video/music icon in XMB, that means the PlayStation 3 can read your external USB drive just fine.
 :---: | :---
 
-⚠️ | Your PS3 needs to have a working Blu-ray drive with a working Wi-Fi Bluetooth module. In simplistic terms, your device disc drive should work as well as be able to connect to a network Wi-Fi connection regardless if it's wireless or by an ethernet cable. ```NOTE: IF YOUR PS3 HAS A BROKEN BluRay Drive or your Wi-Fi/BT adapter is broken STOP RIGHT NOW. Currently, there is no noBD HFW/HEN firmware at the moment for systems that have those issues stated. If you try to install HFW over a console that has a broken Blu-ray drive or a Wi-Fi/BT adapter it is possible that your system will be semi-bricked and stuck into a boot loop.```
+⚠️ | Your PS3 needs to have a working Blu-ray drive with a working Wi-Fi Bluetooth module. In simplistic terms, your device disc drive should work as well as be able to connect to a network Wi-Fi connection regardless if it's wireless or by an ethernet cable. ```NOTE: IF YOUR PS3 HAS A BROKEN Blu-ray Drive or your Wi-Fi/BT adapter is broken STOP RIGHT NOW. Currently, there is no noBD HFW/HEN firmware at the moment for systems that have those issues stated. If you try to install HFW over a console that has a broken Blu-ray drive or a Wi-Fi/BT adapter it is possible that your system will be semi-bricked and stuck into a boot loop.```
 :---: | :---
 
 **2.** You will need a USB Flash Drive that is formatted to `FAT32`.
@@ -123,15 +124,15 @@ In addition to this, users who **already** have PlayStation Home on their device
 ℹ️ | Make sure that the filename is in all capital letters: `PS3UPDAT.PUP`
 :---: | :---
 
-ℹ️ | As well before installing the firmware on your PS3 please verify the MD5 hash via with [OnlineMD5](http://onlinemd5.com/) hash. This is the MD5 Hash: `23F60BAF3C3D38BC77AA452E770D1248`
+ℹ️ | As well before installing the firmware on your PS3 please verify the MD5 hash via [OnlineMD5](http://onlinemd5.com/) hash. This is the MD5 Hash: `23F60BAF3C3D38BC77AA452E770D1248`
 :---: | :---
 
 ⚠️ | NOT VERIFYING YOUR MD5 HASH CAN RESULT IN A BRICKED CONSOLE. 
 :---: | :---
 
-**6.** Step 6 deals with **Updating our console**. Now that your USB is now formatted to `FAT32` and has the update file you can now plug your USB into the rightmost USB port on your PS3 (The USB port that is nearest to your BluRay drive).
+**6.** Step 6 deals with **Updating our console**. Now that your USB is now formatted to `FAT32` and has the update file you can now plug your USB into the rightmost USB port on your PS3 (The USB port that is nearest to your Blu-ray drive).
 
-ℹ️ | Make sure as well to disable your Wi-Fi connection and take any disc that might be in your PS3 BluRay drive. This ensures that you’re not downloading the latest live firmware from Sony's Servers for the PS3.
+ℹ️ | Make sure as well to disable your Wi-Fi connection and take any disc that might be in your PS3 Blu-ray drive. This ensures that you’re not downloading the latest live firmware from Sony's Servers for the PS3.
 :---: | :---
 
 ℹ️ | Now go into System Settings and Update via Storage Media. If you have done everything correctly, you should see the following screen:![121427753-14917180-c943-11eb-9bae-1c2ba0e28576](https://user-images.githubusercontent.com/67494727/166143719-f3f0757c-21b8-4eeb-93d2-abe5352ac218.png)
@@ -156,7 +157,7 @@ In addition to this, users who **already** have PlayStation Home on their device
 - `Confirm Browser Close` turn this setting `Off`
 - `Home Page` make sure to set this setting as `Blank Page`
 - Make sure to `Delete Cookies` and click `Yes` to confirm this setting.
-- Make sure to `Delete Search History` and click `Yes`to confirm this setting.
+- Make sure to `Delete Search History` and click `Yes` to confirm this setting.
 - Make sure to `Delete Cache` and click `Yes` to confirm this setting.
 - Make sure to `Delete Authentication Information` to confirm this setting.
 
@@ -245,7 +246,21 @@ PS3/UPDATE/PS3UPDAT.PUP
 
 Then go to `System Update` > `Update via Storage Media`. Next, follow the on-screen prompt to complete the update. Once your system has successfully updated, you will still be able to PlayStation®Home normal.
 
-# How to play PlayStation®Home on RPCS3
+# Prerequisites for RPCS3 users:
+
+ℹ️ | In order to play PlayStation®Home on RPCS3, you will need to utilize our **custom client** as we have made critical changes that are not in the core RPCS3 build. Our custom client has implemented new functions in order for online to work for the end-user. 
+:---: | :---
+
+ℹ️ | As referenced from the official RPCS3 Quickstart [page](https://rpcs3.net/quickstart) in regards to **recommended desktop PC requirements** RPCS3 developers have mentioned the following disclaimer "_The hardware requirements for running the emulator vary depending on your current configuration. We have listed the minimum and recommend hardware requirements below. For the best experience, users should be running within the recommended requirements. We cannot guarantee the performance of system specifications below the recommended requirements but you're always welcome to experiment._![Screenshot_3](https://user-images.githubusercontent.com/67494727/166646462-f395f08c-889e-4b69-83e7-0a24809cdeb8.png)![Screenshot_4](https://user-images.githubusercontent.com/67494727/166646466-2c626d96-5822-48c7-8f3e-8c828ee75407.png)
+:---: | :---
+
+ℹ️ | In order to play PlayStation®Home on RPCS3 you will need to utilize our **custom client** as we have made critical changes that are not in the core RPCS3 build. Our custom client has implemented new functions in order for online to work for the end user. 
+:---: | :---
+
+ℹ️ | RPCS3 users will need to be whitelisted before accessing our servers. To get whitelisted please join our official discord here for more information.
+:---: | :---
+
+# How to play PlayStation®Home on RPCS3:
 
 # Contact Me!
 <img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
