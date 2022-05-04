@@ -59,12 +59,12 @@ https://user-images.githubusercontent.com/67494727/166172201-69fa3657-f91f-4108-
 
 # Missing services/functions:
 
-- Clans/Clubs. 
-- Commerce Points "Stores" for RPCS3.
-- [Inspect Feature for Avatars](https://blog.playstation.com/2013/09/18/new-to-playstation-home-inspect-items/).
-- Teleporter System for core scenes e.g., _The Hub, First Floor Mall, Pier Park.
-- PlayStation™Network Matching2 Services will not be available for RPCS3.
-- [PlayStation®Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
+- [ ] Clans/Clubs. 
+- [ ] Commerce Points "Stores" for RPCS3.
+- [ ] [Inspect Feature for Avatars](https://blog.playstation.com/2013/09/18/new-to-playstation-home-inspect-items/).
+- [ ] Teleporter System for core scenes e.g., _The Hub, First Floor Mall, Pier Park.
+- [ ] PlayStation™Network Matching2 Services will not be available for RPCS3.
+- [ ] [PlayStation®Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
 
 # 🕹️ PlayStation®Home Minigame Compatibility List:
 
