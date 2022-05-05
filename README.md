@@ -23,6 +23,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-PS3:">How to play PlayStation®Home on PS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-RPCS3-users:">Prerequisites for RPCS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-RPCS3:">How to play PlayStation®Home on RPCS3</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%86%98-How-can-you-help-out-the-Destination-Home-Team%3F">How can you help out the Destination Home Team?</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Contact-Me!">Contact Me!</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-Join-Check-out-our-social-platforms:"</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Legal-Information:">Legal Information</a>
