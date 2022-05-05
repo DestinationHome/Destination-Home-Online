@@ -33,11 +33,12 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 
 To keep this README.md file concise & straight-forward I decided to make a official dedicated [wiki](https://github.com/DestinationHome/Destination-Home-Online/wiki) which has a full write-up on how users can access PlayStation®Home online with our custom server solution. To download our latest online client builds please check out the release page [here](https://github.com/DestinationHome/Destination-Home-Online/releases). Down below here are the minimum requirements you'll need for this process.
 
-| Requirements For PS3  | Requirements For RPCS3 |
+| Requirements For PS3: | Requirements For RPCS3: |
 | ------------- | ------------- |
 | A [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3) | A PC that supports the [recommened hardware requirements](https://rpcs3.net/quickstart) for running the emulator.   |
 | A [PlayStation™Network Account](https://www.playstation.com/en-us/playstation-network/) | [RPCN Account](https://wiki.rpcs3.net/index.php?title=Help:Netplay) |
 | The latest PlayStation Home Online client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). | The latest custom RPCS3 PlayStation Home Client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). |
+| An active network connection. | An active network connection. |
 
 # Working services & features:
 
