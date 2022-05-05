@@ -11,7 +11,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
 
 <h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Disclaimers:">Quickstart: </a> |	
+<a href="https://github.com/DestinationHome/Destination-Home-Online/blob/main/README.md#quickstart">Quickstart: </a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Disclaimers:">Disclaimers</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Important-terminologies:">Important terminologies!</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Working-services-&-features:">Working services & features</a> |
