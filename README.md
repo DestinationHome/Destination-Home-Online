@@ -26,8 +26,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 <h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Disclaimers:">Disclaimers</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-FAQ-(Frequently-Asked-Questions)">Destination Home Online FAQ</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-Community-Code-of-Conduct:">Destination Home Online Community Code of Conduct:</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-Community-Code-of-Conduct:">Destination Home Online Community Code of Conduct:</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-Community-Code-of-Conduct:">Destination Home Online Community 
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Important-terminologies:">Important terminologies!</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Missing-services-functions:">Missing services/functions</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%95%B9%EF%B8%8F-PlayStation%C2%AEHome-Minigame-Compatibility-List:">PlayStation®Home Minigame Compatibility List</a> |
