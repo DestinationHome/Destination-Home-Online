@@ -26,11 +26,13 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 <h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Disclaimers:">Disclaimers</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-FAQ-(Frequently-Asked-Questions)">Destination Home Online FAQ</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-Community-Code-of-Conduct:">Destination Home Online Community Code of Conduct:</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-Community-Code-of-Conduct:">Destination Home Online Community Code of Conduct:</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Important-terminologies:">Important terminologies!</a> |	
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Working-services-&-features:">Working services & features</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Missing-services-functions:">Missing services/functions</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%95%B9%EF%B8%8F-PlayStation%C2%AEHome-Minigame-Compatibility-List:">PlayStation®Home Minigame Compatibility List</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/PlayStation%C2%AEHome-Public-Spaces:">PlayStation®Home Public Space List</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/PlayStation%C2%AEHome-Public-Spaces">PlayStation®Home Public Space List</a> |
+<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/PlayStation%C2%AEHome-Private-Spaces">PlayStation®Home Private Space List</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%95%B7%EF%B8%8F-Notice-critical-bugs-in-PlayStation%C2%AEHome%3F-Here-is-how-you-can-report-them-to-the-Destination-Home-Team!">Notice critical bugs in PlayStation®Home?</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-PlayStation-3-users:">Prerequisites for PlayStation 3 users</a> |	
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-PS3:">How to play PlayStation®Home on PS3</a> |
@@ -41,6 +43,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-Join-Check-out-our-social-platforms:"</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Legal-Information:">Legal Information</a>
 </p>
+
 
 # Quickstart: 
 
