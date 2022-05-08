@@ -1,6 +1,6 @@
 # Destination-Home-Online WIP 
 
-Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager will post the latest news in regards to new Home updates. For all things related to PlayStation®Home, we have created a comprhensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document on how users can access our services.
+Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager will post the latest news in regards to new Home updates. For all things related to PlayStation®Home, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
 
 ![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
 
@@ -46,7 +46,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 
 # Quickstart: 
 
-To keep this README.md file concise & straight-forward I decided to make a official dedicated [wiki](https://github.com/DestinationHome/Destination-Home-Online/wiki) which has a full write-up on how users can access PlayStation®Home online with our custom server solution. To download our latest online client builds please check out the release page [here](https://github.com/DestinationHome/Destination-Home-Online/releases). Down below here are the minimum requirements you'll need for this process.
+To keep this README.md file concise & straightforward I decided to make an official dedicated [wiki](https://github.com/DestinationHome/Destination-Home-Online/wiki) which has a full write-up on how users can access PlayStation®Home online with our custom server solution. To download our latest online client builds please check out the release page [here](https://github.com/DestinationHome/Destination-Home-Online/releases). Down below here are the minimum requirements you'll need for this process.
 
 | Requirements For PS3: | Requirements For RPCS3: |
 | ------------- | ------------- |
