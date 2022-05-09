@@ -114,6 +114,12 @@ Have any questions about this release? Feel free to contact me at the following 
 
 * [Destination Home 1.86 Dev Offline Client Patches](https://github.com/NagatoDEV/Destination-Home-1.86-Offline-Client-Patches)
 
+# Credits/Special Thanks:
+
+- Thanks to the Destination Home/PlayStation Home community for donating much needed data! Without you guys this preservation project wouldn't be online nor archived for educational purposes.
+- Thanks to the [RPCS3](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
+- Thank you Sony/PlayStation for creating this awe-inspiring Social World!
+
 # Legal Information:
 
 We are not affiliated with Sony Interactive Entertainment (SIE) or any other game developers licensed by SIE. This project is purely for preservation/educational purposes, and our team doesn't accept ANY forms of donations.
