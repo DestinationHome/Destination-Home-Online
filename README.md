@@ -32,18 +32,51 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
 
+
 <h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Disclaimers">Disclaimers</a> |	
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-FAQ-(Frequently-Asked-Questions)">Destination Home Online FAQ</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-Community-Code-of-Conduct">Destination Home Online Community Code of Conduct</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Important-terminologies">Important terminologies!</a> |	
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Missing-services-functions">Missing services/functions</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%95%B9%EF%B8%8F-PlayStation%C2%AEHome-Minigame-Compatibility-List">PlayStation®Home Minigame Compatibility List</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/PlayStation%C2%AEHome-Public-Spaces">PlayStation®Home Public Space List</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/PlayStation%C2%AEHome-Private-Spaces">PlayStation®Home Private Space List</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%95%B7%EF%B8%8F-Notice-critical-bugs-in-PlayStation%C2%AEHome%3F-Here-is-how-you-can-report-them-to-the-Destination-Home-Team!">Notice critical bugs in PlayStation®Home?</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-PlayStation-3-users">Prerequisites for PlayStation 3 users</a> |	
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-PS3">How to play PlayStation®Home on PS3</a> |
+
+<p align="center">
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Disclaimers">
+        <img src="https://img.shields.io/badge/-Disclaimers-ff0018"
+            alt="Diclaimers"></a>
+     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-FAQ-(Frequently-Asked-Questions)">
+        <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20FAQ-0995d3"
+            alt="Destination Home Online FAQ"></a>
+     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-Community-Code-of-Conduct">
+        <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20Community%20Code%20of%20Conduct-21cb69"
+            alt="Destination Home Online Community Code of Conduct"></a>
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Important-terminologies">
+        <img src="https://img.shields.io/badge/-Important%20Terminologies-1d5dd2"
+            alt="Important terminologies!"></a>
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Missing-services-functions">
+        <img src="https://img.shields.io/badge/-Missing%20Services%2FFunctions-e99c23"
+            alt="Missing services/functions"></a>
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%95%B9%EF%B8%8F-PlayStation%C2%AEHome-Minigame-Compatibility-List">
+        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Minigame%20Compatibility%20List%20-fcf414"
+            alt="PlayStation®Home Minigame Compatibility List"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/PlayStation%C2%AEHome-Public-Spaces">
+        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Public%20Space%20List-750de0"
+            alt="PlayStation®Home Public Space List"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/PlayStation%C2%AEHome-Public-Spaces">
+        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Private%20Space%20List-03c1b1"
+            alt="PlayStation®Home Private Space List"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%95%B7%EF%B8%8F-Notice-critical-bugs-in-PlayStation%C2%AEHome%3F-Here-is-how-you-can-report-them-to-the-Destination-Home-Team!">
+        <img src="https://img.shields.io/badge/-%F0%9F%95%B7%EF%B8%8F%20Notice%20critical%20bugs%20in%20PlayStation%26Home%3F%20Here%20is%20how%20you%20can%20report%20them%20to%20the%20Destination%20Home%20Team!-f4732d"
+       alt="Notice critical bugs in PlayStation®Home?"></a>
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-PlayStation-3-users">
+        <img src="https://img.shields.io/badge/-Prerequisites%20for%20PlayStation%203%20users-df7578"
+            alt="Prerequisites for PlayStation 3 users"></a>          
+      
+  <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-PS3">
+        <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-00273a"
+            alt="How to play PlayStation®Home on PS3"></a>
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-PS3">
+        <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-00273a"
+            alt="How to play PlayStation®Home on PS3"></a>
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-RPCS3-users">
+        <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20RPCS3-5b4dc3"
+            alt="Prerequisites for RPCS33"></a>
+
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-RPCS3-users">Prerequisites for RPCS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-RPCS3">How to play PlayStation®Home on RPCS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%86%98-How-can-you-help-out-the-Destination-Home-Team%3F">How can you help out the Destination Home Team?</a> |
