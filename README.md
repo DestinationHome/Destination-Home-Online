@@ -74,8 +74,11 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
         <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-00273a"
             alt="How to play PlayStation®Home on PS3"></a>
     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-RPCS3-users">
-        <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20RPCS3-5b4dc3"
-            alt="Prerequisites for RPCS33"></a>
+        <img src="https://img.shields.io/badge/-Prerequisites%20for%20RPCS3-5b4dc3"
+            alt="Prerequisites for RPCS3"></a>
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-RPCS3">
+        <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-5b4dc3"
+            alt="How to play PlayStation®Home on RPCS3"></a>
 
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-RPCS3-users">Prerequisites for RPCS3</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-RPCS3">How to play PlayStation®Home on RPCS3</a> |
