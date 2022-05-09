@@ -5,6 +5,8 @@
     <a href="https://github.com/DestinationHome/Destination-Home-Online/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/DestinationHome/Destination-Home-Online" /></a>
     <a href="https://twitter.com/DestinPsHome">
+         <img src="https://img.shields.io/github/stars/DestinationHome/Destination-Home-Online"
+            alt="Github Star Tracker"></a>
         <img src="https://img.shields.io/twitter/follow/DestinPsHome?style=social&logo=twitter"
             alt="Follow us on Twitter"></a>
        <a href="https://www.twitch.tv/playstationhome/videos">
