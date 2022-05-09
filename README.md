@@ -75,18 +75,18 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-RPCS3">
         <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-5b4dc3"
             alt="How to play PlayStation®Home on RPCS3"></a>
-  
         <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%86%98-How-can-you-help-out-the-Destination-Home-Team%3F">
         <img src="https://img.shields.io/badge/-How%20can%20you%20help%20out%20the%20Destination%20Home%20Team%3F-72b3783"
             alt="How can you help out the Destination Home Team?"></a>
-
-
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%86%98-How-can-you-help-out-the-Destination-Home-Team%3F">How can you help out the Destination Home Team?</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Contact-Me!">Contact Me!</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-Join-Check-out-our-social-platforms"</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Legal-Information">Legal Information</a>
-</p>
-
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Contact-Me">
+        <img src=" https://img.shields.io/badge/-Contact%20Me!-b32940"
+            alt="Contact Me!"></a>
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-Join-Check-out-our-social-platforms">
+        <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20Join%2FCheck%20out%20our%20social%20platforms-001eff"
+            alt="❤️ Join/Check out our social platforms"></a>
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Legal-Information">
+        <img src="https://img.shields.io/badge/-Legal%20Information-29190f"
+            alt="Legal Information"></a>
 
 # Quickstart: 
 
