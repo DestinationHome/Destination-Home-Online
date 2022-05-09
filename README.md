@@ -7,8 +7,9 @@
     <a href="https://twitter.com/DestinPsHome">
          <img src="https://img.shields.io/github/stars/DestinationHome/Destination-Home-Online"
             alt="Github Star Tracker"></a>
+  <a href="https://twitter.com/destinpshome?lang=en">
         <img src="https://img.shields.io/twitter/follow/DestinPsHome?style=social&logo=twitter"
-            alt="Follow us on Twitter"></a>
+             alt="Follow us on Twitter"></a>
        <a href="https://www.twitch.tv/playstationhome/videos">
         <img src="https://img.shields.io/badge/Follow%20us%20on-Twitch-8048fa"
             alt="Follow us on Twitch"></a>
@@ -113,7 +114,7 @@ To keep this README.md file concise & straightforward I decided to make an offic
 - Cross-region support `Users can access all regional spaces despite the origin country connected to their PSN account. For instance, a player who is from Japan can access North American scenes and vice-versa.`
 - Users who have PlayStation®Plus on PSN will have access to additional font colors for their IDs in-game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video down below.
 
-https://user-images.githubusercontent.com/67494727/166172201-69fa3657-f91f-4108-bfd2-a163809472bf.mp4
+https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/README/Media/ps_plus_features.mp4
 
 # Missing services/functions:
 
@@ -129,7 +130,7 @@ https://user-images.githubusercontent.com/67494727/166172201-69fa3657-f91f-4108-
 
 ![NPIA00005_screenshot_2022_04_30_16_22_56](https://user-images.githubusercontent.com/67494727/166170289-8182e235-31be-4794-9fbb-303e93b5e579.png)
 
-In regards to minigames, unfortunately for certain scenes, not all minigames will work as it requires some extra attention/time for the Destination Home team to get such services up and running in a stable environment. For our beta launch, I've created a straightforward [compatibility list](https://github.com/DestinationHome/Destination-Home-Online/blob/main/PlayStationHome_Minigame_Compatibility_List/PlayStationHome_Minigame_Compatibility_List_Beta.csv) that documents which minigames fully work or not in alphabetical order (A-Z).
+In regards to minigames, unfortunately for certain scenes, not all minigames will work as it requires some extra attention/time for the Destination Home team to get such services up and running in a stable environment. For our beta launch, I've created a straightforward [compatibility list](https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/WIKI/minigame_compatibility_beta.csv) that documents which minigames fully work or not in alphabetical order (A-Z).
 
 # 🕷️Notice critical bugs in PlayStation&Home? Here is how you can report them to the Destination Home Team!
 
