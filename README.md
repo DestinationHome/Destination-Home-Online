@@ -395,6 +395,7 @@ Have any questions about this release? Feel free to contact me at the following 
 </table>
 
 - Thanks to the [RPCS3](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
+- Thanks to the [PS3Xploit Team](https://github.com/PS3Xploit) for creating the lovely [HEN exploit](https://github.com/PS3Xploit/PS3HEN) (PS3 Homebrew ENabler) on PS3! 
 - Thank you Sony/PlayStation for creating this awe-inspiring Social World!
 
 # Legal Information:
