@@ -4,7 +4,7 @@
   <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
     <a href="https://github.com/DestinationHome/Destination-Home-Online/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/DestinationHome/Destination-Home-Online" /></a>
-    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
+    <a href="https://twitter.com/DestinPsHome">
         <img src="https://img.shields.io/twitter/follow/DestinPsHome?style=social&logo=twitter"
             alt="Follow us on Twitter"></a>
        <a href="https://www.twitch.tv/playstationhome/videos">
