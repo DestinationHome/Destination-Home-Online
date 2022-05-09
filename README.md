@@ -65,12 +65,8 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
        alt="Notice critical bugs in PlayStation®Home?"></a>
        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-PlayStation-3-users">
         <img src="https://img.shields.io/badge/-Prerequisites%20for%20PlayStation%203%20users-df7578"
-            alt="Prerequisites for PlayStation 3 users"></a>          
-      
+            alt="Prerequisites for PlayStation 3 users"></a>           
   <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-PS3">
-        <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-00273a"
-            alt="How to play PlayStation®Home on PS3"></a>
-    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-PS3">
         <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-00273a"
             alt="How to play PlayStation®Home on PS3"></a>
     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-RPCS3-users">
@@ -79,9 +75,12 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-RPCS3">
         <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-5b4dc3"
             alt="How to play PlayStation®Home on RPCS3"></a>
+  
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%86%98-How-can-you-help-out-the-Destination-Home-Team%3F">
+        <img src="https://img.shields.io/badge/-How%20can%20you%20help%20out%20the%20Destination%20Home%20Team%3F-72b3783"
+            alt="How can you help out the Destination Home Team?"></a>
 
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-RPCS3-users">Prerequisites for RPCS3</a> |
-<a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-RPCS3">How to play PlayStation®Home on RPCS3</a> |
+
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%86%98-How-can-you-help-out-the-Destination-Home-Team%3F">How can you help out the Destination Home Team?</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Contact-Me!">Contact Me!</a> |
 <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-Join-Check-out-our-social-platforms"</a> |
