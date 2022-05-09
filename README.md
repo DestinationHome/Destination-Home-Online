@@ -1,4 +1,25 @@
-# Destination-Home-Online WIP 
+# Destination Home Online WIP 
+
+<p align="center">
+  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/DestinationHome/Destination-Home-Online" /></a>
+    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
+        <img src="https://img.shields.io/twitter/follow/DestinPsHome?style=social&logo=twitter"
+            alt="Follow us on Twitter"></a>
+       <a href="https://www.twitch.tv/playstationhome/videos">
+        <img src="https://img.shields.io/badge/Follow%20us%20on-Twitch-8048fa"
+            alt="Follow us on Twitch"></a>
+         <a href="https://www.youtube.com/channel/UCQhwhFevEgsRqMTHof7FwPQ">
+        <img src="https://img.shields.io/badge/Follow%20us%20on-YouTube-ff0000"
+            alt="Follow us on YouTube"></a>
+           <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki">
+        <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%20%7C%20Get%20Started%20by%20following%20our%20quick--start%20guide-0995d3"
+            alt="🌐 Destination Home Public DNS Setting: | Get Started by following our quick-start guide"></a>
+  
+We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your PlayStation®Home cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
+
+# Brief Synopsis
 
 Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager will post the latest news in regards to new Home updates. For all things related to PlayStation®Home, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
 
