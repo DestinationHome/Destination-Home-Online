@@ -24,7 +24,7 @@ We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org
 
 # Brief Synopsis:
 
-Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager will post the latest news in regards to new Home updates. For all things related to PlayStation®Home, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
+Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager [**Figment**](https://github.com/PSHFigment) will post the latest news in regards to new Home updates. For all things related to PlayStation®Home, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
 
 ![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
 
