@@ -25,22 +25,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 
 ![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
 
-<h1 align="center">🌐 Destination Home Public DNS Setting: *Soon to be announced.*</h1>
-
-<p align="center">
-
-</p>
-
-</p>
-<p align="center">
-  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
-    <a href="https://github.com/DestinationHome/Destination-Home-Online/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/DestinationHome/Destination-Home-Online" /></a>
-    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
-        <img src="https://img.shields.io/twitter/follow/DestinPsHome?style=social&logo=twitter"
-            alt="Follow us on Twitter"></a>
-  
-</p>
+# <h1 align="center">🌐 Destination Home Public DNS Setting: *Soon to be announced.*</h1>
 
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
 
