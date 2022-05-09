@@ -80,6 +80,12 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
             alt="How can you help out the Destination Home Team?"></a>
         <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Contact-Me">
         <img src="https://img.shields.io/badge/-Contact%20Me!-b32940"
+            alt="How can you help out the Destination Home Team?"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Meet-The-Destination-Home-Development-Team">
+        <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Meet%20The%20Destination%20Home%20Development%20Team-583cc2"
+           alt="Meet The Destination Home Development Team"></a>
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Contact-Me">
+        <img src="https://img.shields.io/badge/-Contact%20Me!-b32940"
             alt="Contact Me!"></a>
        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-Join-Check-out-our-social-platforms">
         <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20Join%2FCheck%20out%20our%20social%20platforms-001eff"
