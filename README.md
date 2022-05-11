@@ -4,7 +4,7 @@
   <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
     <a href="https://github.com/DestinationHome/Destination-Home-Online/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/DestinationHome/Destination-Home-Online" /></a>
-    <a href="https://twitter.com/DestinPsHome">
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/stargazers">
          <img src="https://img.shields.io/github/stars/DestinationHome/Destination-Home-Online"
             alt="Github Star Tracker"></a>
   <a href="https://twitter.com/destinpshome?lang=en">
