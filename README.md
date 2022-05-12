@@ -55,7 +55,7 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
         <img src="https://img.shields.io/badge/-Important%20Terminologies-1d5dd2"
             alt="Important terminologies!"></a>
    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A4-%7C-Working-Services-&-Features">
-        <img src="https://img.shields.io/badge/-Working%20Services%20%26%20Features-brightgreen"
+        <img src="https://img.shields.io/badge/%E2%9C%94-Working%20Services%20%26%20Features-lightgrey"
             alt="Working Services & Functions"></a>
       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A5-%7C-Missing-Services-&-Functions">
         <img src="https://img.shields.io/badge/-Missing%20Services%2FFunctions-e99c23"
