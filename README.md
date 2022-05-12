@@ -60,12 +60,13 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A6-%7C-%F0%9F%95%B9%EF%B8%8F-PlayStation%C2%AEHome-Minigame-Compatibility-List">
         <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Minigame%20Compatibility%20List%20-fcf414"
             alt="PlayStation®Home Minigame Compatibility List"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/PlayStation%C2%AEHome-Public-Spaces">
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0%E2%85%A0%E2%85%A0-%7C-PlayStation%C2%AEHome-Public-Spaces">
         <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Public%20Space%20List-750de0"
             alt="PlayStation®Home Public Space List"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0%E2%85%A0%E2%85%A0-%7C-PlayStation%C2%AEHome-Public-Spaces">
-        <img src="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A3-%7C-PlayStation%C2%AEHome-Private-Spaces"
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A3-%7C-PlayStation%C2%AEHome-Private-Spaces">
+        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Private%20Space%20List-03c1b1"
             alt="PlayStation®Home Private Space List"></a>
+  
         <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A7-%7C-%F0%9F%95%B7%EF%B8%8F-Notice-critical-bugs-in-PlayStation%C2%AEHome%3F-Here-is-how-you-can-report-them-to-the-Destination-Home-Team!">
         <img src="https://img.shields.io/badge/-%F0%9F%95%B7%EF%B8%8F%20Notice%20critical%20bugs%20in%20PlayStation%26Home%3F%20Here%20is%20how%20you%20can%20report%20them%20to%20the%20Destination%20Home%20Team!-f4732d"
        alt="Notice critical bugs in PlayStation®Home?"></a>
