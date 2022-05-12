@@ -42,58 +42,61 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 <h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
 
 <p align="center">
-      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Disclaimers">
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A0-%7C-Disclaimers">
         <img src="https://img.shields.io/badge/-Disclaimers-ff0018"
             alt="Diclaimers"></a>
-     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-FAQ-(Frequently-Asked-Questions)">
-        <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20FAQ-0995d3"
-            alt="Destination Home Online FAQ"></a>
-     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Destination-Home-Online-Community-Code-of-Conduct">
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct">
         <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20Community%20Code%20of%20Conduct-21cb69"
             alt="Destination Home Online Community Code of Conduct"></a>
-    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Important-terminologies">
+     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A2-%7C-Destination-Home-Online-FAQ-(Frequently-Asked-Questions)">
+        <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20FAQ-0995d3"
+            alt="Destination Home Online FAQ"></a>
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A3-%7C-Important-terminologies">
         <img src="https://img.shields.io/badge/-Important%20Terminologies-1d5dd2"
             alt="Important terminologies!"></a>
-      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Missing-services-functions">
+   <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A4-%7C-Working-Services-&-Features">
+        <img src="https://img.shields.io/badge/-Working%20Services%20%26%20Features-brightgreen"
+            alt="Working Services & Functions"></a>
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A5-%7C-Missing-Services-&-Functions">
         <img src="https://img.shields.io/badge/-Missing%20Services%2FFunctions-e99c23"
             alt="Missing services/functions"></a>
-      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%95%B9%EF%B8%8F-PlayStation%C2%AEHome-Minigame-Compatibility-List">
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A6-%7C-%F0%9F%95%B9%EF%B8%8F-PlayStation%C2%AEHome-Minigame-Compatibility-List">
         <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Minigame%20Compatibility%20List%20-fcf414"
             alt="PlayStation®Home Minigame Compatibility List"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/PlayStation%C2%AEHome-Public-Spaces">
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0%E2%85%A0%E2%85%A0-%7C-PlayStation%C2%AEHome-Public-Spaces">
         <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Public%20Space%20List-750de0"
             alt="PlayStation®Home Public Space List"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/PlayStation%C2%AEHome-Public-Spaces">
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A3-%7C-PlayStation%C2%AEHome-Private-Spaces">
         <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Private%20Space%20List-03c1b1"
             alt="PlayStation®Home Private Space List"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%95%B7%EF%B8%8F-Notice-critical-bugs-in-PlayStation%C2%AEHome%3F-Here-is-how-you-can-report-them-to-the-Destination-Home-Team!">
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A7-%7C-%F0%9F%95%B7%EF%B8%8F-Notice-critical-bugs-in-PlayStation%C2%AEHome%3F-Here-is-how-you-can-report-them-to-the-Destination-Home-Team!">
         <img src="https://img.shields.io/badge/-%F0%9F%95%B7%EF%B8%8F%20Notice%20critical%20bugs%20in%20PlayStation%26Home%3F%20Here%20is%20how%20you%20can%20report%20them%20to%20the%20Destination%20Home%20Team!-f4732d"
        alt="Notice critical bugs in PlayStation®Home?"></a>
-       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-PlayStation-3-users">
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0-%7C-Prerequisites-for-RPCS3-users">
         <img src="https://img.shields.io/badge/-Prerequisites%20for%20PlayStation%203%20users-df7578"
             alt="Prerequisites for PlayStation 3 users"></a>           
-  <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-PS3">
+  <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9-%7C-How-to-play-PlayStation%C2%AEHome-on-PS3">
         <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-00273a"
             alt="How to play PlayStation®Home on PS3"></a>
-    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Prerequisites-for-RPCS3-users">
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0-%7C-Prerequisites-for-RPCS3-users">
         <img src="https://img.shields.io/badge/-Prerequisites%20for%20RPCS3-5b4dc3"
             alt="Prerequisites for RPCS3"></a>
-      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/How-to-play-PlayStation%C2%AEHome-on-RPCS3">
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0%E2%85%A0-%7C-How-to-play-PlayStation%C2%AEHome-on-RPCS3">
         <img src="https://img.shields.io/badge/-How%20to%20play%20PlayStation%C2%AEHome%20on%20PS3-5b4dc3"
             alt="How to play PlayStation®Home on RPCS3"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%F0%9F%86%98-How-can-you-help-out-the-Destination-Home-Team%3F">
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4-%7C-%F0%9F%86%98-How-can-you-help-out-the-Destination-Home-Team%3F">
         <img src="https://img.shields.io/badge/-How%20can%20you%20help%20out%20the%20Destination%20Home%20Team%3F-72b3783"
             alt="How can you help out the Destination Home Team?"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Meet-The-Destination-Home-Development-Team">
+        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0%E2%85%A0-%7C-Meet-The-Destination-Home-Development-Team">
         <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Meet%20The%20Destination%20Home%20Development%20Team-583cc2"
            alt="Meet The Destination Home Development Team"></a>
-    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Contact-Me">
+    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0-%7C-Contact-Me!">
         <img src="https://img.shields.io/badge/-Contact%20Me!-b32940"
             alt="Contact Me!"></a>
-       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-Join-Check-out-our-social-platforms">
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-%7C--Join-Check-out-our-social-platforms">
         <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20Join%2FCheck%20out%20our%20social%20platforms-001eff"
             alt="❤️ Join/Check out our social platforms"></a>
-       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/Legal-Information">
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9A%96%EF%B8%8F-%7C-Legal-Information">
         <img src="https://img.shields.io/badge/-Legal%20Information-29190f"
             alt="Legal Information"></a>
 
@@ -319,7 +322,7 @@ Have any questions about this release? Feel free to contact me at the following 
     </tr>
     <tr>
         <td>Postal Dude</td>
-        <td>PsychoLavos Tristen</td>
+        <td>PsychoLavos (Tristan)</td>
         <td>PyrmaidHead</td>
         <td>QuackCocaines</td>
         <td>R4M_Shadow_Realm</td>
