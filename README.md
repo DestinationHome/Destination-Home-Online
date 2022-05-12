@@ -45,12 +45,12 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A0-%7C-Disclaimers">
         <img src="https://img.shields.io/badge/-Disclaimers-ff0018"
             alt="Diclaimers"></a>
+       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct">
+        <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20Community%20Code%20of%20Conduct-21cb69"
+            alt="Destination Home Online Community Code of Conduct"></a>
      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A2-%7C-Destination-Home-Online-FAQ-(Frequently-Asked-Questions)">
         <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20FAQ-0995d3"
             alt="Destination Home Online FAQ"></a>
-     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct">
-        <img src="https://img.shields.io/badge/-Destination%20Home%20Online%20Community%20Code%20of%20Conduct-21cb69"
-            alt="Destination Home Online Community Code of Conduct"></a>
     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A3-%7C-Important-terminologies">
         <img src="https://img.shields.io/badge/-Important%20Terminologies-1d5dd2"
             alt="Important terminologies!"></a>
@@ -320,7 +320,7 @@ Have any questions about this release? Feel free to contact me at the following 
     </tr>
     <tr>
         <td>Postal Dude</td>
-        <td>PsychoLavos Tristen</td>
+        <td>PsychoLavos (Tristan)</td>
         <td>PyrmaidHead</td>
         <td>QuackCocaines</td>
         <td>R4M_Shadow_Realm</td>
