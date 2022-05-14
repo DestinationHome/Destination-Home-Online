@@ -120,7 +120,7 @@ To keep this README.md file concise & straightforward I decided to make an offic
 - Cross-region support `Users can access all regional spaces despite the origin country connected to their PSN account. For instance, a player who is from Japan can access North American scenes and vice-versa.`
 - Users who have PlayStation®Plus on PSN will have access to additional font colors for their IDs in-game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video down below.
 
-https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/README/Media/ps_plus_features.mp4
+https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-afbe-388c5d9e10c9.mp4
 
 # Missing services/functions:
 
