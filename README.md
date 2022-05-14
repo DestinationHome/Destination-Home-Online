@@ -388,7 +388,7 @@ Have any questions about this release? Feel free to contact me at the following 
     <tr>
         <td>𝙚𝙭𝙤𝙚𝙮</td>
         <td>⛧⸸ Ruby ⸸⛧</td>
-        <td></td>
+        <td>Hackster57</td>
         <td></td>
         <td></td>
         <td></td>
