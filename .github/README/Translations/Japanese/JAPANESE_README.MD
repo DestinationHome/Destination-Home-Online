@@ -1,4 +1,4 @@
-# <h1 align="center">**Destination Home Online × Welcome Back to PlayStation®Home! | WIP**</h1>
+# <h1 align="center">**Destination Home Online × PlayStation®Home へようこそ! | WIP**</h1>
 
 ![NPIA00005_screenshot_2022_05_11_21_44_06](https://user-images.githubusercontent.com/67494727/168069489-c990264d-8946-4319-b305-370bdce93fa3.png)
 
@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
             alt="PlayStation Home Cache Extraction Guide"></a>
   
-We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your PlayStation®Home cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
+私たちは、ゲーム史の保存と教育のために、[PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home)の本来のオンライン機能を回復させることを目的としたチームです。[PlayStation®Home](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)のキャッシュデータは、こちらから寄付することができます。  
   
 # Multi-Languange Support for this write-up/readme | WIP 🚧:
   
