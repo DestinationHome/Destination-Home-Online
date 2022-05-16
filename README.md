@@ -28,14 +28,14 @@
   
 We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your PlayStation®Home cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
   
-# multilingual Support for this write-up | WIP 🚧:
+# Multilingual Support for this write-up | WIP 🚧:
   
  ![NPIA00005_screenshot_2022_03_20_18_47_40](https://user-images.githubusercontent.com/67494727/168452608-85bec567-b692-4086-a731-80d04503042c.png)
   
 - To view this README page in other languages here are the following supported languages that have been translated by our extraordinary contributors/moderation team:
   
    - [Italian]()  | Special thanks to [Sidereus](https://twitter.com/__Sidereus__) for this translation contribution. 
-   - [French]()  | Special thanks to [Marion](https://twitter.com/Marion4GF) for this translation contribution.
+   - [French](https://github.com/DestinationHome/Destination-Home-Online-French)  | Special thanks to [Marion](https://twitter.com/Marion4GF) & [TreezZ#8905](https://discord.com/users/975683809200721920) for this translation contribution.
    - [Japanese](https://github.com/DestinationHome/Destination-Home-Online-Japan)  | Special thanks to [piyo](https://twitter.com/piyopiy80151704) for this translation contribution.
   
  ℹ️ | For users who want to translate this README page in order to support our ever-developing community you can contact me via [Twitter](https://twitter.com/NagatoRevenge) for more information! 
@@ -402,7 +402,7 @@ Have any questions about this release? Feel free to contact me at the following 
         <td>𝙚𝙭𝙤𝙚𝙮</td>
         <td>⛧⸸ Ruby ⸸⛧</td>
         <td>Hackster57</td>
-        <td></td>
+        <td>Willay</td>
         <td></td>
         <td></td>
         <td></td>
