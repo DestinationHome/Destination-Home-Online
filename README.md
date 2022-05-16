@@ -166,8 +166,16 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 
 Have any questions about this release? Feel free to contact me at the following methods:
 
-* My Twitter: [NagatoRevenge](https://twitter.com/NagatoRevenge)
-* My Youtube Channel: [Nagato's Revenge](https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw)
+  <p align="center">
+    <a href="https://twitter.com/NagatoRevenge">
+      <img src="https://img.shields.io/twitter/follow/NagatoRevenge?style=social&logo=twitter"
+         alt="Official Nagato Revenge Twitter"></a>
+   <a href="https://discordapp.com/users/975698824196657182">
+        <img src="https://img.shields.io/badge/My%20Discord-Nagato%239038-5865F2"
+            alt="Official Nagato Discord ID"></a>
+    <a href="https://www.youtube.com/channel/UCXgz1g5ET8Un9gax-nGMjMw">
+        <img src="https://img.shields.io/badge/My%20YouTube%20Channel-Nagato's%20Revenge-ff0000"
+            alt="Official Nagato Revenge YouTube Channel"></a>
 
 # ❤️ Join/Check out our social platforms:
 
