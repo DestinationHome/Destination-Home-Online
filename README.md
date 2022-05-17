@@ -119,7 +119,7 @@ To keep this README.md file concise & straightforward I decided to make an offic
 
 | Requirements For PS3: | Requirements For RPCS3: |
 | ------------- | ------------- |
-| A [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3). | A PC that supports the [recommened hardware requirements](https://rpcs3.net/quickstart) for running the emulator.   |
+| A [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3). | A PC that supports the [recommended hardware requirements](https://rpcs3.net/quickstart) for running the emulator.   |
 | A [PlayStation™Network Account](https://www.playstation.com/en-us/playstation-network/). | [RPCN Account](https://wiki.rpcs3.net/index.php?title=Help:Netplay). |
 | The latest PlayStation Home Online client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). | The latest custom RPCS3 PlayStation Home Client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). |
 | An active network connection. | An active network connection. |
