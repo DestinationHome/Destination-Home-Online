@@ -411,7 +411,7 @@ Have any questions about this release? Feel free to contact me at the following 
         <td>⛧⸸ Ruby ⸸⛧</td>
         <td>Hackster57</td>
         <td>Willay</td>
-        <td></td>
+        <td>Exitium82</td>
         <td></td>
         <td></td>
         <td></td>
