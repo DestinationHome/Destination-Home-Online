@@ -34,7 +34,7 @@ We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org
   
 - To view this README page in other languages here are the following supported languages that have been translated by our extraordinary contributors/moderation team:
   
-   - [Italian]()  | Special thanks to [Sidereus](https://twitter.com/__Sidereus__) for this translation contribution. 
+   - [Italian](https://github.com/DestinationHome/Destination-Home-Online-Italy)  | Special thanks to [Sidereus](https://twitter.com/__Sidereus__) for this translation contribution. 
    - [French](https://github.com/DestinationHome/Destination-Home-Online-French)  | Special thanks to [Marion](https://twitter.com/Marion4GF) & [TreezZ#8905](https://discordapp.com/users/605516950054895633) for this translation contribution.
    - [Japanese](https://github.com/DestinationHome/Destination-Home-Online-Japan)  | Special thanks to [piyo](https://twitter.com/piyopiy80151704) for this translation contribution.
   
