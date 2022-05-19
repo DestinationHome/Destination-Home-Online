@@ -178,19 +178,22 @@ Have any questions about this release? Feel free to contact me at the following 
             alt="Official Nagato Revenge YouTube Channel"></a>
 
 # ❤️ Join/Check out our social platforms:
-
-[![name](https://discordapp.com/api/guilds/621722473695805450/widget.png?style=banner2&raw=true)](https://discord.gg/QguSBT3)
-
-* [Destination Home Official Website](http://destinationho.me/)
-
-* [Destination Home Preservation `Alternative Discord Link`](https://discord.gg/QguSBT3)
-
-* [Destination Home Twitch Channel](https://www.twitch.tv/playstationhome/)
-
-* [Destination Home Official YouTube Channel](https://www.youtube.com/channel/UCQhwhFevEgsRqMTHof7FwPQ)
-
-* [Destination Home 1.86 Dev Offline Client Patches](https://github.com/NagatoDEV/Destination-Home-1.86-Offline-Client-Patches)
-
+    
+<p align="center">
+  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a
+ <a href="http://destinationho.me/">
+    <img src="Https://img.shields.io/badge/-Destination%20Home%20Official%20Website-0995d3"
+         alt="Destination Home Online Official Website"></a>
+  <a href="https://www.twitch.tv/playstationhome/videos">
+    <img src="https://img.shields.io/badge/Follow%20us%20on-Twitch-8048fa"
+         alt="Follow us on Twitch"></a>
+  <a href="https://www.youtube.com/channel/UCQhwhFevEgsRqMTHof7FwPQ">
+      <img src="https://img.shields.io/badge/Follow%20us%20on-YouTube-ff0000"
+            alt="Follow us on YouTube"></a>
+    <a href="https://github.com/NagatoDEV/Destination-Home-1.86-Offline-Client-Patches">
+      <img src="https://img.shields.io/badge/GitHub-Destination%20Home%201.86%20Dev%20Offline%20Client%20Patches-lightgrey"
+            alt="Destination Home 1.86 Offline Client Patches"></a>
+ 
 # Credits/Special Thanks:
 
 - Thanks to the Destination Home/PlayStation Home community for donating much needed data! Without you guys this preservation project wouldn't be online nor archived for educational purposes.
