@@ -181,7 +181,7 @@ Have any questions about this release? Feel free to contact me at the following 
     
 <p align="center">
   <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a
- <a href="http://destinationho.me/">
+  <a href="http://destinationho.me/">
     <img src="Https://img.shields.io/badge/-Destination%20Home%20Official%20Website-0995d3"
          alt="Destination Home Online Official Website"></a>
   <a href="https://www.twitch.tv/playstationhome/videos">
