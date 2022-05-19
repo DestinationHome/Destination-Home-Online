@@ -126,12 +126,12 @@ To keep this README.md file concise & straightforward I decided to make an offic
 
 # Working services & features:
 
-- Official Firmware support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/4/29, v4.88 is the latest firmware for PS3.`
-- We are using the [1.86 version of PlayStation®Home](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) for our production client.
-- Trophy support will be available on PS3. RPCS3 will use its equivalent service for handling trophies.
-- Rewards. `This includes furniture, clothing, apartments, etc.`
-- Cross-region support `Users can access all regional spaces despite the origin country connected to their PSN account. For instance, a player who is from Japan can access North American scenes and vice-versa.`
-- Users who have PlayStation®Plus on PSN will have access to additional font colors for their IDs in-game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video down below.
+- [x] Official Firmware support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/4/29, v4.88 is the latest firmware for PS3.`
+- [x]  We are using the [1.86 version of PlayStation®Home](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) for our production client.
+- [x] Trophy support will be available on PS3. RPCS3 will use its equivalent service for handling trophies.
+- [x] Rewards. `This includes furniture, clothing, apartments, etc.`
+- [x] Cross-region support `Users can access all regional spaces despite the origin country connected to their PSN account. For instance, a player who is from Japan can access North American scenes and vice-versa.`
+- [x] Users who have PlayStation®Plus on PSN will have access to additional font colors for their IDs in-game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video down below.
 
 https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-afbe-388c5d9e10c9.mp4
 
