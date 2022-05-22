@@ -126,7 +126,7 @@ To keep this README.md file concise & straightforward I decided to make an offic
 
 # Working services & features:
 
-- [x] Official Firmware support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/4/29, v4.88 is the latest firmware for PS3.`
+- [x] Official Firmware support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/5/22, v4.89 is the latest firmware for PS3.`
 - [x]  We are using the [1.86 version of PlayStation®Home](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) for our production client.
 - [x] Trophy support will be available on PS3. RPCS3 will use its equivalent service for handling trophies.
 - [x] Rewards. `This includes furniture, clothing, apartments, etc.`
@@ -415,9 +415,9 @@ Have any questions about this release? Feel free to contact me at the following 
         <td>Hackster57</td>
         <td>Willay</td>
         <td>Exitium82</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>StillRio</td>
+        <td>jaimer23</td>
+        <td>AXM</td>
         <td></td>
         <td></td>
         <td></td>
