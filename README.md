@@ -28,7 +28,14 @@
   
 We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your PlayStation®Home cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
   
-# Multilingual Support for this write-up | WIP 🚧:
+# What's PlayStation Home?
+  ![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
+  
+  
+PlayStation®Home is a 3D social gaming community that allows PLAYSTATION®3 users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of PlayStation®Home.
+  
+  
+  # Multilingual Support for this write-up | WIP 🚧:
   
  ![NPIA00005_screenshot_2022_03_20_18_47_40](https://user-images.githubusercontent.com/67494727/168452608-85bec567-b692-4086-a731-80d04503042c.png)
   
