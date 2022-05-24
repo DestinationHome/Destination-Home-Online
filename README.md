@@ -425,9 +425,9 @@ Have any questions about this release? Feel free to contact me at the following 
         <td>StillRio</td>
         <td>jaimer23</td>
         <td>AXM</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Operator-</td>
+        <td>Paul</td>
+        <td>jessicaFaZe</td>
     </tr>
 </table>
 
