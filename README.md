@@ -429,6 +429,19 @@ Have any questions about this release? Feel free to contact me at the following 
         <td>Paul</td>
         <td>jessicaFaZe</td>
     </tr>
+    <tr>
+        <td>Anteojos</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
 - Thanks to the [RPCS3](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
