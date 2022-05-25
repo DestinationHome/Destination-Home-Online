@@ -431,7 +431,7 @@ Have any questions about this release? Feel free to contact me at the following 
     </tr>
     <tr>
         <td>Anteojos</td>
-        <td></td>
+        <td>dominateeye</td>
         <td></td>
         <td></td>
         <td></td>
