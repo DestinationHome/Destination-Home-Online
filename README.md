@@ -152,6 +152,7 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 - [ ] PlayStation™Network Matching2 Services will not be available for RPCS3.
 - [ ] [PlayStation®Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
 - [ ] [Teleporter System for core scenes](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) e.g., **The Hub, First Floor Mall, Pier Park**.
+ - [ ] Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0). 
 
 # 🕹️ PlayStation®Home Minigame Compatibility List:
 
