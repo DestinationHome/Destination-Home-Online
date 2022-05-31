@@ -152,7 +152,13 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 - [ ] PlayStation™Network Matching2 Services will not be available for RPCS3.
 - [ ] [PlayStation®Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
 - [ ] [Teleporter System for core scenes](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) e.g., **The Hub, First Floor Mall, Pier Park**.
- - [ ] Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0). 
+ - [ ] Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0).
+  
+# 🏆 PlayStation®Home Rewards Database:
+  
+ ![170836541-94ee2396-cfd6-4017-88b3-135eef2488aa](https://user-images.githubusercontent.com/67494727/171184130-c1944536-e9b9-45db-a4c9-e612ed3f6644.png)
+
+Earning rewards/items was apart of PlayStation Home's original charm! During Home's online beta phase they were more then thousands of rewards from various events, minigames, and even physical PS3 titles to be earned. Recently I decided to create a full [archive/database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive) for the SCEA/SCEE region of Home to document each unique PlayStation®Home Reward object. 
 
 # 🕹️ PlayStation®Home Minigame Compatibility List:
 
@@ -160,7 +166,7 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 
 In regards to minigames, unfortunately for certain scenes, not all minigames will work as it requires some extra attention/time for the Destination Home team to get such services up and running in a stable environment. For our beta launch, I've created a straightforward [compatibility list](https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/WIKI/minigame_compatibility_beta.csv) that documents which minigames fully work or not in alphabetical order (A-Z).
 
-# 🕷️Notice critical bugs in PlayStation&Home? Here is how you can report them to the Destination Home Team!
+# 🕷️ Notice critical bugs in PlayStation&Home? Here is how you can report them to the Destination Home Team!
 
 - As all with any major software project, even the best applications are known to have bugs, and PlayStation Home online is no exception. With that being said the Destination Home gives serious consideration when it comes to stability for our community. If you see any **critical bugs** please create a ticket/issue [here](https://github.com/DestinationHome/Destination-Home-Online/issues) on the official Destination Home Online repo. In order to fix bugs fast, we ask for users to provide as much documentation as possible. For instance:
 
