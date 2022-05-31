@@ -34,8 +34,7 @@ We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org
   
 PlayStation®Home is a 3D social gaming community that allows PLAYSTATION®3 users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of PlayStation®Home.
   
-  
-  # Multilingual Support for this write-up | WIP 🚧:
+# Multilingual Support for this write-up | WIP 🚧:
   
  ![NPIA00005_screenshot_2022_03_20_18_47_40](https://user-images.githubusercontent.com/67494727/168452608-85bec567-b692-4086-a731-80d04503042c.png)
   
@@ -81,10 +80,10 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A5-%7C-Missing-Services-&-Functions">
         <img src="https://img.shields.io/badge/-Missing%20Services%2FFunctions-e99c23"
             alt="Missing services/functions"></a>
-      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A6-%7C-%F0%9F%95%B9%EF%B8%8F-PlayStation%C2%AEHome-Minigame-Compatibility-List">
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/edit/main/README.md#-playstationhome-rewards-database">
         <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Rewards%20Database-%23f4c430"
             alt="PlayStation®Home Rewards Database"></a>
-        <a href="https://github.com/DestinationHome/Destination-Home-Online#-playstationhome-rewards-database">
+        <a href="https://github.com/DestinationHome/Destination-Home-Online#%EF%B8%8F-playstationhome-minigame-compatibility-list">
         <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Minigame%20Compatibility%20List%20-fcf414"
             alt="PlayStation®Home Minigame Compatibility List"></a>
         <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0%E2%85%A0%E2%85%A0-%7C-PlayStation%C2%AEHome-Public-Spaces">
@@ -155,7 +154,7 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 - [ ] PlayStation™Network Matching2 Services will not be available for RPCS3.
 - [ ] [PlayStation®Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
 - [ ] [Teleporter System for core scenes](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) e.g., **The Hub, First Floor Mall, Pier Park**.
- - [ ] Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0).
+ - [ ] [Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0).
   
 # 🏆 PlayStation®Home Rewards Database:
   
@@ -182,7 +181,9 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 # Contact Me!
 <img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
 
-Have any questions about this release? Feel free to contact me at the following methods:
+<p align="center">
+    Have any questions about this release? Feel free to contact me at the following methods:
+</p>
 
   <p align="center">
     <a href="https://twitter.com/NagatoRevenge">
