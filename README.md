@@ -82,6 +82,9 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
         <img src="https://img.shields.io/badge/-Missing%20Services%2FFunctions-e99c23"
             alt="Missing services/functions"></a>
       <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A6-%7C-%F0%9F%95%B9%EF%B8%8F-PlayStation%C2%AEHome-Minigame-Compatibility-List">
+        <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Rewards%20Database-%23f4c430"
+            alt="PlayStation®Home Rewards Database"></a>
+        <a href="https://github.com/DestinationHome/Destination-Home-Online#-playstationhome-rewards-database">
         <img src="https://img.shields.io/badge/-PlayStation%C2%AEHome%20Minigame%20Compatibility%20List%20-fcf414"
             alt="PlayStation®Home Minigame Compatibility List"></a>
         <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A0%E2%85%A0%E2%85%A0-%7C-PlayStation%C2%AEHome-Public-Spaces">
