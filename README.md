@@ -444,7 +444,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     <tr>
         <td>Anteojos</td>
         <td>dominateeye</td>
-        <td></td>
+        <td>Mr.Epic</td>
         <td></td>
         <td></td>
         <td></td>
