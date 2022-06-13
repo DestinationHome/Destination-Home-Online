@@ -445,7 +445,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Anteojos</td>
         <td>dominateeye</td>
         <td>Mr.Epic</td>
-        <td></td>
+        <td>PhoenixStorm21</td>
         <td></td>
         <td></td>
         <td></td>
