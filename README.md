@@ -11,6 +11,9 @@
          <img src="https://img.shields.io/github/stars/DestinationHome/Destination-Home-Online"
             alt="Github Star Tracker"></a>
   <a href="https://twitter.com/destinpshome?lang=en">
+  <a href="https://github.com/DestinationHome/Destination-Home-Online/issues">
+         <img src="https://img.shields.io/github/issues/DestinationHome/Destination-Home-Online"
+            alt="Github Issue Tracker"></a>
         <img src="https://img.shields.io/twitter/follow/DestinPsHome?style=social&logo=twitter"
              alt="Follow us on Twitter"></a>
        <a href="https://www.twitch.tv/playstationhome/videos">
@@ -27,9 +30,27 @@
             alt="PlayStation Home Cache Extraction Guide"></a>
   
 We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your PlayStation®Home cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
+ 
+# 📣 Current Status of Destination Home Online Revival Servers/Services:
+
+  <p align="center">
+  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Testing%20Period-Alpha-orange"></a>
+    
+![NPIA00005_screenshot_2022_05_11_21_59_37](https://user-images.githubusercontent.com/67494727/174608070-8d03ac8c-7429-4df1-9e5e-cf1c50c0c042.png)
+  
+ ℹ️ | Currently we are in our closed/internal **Alpha-Testing phase**. During this time we are working on fixing the following network services & functions within Home's intricate  ecosystem.
+:---: | :---  
+
+- [x] Adding additional security services to protect our future database, as we know Home had many exploits during it's time on the PLAYSTATION®3.
+- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.89 offical firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
+- [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
+- [ ] Localization for all objects & all public/private scenes.
+- [x] Stress testing our current network infrastructure.
+
   
 # What's PlayStation Home?
-  ![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
+  
+![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
   
   
 PlayStation®Home is a 3D social gaming community that allows PLAYSTATION®3 users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of PlayStation®Home.
@@ -149,12 +170,14 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 
 - [ ] [Clans/Clubs](https://playstation.fandom.com/wiki/Clubs). 
 - [ ] Commerce Points "Stores" for RPCS3.
+- [ ] [Home Tycoon from HellFire Games](https://blog.playstation.com/2012/10/01/this-week-in-playstation-home-build-your-own-virtual-city-in-home-tycoon/). - Home Tycoon was a free-to-play, fully customizable 3D city building game. (This was basically a game inside of a game).
 - [ ] [Inspect Feature for Avatars](https://blog.playstation.com/2013/09/18/new-to-playstation-home-inspect-items/).
 - [ ] [Quest Manager](https://www.engadget.com/2011-08-23-playstation-home-relaunches-this-fall-with-a-questing-system-th.htm).
 - [ ] PlayStation™Network Matching2 Services will not be available for RPCS3.
 - [ ] [PlayStation®Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
 - [ ] [Teleporter System for core scenes](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) e.g., **The Hub, First Floor Mall, Pier Park**.
- - [ ] [Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0).
+- [ ] [Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0).
+
   
 # 🏆 PlayStation®Home Rewards Database:
   
