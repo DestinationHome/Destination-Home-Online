@@ -470,7 +470,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Mr.Epic</td>
         <td>PhoenixStorm21</td>
         <td>AzureDragon48</td>
-        <td></td>
+        <td>Dan Masters | Twitch: Turbo867</td>
         <td></td>
         <td></td>
         <td></td>
