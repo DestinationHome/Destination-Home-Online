@@ -193,7 +193,7 @@ Earning rewards/items was apart of PlayStation Home's original charm! During Hom
 
 In regards to minigames, unfortunately for certain scenes, not all minigames will work as it requires some extra attention/time for the Destination Home team to get such services up and running in a stable environment. For our beta launch, I've created a straightforward [compatibility list](https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/WIKI/minigame_compatibility_beta.csv) that documents which minigames fully work or not in alphabetical order (A-Z).
 
-# 🕷️ Notice critical bugs in PlayStation&Home? Here is how you can report them to the Destination Home Team!
+# 🕷️ Notice critical bugs in PlayStation®Home? Here is how you can report them to the Destination Home Team!
 
 - As all with any major software project, even the best applications are known to have bugs, and PlayStation Home online is no exception. With that being said the Destination Home gives serious consideration when it comes to stability for our community. If you see any **critical bugs** please create a ticket/issue [here](https://github.com/DestinationHome/Destination-Home-Online/issues) on the official Destination Home Online repo. In order to fix bugs fast, we ask for users to provide as much documentation as possible. For instance:
 
