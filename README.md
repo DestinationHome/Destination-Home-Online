@@ -217,15 +217,13 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 - `/cache upload <link here> [version] [size] [region]`
 
   - The `version` parameter has the following ranges from `0.3 ➜ 1.86` which will document your Home client version.
-  - The `region` parameter has 3 selections that you can choose from `North America, Europe, Japan, Asia`.
+  - The `region` parameter has **4** selections that you can choose from `North America, Europe, Japan, Asia`. This will document what region you played in Home.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67494727/175508950-e8d4e2c6-ab33-4e5e-954f-93ddea546e0d.png">
 </p>
 
 - Note any **values** in `[square brackets]` are *optional* and can be added by completing the previous parameter with `TAB`. By adding such parameters like `size` or `region` gives the development team a preview of what to expect from your unique cache dump!
-
-
 
 # Contact Me!
 
