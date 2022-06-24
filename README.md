@@ -216,7 +216,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 
 - `/cache upload <link here> [version] [size] [region]`
 
-  - The `version` parameter has the following ranges from `0.3 ➜ 1.86`
+  - The `version` parameter has the following ranges from `0.3 ➜ 1.86` which will document your Home client version.
   - The `region` parameter has 3 selections that you can choose from `North America, Europe, Japan, Asia`.
 
 <p align="center">
