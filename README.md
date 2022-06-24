@@ -136,6 +136,12 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
         <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0%E2%85%A0-%7C-Meet-The-Destination-Home-Development-Team">
         <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Meet%20The%20Destination%20Home%20Development%20Team-583cc2"
            alt="Meet The Destination Home Development Team"></a>
+           
+        <a href="">
+        <img src="https://img.shields.io/badge/-Destination%20Home%20Cache%20Discord%20Bot-409591"
+            alt="Destination Home Discord Cache Bot"></a>
+           
+           
     <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0-%7C-Contact-Me!">
         <img src="https://img.shields.io/badge/-Contact%20Me!-b32940"
             alt="Contact Me!"></a>
@@ -203,7 +209,29 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
   
 - If you see an a issue topic that has already **been documented** please refrain from creating another report/thread as this will cause confusion for the development team.
 
+
+# 🤖 Destination Home Discord Cache Bot:
+
+![PlayStation Home Version Information](https://user-images.githubusercontent.com/67494727/175514840-ee007fd7-f077-460b-ba78-b78650203480.png)
+
+🤖 | As of `6/23/2022` the Destination Home Team has now deployed our official Cache Bot that automatically accepts Home cache donations for our community in our [Discord Server](https://discord.com/invite/QguSBT3). To get started users can type in the following arguments/commands:
+:---: | :---
+
+- `/cache upload <link here> [version] [size] [region]`
+
+  - The `version` parameter has the following ranges from `0.3 ➜ 1.86`
+  - The `region` parameter has 3 selections that you can choose from `North America, Europe, Japan, Asia`.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67494727/175508950-e8d4e2c6-ab33-4e5e-954f-93ddea546e0d.png">
+</p>
+
+- Note any **values** in `[square brackets]` are *optional* and can be added by completing the previous parameter with `TAB`. By adding such parameters like `size` or `region` gives the development team a preview of what to expect from your unique cache dump!
+
+
+
 # Contact Me!
+
 <img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
 
 <p align="center">
