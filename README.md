@@ -136,13 +136,10 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
         <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0%E2%85%A0-%7C-Meet-The-Destination-Home-Development-Team">
         <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Meet%20The%20Destination%20Home%20Development%20Team-583cc2"
            alt="Meet The Destination Home Development Team"></a>
-           
-        <a href="">
+        <a href="https://github.com/DestinationHome/Destination-Home-Online#-destination-home-discord-cache-bot">
         <img src="https://img.shields.io/badge/-Destination%20Home%20Cache%20Discord%20Bot-409591"
-            alt="Destination Home Discord Cache Bot"></a>
-           
-           
-    <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0-%7C-Contact-Me!">
+            alt="Destination Home Discord Cache Bot"></a> 
+      <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A9%E2%85%A4%E2%85%A0-%7C-Contact-Me!">
         <img src="https://img.shields.io/badge/-Contact%20Me!-b32940"
             alt="Contact Me!"></a>
        <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%9D%A4%EF%B8%8F-%7C--Join-Check-out-our-social-platforms">
