@@ -497,7 +497,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>AzureDragon48</td>
         <td>Dan Masters | Twitch: Turbo867</td>
         <td>NightmareZ</td>
-        <td></td>
+        <td>Mathieu Hervais</td>
         <td></td>
         <td></td>
         <td></td>
