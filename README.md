@@ -215,10 +215,6 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 🤖 | As of `6/23/2022` the Destination Home Team has now deployed our official Cache Bot that automatically accepts Home cache donations for our community in our [Discord Server](https://discord.com/invite/QguSBT3). To get started users can type in the following arguments/commands:
 :---: | :---
   
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67494727/175781989-767d3349-461c-4de4-88d9-fc09d3f0ecc2.png">
-</p>
-
 - `/cache upload <link here> [version] [size] [region]`
 
   - The `version` parameter has the following ranges from `0.3 ➜ 1.86` which will document your Home client version.
@@ -229,6 +225,15 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 </p>
 
 - Note any **values** in `[square brackets]` are *optional* and can be added by completing the previous parameter with `TAB`. By adding such parameters like `size` or `region` gives the development team a preview of what to expect from your unique cache dump!
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67494727/175782768-5fa03371-91de-4994-954d-915c32beb2ba.png">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67494727/175781989-767d3349-461c-4de4-88d9-fc09d3f0ecc2.png">
+</p>
 
 # Contact Me!
 
