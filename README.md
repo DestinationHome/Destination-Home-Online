@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
             alt="PlayStation Home Cache Extraction Guide"></a>
   
-We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your **PlayStation®Home** cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
+We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your **PlayStation®Home** cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
  
 # 📣 Current Status of Destination Home Online Revival Servers/Services:
 
@@ -43,7 +43,7 @@ We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org
  ℹ️ | Currently we are in our closed/internal **Alpha-Testing phase**. During this time we are working on fixing the following network services & functions within Home's intricate  ecosystem.
 :---: | :---  
 
-- [x] Adding additional security services to protect our future database, as we know Home had many exploits during it's time on the PLAYSTATION®3.
+- [x] Adding additional security services to protect our future database, as we know Home had many exploits during it's time on the **PLAYSTATION®3**.
 - [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.89 offical firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
 - [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
 - [ ] Localization for all objects & all public/private scenes.
@@ -55,25 +55,25 @@ We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org
 ![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
   
   
-**PlayStation®Home** is a 3D social gaming community that allows **PLAYSTATION®3** users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of PlayStation®Home.
+**PlayStation®Home** is a 3D social gaming community that allows **PLAYSTATION®3** users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of **PlayStation®Home**.
   
 # Multilingual Support for this write-up | WIP 🚧:
   
  ![NPIA00005_screenshot_2022_03_20_18_47_40](https://user-images.githubusercontent.com/67494727/168452608-85bec567-b692-4086-a731-80d04503042c.png)
   
-- To view this README page in other languages here are the following supported languages that have been translated by our extraordinary contributors/moderation team:
+- To view this **README** page in other languages here are the following supported languages that have been translated by our extraordinary contributors/moderation team:
    
   - [Dutch](https://github.com/DestinationHome/Destination-Home-Online-Dutch)  | Special thanks to **Tymek** for this translation contribution.
-  - [French](https://github.com/DestinationHome/Destination-Home-Online-French)  | Special thanks to [**Marion**](https://twitter.com/Marion4GF) & [TreezZ#8905](https://discordapp.com/users/605516950054895633) for this translation contribution.
-   - [Italian](https://github.com/DestinationHome/Destination-Home-Online-Italy)  | Special thanks to [Sidereus](https://twitter.com/__Sidereus__) for this translation contribution. 
+  - [French](https://github.com/DestinationHome/Destination-Home-Online-French)  | Special thanks to [**Marion**](https://twitter.com/Marion4GF) & [**TreezZ#8905**](https://discordapp.com/users/605516950054895633) for this translation contribution.
+   - [Italian](https://github.com/DestinationHome/Destination-Home-Online-Italy)  | Special thanks to [**Sidereus**](https://twitter.com/__Sidereus__) for this translation contribution. 
    - [Japanese](https://github.com/DestinationHome/Destination-Home-Online-Japan)  | Special thanks to [**piyo**](https://twitter.com/piyopiy80151704) for this translation contribution.
   
- ℹ️ | For users who want to translate this README page in order to support our ever-developing community you can contact me via [Twitter](https://twitter.com/NagatoRevenge) for more information! 
+ ℹ️ | For users who want to translate this **README** page in order to support our ever-developing community you can contact me via [Twitter](https://twitter.com/NagatoRevenge) for more information! 
 :---: | :---  
 
 # Brief Synopsis:
 
-Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager [**Figment**](https://github.com/PSHFigment) will post the latest news in regards to new Home updates. For all things related to **PlayStation®Home**, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
+Welcome to the official guide on how users can re-experience [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [**Github**](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager [**Figment**](https://github.com/PSHFigment) will post the latest news in regards to new Home updates. For all things related to **PlayStation®Home**, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
 
 ![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
 
@@ -156,14 +156,14 @@ To keep this **README.md** file concise & straightforward I decided to make an o
 | Requirements For PS3: | Requirements For RPCS3: |
 | ------------- | ------------- |
 | A [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3). | A PC that supports the [recommended hardware requirements](https://rpcs3.net/quickstart) for running the emulator.   |
-| A [**PlayStation™Network** Account](https://www.playstation.com/en-us/playstation-network/). | [RPCN Account](https://wiki.rpcs3.net/index.php?title=Help:Netplay). |
+| A [**PlayStation™Network** Account](https://www.playstation.com/en-us/playstation-network/). | [**RPCN** Account](https://wiki.rpcs3.net/index.php?title=Help:Netplay). |
 | The latest **PlayStation®Home** Online client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). | The latest custom RPCS3 **PlayStation®Home** Client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). |
 | An active network connection. | An active network connection. |
 
 # Working services & features:
 
 - [x] Official Firmware support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/5/22, v4.89 is the latest firmware for PS3.`
-- [x]  We are using the [1.86 version of PlayStation®Home](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) for our production client.
+- [x]  We are using the [1.86 version of **PlayStation®Home**](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) for our production client.
 - [x] Trophy support will be available on PS3. RPCS3 will use its equivalent service for handling trophies.
 - [x] Rewards. `This includes furniture, clothing, apartments, etc.`
 - [x] Cross-region support `Users can access all regional spaces despite the origin country connected to their PSN account. For instance, a player who is from Japan can access North American scenes and vice-versa.`
@@ -174,12 +174,12 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 # Missing services/functions:
 
 - [ ] [Clans/Clubs](https://playstation.fandom.com/wiki/Clubs). 
-- [ ] Commerce Points "Stores" for RPCS3.
+- [ ] Commerce Points "Stores" for **RPCS3**.
 - [ ] [Home Tycoon from HellFire Games](https://blog.playstation.com/2012/10/01/this-week-in-playstation-home-build-your-own-virtual-city-in-home-tycoon/). 
     - Home Tycoon was a free-to-play, fully customizable 3D city building game. (This was basically a game inside of a game).
 - [ ] [Inspect Feature for Avatars](https://blog.playstation.com/2013/09/18/new-to-playstation-home-inspect-items/).
 - [ ] [Quest Manager](https://www.engadget.com/2011-08-23-playstation-home-relaunches-this-fall-with-a-questing-system-th.htm).
-- [ ] PlayStation™Network Matching2 Services will not be available for RPCS3.
+- [ ] **PlayStation™Network Matching2 Services** will not be available for **RPCS3**.
 - [ ] [PlayStation®Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
 - [ ] [Teleporter System for core scenes](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) e.g., **The Hub, First Floor Mall, Pier Park**.
 - [ ] [Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0).
@@ -189,7 +189,7 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
   
  ![170836541-94ee2396-cfd6-4017-88b3-135eef2488aa](https://user-images.githubusercontent.com/67494727/171184130-c1944536-e9b9-45db-a4c9-e612ed3f6644.png)
 
-Earning rewards/items was apart of PlayStation Home's original charm! During Home's online beta phase they were more then thousands of rewards from various events, minigames, and even physical PS3 titles to be earned. Recently I decided to create a full [archive/database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive) for the SCEA/SCEE region of Home to document each unique PlayStation®Home Reward object. 
+Earning rewards/items was apart of PlayStation Home's original charm! During Home's online beta phase they were more then thousands of rewards from various events, minigames, and even physical PS3 titles to be earned. Recently I decided to create a full [archive/database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive) for the SCEA/SCEE region of Home to document each unique **PlayStation®Home** Reward object. 
 
 # 🕹️ PlayStation®Home Minigame Compatibility List:
 
@@ -199,14 +199,13 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 
 # 🕷️ Notice critical bugs in PlayStation®Home? Here is how you can report them to the Destination Home Team!
 
-- As all with any major software project, even the best applications are known to have bugs, and PlayStation Home online is no exception. With that being said the Destination Home gives serious consideration when it comes to stability for our community. If you see any **critical bugs** please create a ticket/issue [here](https://github.com/DestinationHome/Destination-Home-Online/issues) on the official Destination Home Online repo. In order to fix bugs fast, we ask for users to provide as much documentation as possible. For instance:
+- As all with any major software development project, even the best applications are known to have bugs, and PlayStation Home online is no exception. With that being said the Destination Home gives serious consideration when it comes to stability for our community. If you see any **critical bugs** please create a ticket/issue [here](https://github.com/DestinationHome/Destination-Home-Online/issues) on the official Destination Home Online repo. In order to fix bugs fast, we ask for users to provide as much documentation as possible. For instance:
 
   - What client are your using (RPCS3/PS3)?
-  - Where did this bug occur? List the scene name.
+  - Where did this bug occur? List the scene/space name.
   - Provide pictures/videos of the error occurring.
   
 - If you see an a issue topic that has already **been documented** please refrain from creating another report/thread as this will cause confusion for the development team.
-
 
 # 🤖 Destination Home Discord Cache Bot:
 
@@ -240,7 +239,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 <img width="1000" alt="GitHubNagatoBanner" src="https://user-images.githubusercontent.com/67494727/140847055-8fe6ecb6-dca3-4ce9-b660-98068356aaed.png">
 
 <p align="center">
-    Have any questions about this release? Feel free to contact me at the following methods:
+    Have any questions about this release or write up? Feel free to contact me at the following methods:
 </p>
 
   <p align="center">
@@ -514,12 +513,12 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr>
 </table>
 
-- Thanks to the [RPCS3](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
-- Thanks to the [PS3Xploit Team](https://github.com/PS3Xploit) for creating the lovely [HEN exploit](https://github.com/PS3Xploit/PS3HEN) (PS3 Homebrew ENabler) on PS3! 
+- Thanks to the [**RPCS3**](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
+- Thanks to the [**PS3Xploit Team**](https://github.com/PS3Xploit) for creating the lovely [HEN exploit](https://github.com/PS3Xploit/PS3HEN) (PS3 Homebrew ENabler) on PS3! 
 - Thank you Sony/PlayStation for creating this awe-inspiring Social World!
 
 # Legal Information:
 
-We are not affiliated with Sony Interactive Entertainment (SIE) or any other game developers licensed by SIE. This project is purely for preservation/educational purposes, and our team doesn't accept ANY forms of donations.
+We are not affiliated with **Sony Interactive Entertainment (SIE)** or any other game developers licensed by **SIE**. This project is purely for preservation/educational purposes, and our team doesn't accept ANY forms of donations.
 
 **All rights are reserved by Sony Interactive Entertainment Europe Limited, as well as the respective third-party companies responsible for implementing content into PlayStation®Home. Destination Home is working on PlayStation®Home as the adaptation of publicly leaked software, the usage of this software falling under abandonware due to the lack of copyright enforcement involving the tools. The online section of PlayStation®Home is protected by the laws implied by the Digital Millennium Copyright Act 17 U.S. Code § 1201 for the purpose of preservation, education, and public viewing as a museum effort. That the team's focus is to reproduce the functionality once accessible and hosted by Sony, PlayStation®Home. Tools that are provided to us will be to our best ability given the utmost protection unless stated otherwise by the provider. Our focus is the protection of Sony copyright and intellectual property while following the goal of reproduction of online functionality, and do not claim any of this as our own.**
