@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
             alt="PlayStation Home Cache Extraction Guide"></a>
   
-We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your PlayStation®Home cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
+We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your **PlayStation®Home** cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
  
 # 📣 Current Status of Destination Home Online Revival Servers/Services:
 
@@ -55,7 +55,7 @@ We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org
 ![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
   
   
-PlayStation®Home is a 3D social gaming community that allows PLAYSTATION®3 users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of PlayStation®Home.
+**PlayStation®Home** is a 3D social gaming community that allows **PLAYSTATION®3** users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of PlayStation®Home.
   
 # Multilingual Support for this write-up | WIP 🚧:
   
@@ -63,17 +63,17 @@ PlayStation®Home is a 3D social gaming community that allows PLAYSTATION®3 use
   
 - To view this README page in other languages here are the following supported languages that have been translated by our extraordinary contributors/moderation team:
    
-  - [Dutch](https://github.com/DestinationHome/Destination-Home-Online-Dutch)  | Special thanks to Tymek for this translation contribution.
-  - [French](https://github.com/DestinationHome/Destination-Home-Online-French)  | Special thanks to [Marion](https://twitter.com/Marion4GF) & [TreezZ#8905](https://discordapp.com/users/605516950054895633) for this translation contribution.
+  - [Dutch](https://github.com/DestinationHome/Destination-Home-Online-Dutch)  | Special thanks to **Tymek** for this translation contribution.
+  - [French](https://github.com/DestinationHome/Destination-Home-Online-French)  | Special thanks to [**Marion**](https://twitter.com/Marion4GF) & [TreezZ#8905](https://discordapp.com/users/605516950054895633) for this translation contribution.
    - [Italian](https://github.com/DestinationHome/Destination-Home-Online-Italy)  | Special thanks to [Sidereus](https://twitter.com/__Sidereus__) for this translation contribution. 
-   - [Japanese](https://github.com/DestinationHome/Destination-Home-Online-Japan)  | Special thanks to [piyo](https://twitter.com/piyopiy80151704) for this translation contribution.
+   - [Japanese](https://github.com/DestinationHome/Destination-Home-Online-Japan)  | Special thanks to [**piyo**](https://twitter.com/piyopiy80151704) for this translation contribution.
   
  ℹ️ | For users who want to translate this README page in order to support our ever-developing community you can contact me via [Twitter](https://twitter.com/NagatoRevenge) for more information! 
 :---: | :---  
 
 # Brief Synopsis:
 
-Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager [**Figment**](https://github.com/PSHFigment) will post the latest news in regards to new Home updates. For all things related to PlayStation®Home, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
+Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager [**Figment**](https://github.com/PSHFigment) will post the latest news in regards to new Home updates. For all things related to **PlayStation®Home**, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
 
 ![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
 
@@ -151,13 +151,13 @@ Welcome to the official guide on how users can re-experience [PlayStation®Home]
 
 # Quickstart: 
 
-To keep this README.md file concise & straightforward I decided to make an official dedicated [wiki](https://github.com/DestinationHome/Destination-Home-Online/wiki) which has a full write-up on how users can access PlayStation®Home online with our custom server solution. To download our latest online client builds please check out the release page [here](https://github.com/DestinationHome/Destination-Home-Online/releases). Down below here are the minimum requirements you'll need for this process.
+To keep this **README.md** file concise & straightforward I decided to make an official dedicated [wiki](https://github.com/DestinationHome/Destination-Home-Online/wiki) which has a full write-up on how users can access **PlayStation®Home** online with our custom server solution. To download our latest online client builds please check out the release page [here](https://github.com/DestinationHome/Destination-Home-Online/releases). Down below here are the minimum requirements you'll need for this process.
 
 | Requirements For PS3: | Requirements For RPCS3: |
 | ------------- | ------------- |
 | A [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3). | A PC that supports the [recommended hardware requirements](https://rpcs3.net/quickstart) for running the emulator.   |
-| A [PlayStation™Network Account](https://www.playstation.com/en-us/playstation-network/). | [RPCN Account](https://wiki.rpcs3.net/index.php?title=Help:Netplay). |
-| The latest PlayStation Home Online client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). | The latest custom RPCS3 PlayStation Home Client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). |
+| A [**PlayStation™Network** Account](https://www.playstation.com/en-us/playstation-network/). | [RPCN Account](https://wiki.rpcs3.net/index.php?title=Help:Netplay). |
+| The latest **PlayStation®Home** Online client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). | The latest custom RPCS3 **PlayStation®Home** Client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). |
 | An active network connection. | An active network connection. |
 
 # Working services & features:
@@ -167,7 +167,7 @@ To keep this README.md file concise & straightforward I decided to make an offic
 - [x] Trophy support will be available on PS3. RPCS3 will use its equivalent service for handling trophies.
 - [x] Rewards. `This includes furniture, clothing, apartments, etc.`
 - [x] Cross-region support `Users can access all regional spaces despite the origin country connected to their PSN account. For instance, a player who is from Japan can access North American scenes and vice-versa.`
-- [x] Users who have PlayStation®Plus on PSN will have access to additional font colors for their IDs in-game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video down below.
+- [x] Users who have **PlayStation®Plus** on PSN will have access to additional font colors for their IDs in-game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video down below.
 
 https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-afbe-388c5d9e10c9.mp4
 
