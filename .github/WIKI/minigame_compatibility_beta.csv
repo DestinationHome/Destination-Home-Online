@@ -8,19 +8,19 @@ Bowling,Bowling Alley,Playable,Playable,Users will be able to play in the follow
 DanceDanceRevolution,Konami Penthouse,Playable,Minor Issues,"Users can fully play DanceDanceRevolution in the following game modes: Solo, Group. Currently the Konami Leaderboard System along with the Twitter Board is defunct. Depending on your PC hardware, you might experience lag during the dance off session."
 Dolphy Race,Hudson Gate,Playable,Playable,"Dolphy Race initaties where users can bet on different dolphins to receive prizes. Futhermore, users can bet win rewards just by entering this public scene. "
 Domingo Race,Loco Roco: MuiMui Ship,Playable,Playable,
-Echochrome,Bowling Alley,Playable,Major Issues,MLA issues will arise for RPCS3 after users after quiting the game.
+Echochrome,Bowling Alley,Playable,Playable,MLA issues have been fixed.
 Escape The Virus,Peakvox Labs,Minor Issues,Minor Issues,This game requires a ticket system to launch.
 Hammer The Virus,Peakvox Labs,Minor Issues,Minor Issues,This game requires a ticket system to launch.
-Ice Breaker,Bowling Alley,Playable,Major Issues,MLA issues will arise for RPCS3 after users after quiting the game.
+Ice Breaker,Bowling Alley,Playable,Playable,MLA issues have been fixed.
 Loco Reversi,Loco Roco: MuiMui Ship,Playable,Playable,The game is fully playable on both clients (PS3/RPCS3)
 L-Project,Peakvox Labs,Playable,Playable,Users can collect bacteria to cultivate new items and pets at Peakvox Labs.
 MotorStorm� Carrier Treasure Hunt,MotorStorm� Carrier,Playable,Playable,The event starts up as intended.
 MotorStorm� DJ Deck,MotorStorm� Carrier,Playable,Playable,All original music content has been implemented for the end-user.
 MotorStorm� Light Controls,MotorStorm� Carrier,Playable,Playable,All Stage Lights & Lasers functions are working as intended for both PS3/RPCS3.
-MotorStorm� Lunatic Launcher,MotorStorm� Carrier,Playable,Major Issues,MLA issues will arise for RPCS3 after users after quiting the game.
+MotorStorm� Lunatic Launcher,MotorStorm� Carrier,Playable,Playable,MLA issues have been fixed.
 MotorStorm� Web Portal,MotorStorm� Carrier,Inoperable,Inoperable,"Due to a non-implemented syscall function in RPCS3 #sys_net Syscalls, Web Browser functions will not work on RPCS3 for Home. As for PS3, the original webpage has not been archived."
 Saucer Pop,Central Plaza,Playable,Playable,Leaderboards are not active during our alpha-internal test.
-Scribble Shooter,Bowling Alley,Playable,Major Issues,MLA issues will arise for RPCS3 after users after quiting the game.
+Scribble Shooter,Bowling Alley,Playable,Playable,MLA issues have been fixed.
 Shooting The Earthling,Peakvox Labs,Minor Issues,Minor Issues,This game requires a ticket system to launch.
 Snap Happy,LittleBigPlanet Playground,Playable,Playable,The game is fully playable on both clients (PS3/RPCS3).
 Survival Bomber,Hudson Bomber Dome,Playable,Playable,The Survival Bomber minigame allows up to 8-players to play in the same lobby.
