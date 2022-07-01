@@ -48,7 +48,26 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 - [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
 - [ ] Localization for all objects & all public/private scenes.
 - [x] Stress testing our current network infrastructure.
-
+    
+Just with any massively multiplayer online title, our online services will go through rigorous development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here are the following development roadmap/pipeline that we are adhering to.
+    
+- **1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.
+    
+- **2.** *Closed Beta* [**Session 1**] - Testing by **Cache Donators** & **Nitro Boosters**.
+    
+    - **Closed Beta** access will be expanded in **four** incremental phases:
+    
+       - Phase I: 20 people.
+       - Phase II: 50 people.
+       - Phase III: 100 people.
+       - Phase IV: All donators/boosters.
+    
+- **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content added to our client.
+- **4.** *Open Beta* -- Early Access available to **all members** of the [Discord](https://discord.gg/QguSBT3).
+- **5.** *Official Release*  
+    
+⚠️ | Note there is no *ETA* for each stage! Developers work in their **free time** and any real life responsibilities e.g., *college*, *work*, *family matters* will dramatically affect progress; please be patient.
+:---: | :---   
   
 # What's PlayStation Home?
   
