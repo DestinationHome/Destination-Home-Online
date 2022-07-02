@@ -49,7 +49,7 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 - [ ] Localization for all objects & all public/private scenes.
 - [x] Stress testing our current network infrastructure.
     
-Just with any massively multiplayer online title, our online services will go through rigorous development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here are the following development roadmap/pipeline that we are adhering to.
+Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here are the following development roadmap/pipeline that we are adhering to.
     
 - **1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.
     
@@ -75,6 +75,28 @@ Just with any massively multiplayer online title, our online services will go th
   
   
 **PlayStation®Home** is a 3D social gaming community that allows **PLAYSTATION®3** users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of **PlayStation®Home**.
+
+# First time playing PlayStation®Home? Check out the official Help System Guide.
+
+![NPIA00005_screenshot_2022_07_02_07_11_32](https://user-images.githubusercontent.com/67494727/176998274-cb37391e-e5fb-498e-aa93-16ac9b2f2014.png)
+
+During Home's life-span is has be noted that approximately 41 million users worldwide accessed Home. However as newer social platforms are beginning to gain popular, I know there are players who have never expirenced Home in it's prime. This resource is a great place to get started to aid new users as they explore **PlayStation®Home** social platfrom for the first time!
+
+<details>
+  <summary> <b> Basic Controls: </b> </summary>
+<p>
+
+
+</p>
+</details>
+
+<details>
+  <summary> <b> Menu Screen: </b> </summary>
+<p>
+
+
+</p>
+</details>
   
 # Multilingual Support for this write-up | WIP 🚧:
   
