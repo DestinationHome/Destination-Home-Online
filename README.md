@@ -549,7 +549,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Dan Masters | Twitch: Turbo867</td>
         <td>NightmareZ</td>
         <td>Mathieu Hervais</td>
-        <td></td>
+        <td>Hunstagamez</td>
         <td></td>
         <td></td>
     </tr>
