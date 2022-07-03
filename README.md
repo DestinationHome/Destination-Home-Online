@@ -80,7 +80,7 @@ Just with any massively multiplayer online title, our online services will go th
 
 ![NPIA00005_screenshot_2022_07_02_07_11_32](https://user-images.githubusercontent.com/67494727/176998274-cb37391e-e5fb-498e-aa93-16ac9b2f2014.png)
 
-📙 | During Home's life-span is has be noted that approximately 41 million users worldwide accessed Home. However as newer social platforms are beginning to gain popular, I know there are players who have never expirenced Home in it's prime. This resource is a great place to get started to aid new users as they explore **PlayStation®Home** social platfrom for the first time!
+📙 | During Home's life-span it is has be noted that approximately **41 million** users worldwide accessed Home. However as newer social platforms are beginning to gain popularity, I know there are players who have never expirenced Home in it's true prime. This resource is a great place to get started to aid new users as they explore **PlayStation®Home** social platfrom for the first time!
 :---: | :---   
 
 <details>
