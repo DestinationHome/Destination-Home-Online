@@ -125,6 +125,8 @@ Just with any massively multiplayer online title, our online services will go th
 
 ![92DAA6F9-0588-437A-9431-7CD46BDE6829](https://user-images.githubusercontent.com/67494727/177039222-d678e010-0228-47b0-8efa-7e29b7282fa3.png)
 
+</p>
+</details>
 
 <details>
   <summary> <b> Emotes: </summary>
