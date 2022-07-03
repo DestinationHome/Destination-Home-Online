@@ -276,10 +276,7 @@ Just with any massively multiplayer online title, our online services will go th
 <details>
   <summary> <b> Pop-up Color: </summary>
 <p>
-
 ![E1120761-EA34-4C1F-96FA-420DC10B7F65](https://user-images.githubusercontent.com/67494727/177041222-ebcce38a-2791-4ede-8549-1be1681727aa.png)
-
-
 </p>
 </details>
 
