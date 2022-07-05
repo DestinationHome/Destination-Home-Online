@@ -731,7 +731,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>NightmareZ</td>
         <td>Mathieu Hervais</td>
         <td>Hunstagamez</td>
-        <td></td>
+        <td>Cobalt</td>
         <td></td>
     </tr>
 </table>
