@@ -374,6 +374,8 @@ Welcome to the official guide on how users can re-experience [**PlayStation®Hom
 
 # Quickstart: 
 
+![DestinationsMap_031512_Background](https://user-images.githubusercontent.com/67494727/177428540-47bdd5ca-5e58-4a6c-b228-6a44272c937c.png)
+
 To keep this **README.md** file concise & straightforward I decided to make an official dedicated [wiki](https://github.com/DestinationHome/Destination-Home-Online/wiki) which has a full write-up on how users can access **PlayStation®Home** online with our custom server solution. To download our latest online client builds please check out the release page [here](https://github.com/DestinationHome/Destination-Home-Online/releases). Down below here are the minimum requirements you'll need for this process.
 
 | Requirements For PS3: | Requirements For RPCS3: |
