@@ -400,6 +400,8 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 
 # Missing services/functions:
 
+![Billabong_Batch030_LoadingScreenBackground_2013-10-30_1280x440](https://user-images.githubusercontent.com/67494727/177836040-9a61d183-56a3-49af-aef2-d11c0aead7d2.png)
+
 - [ ] [Clans/Clubs](https://playstation.fandom.com/wiki/Clubs). 
 - [ ] Commerce Points "Stores" for **RPCS3**.
 - [ ] [Home Tycoon from HellFire Games](https://blog.playstation.com/2012/10/01/this-week-in-playstation-home-build-your-own-virtual-city-in-home-tycoon/). 
@@ -498,6 +500,8 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
             alt="Destination Home 1.86 Offline Client Patches"></a>
  
 # Credits/Special Thanks:
+
+![VeemeePark_Batch002_LoadingscreenBackground_2013-06-26_1280x440](https://user-images.githubusercontent.com/67494727/177836252-3e909c80-64eb-4a19-96c2-df0602925a4f.png)
 
 - Thanks to the Destination Home/PlayStation Home community for donating much needed data! Without you guys this preservation project wouldn't be online nor archived for educational purposes.
 
