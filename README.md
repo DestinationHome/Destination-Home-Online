@@ -86,35 +86,45 @@ Just with any massively multiplayer online title, our online services will go th
 <details>
   <summary> <b> Basic Controls: </b> </summary>
 <p>
+
 ![D427EDCA-909F-4D82-8245-8FF247766DFB](https://user-images.githubusercontent.com/67494727/177038602-ff60c1d4-b5ce-4281-af77-18b32dd08128.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> Menu Screen: </b> </summary>
 <p>
+
 ![BB2FC5F7-6E6B-4749-B814-8AD467520A71](https://user-images.githubusercontent.com/67494727/177038631-fc158d02-2e13-4e28-a4dd-bd11199bca97.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> The PlayStation®Home Safe Screen: </summary>
 <p>
+
 ![CC44D90E-BA8A-40E0-A762-BBA15B38A07E](https://user-images.githubusercontent.com/67494727/177038854-60cd62e1-eb01-44bb-9a2f-aee154ab2068.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> Text Chat: </summary>
 <p>
+
 ![A177597A-08AE-42A0-ABB4-44D8E36C15F8](https://user-images.githubusercontent.com/67494727/177039012-3e3039b1-c3c7-4745-b805-7a04c04c7a14.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> Voice Chat: </summary>
 <p>
+
 ![92DAA6F9-0588-437A-9431-7CD46BDE6829](https://user-images.githubusercontent.com/67494727/177039222-d678e010-0228-47b0-8efa-7e29b7282fa3.png)
+
 </p>
 </details>
 
@@ -130,42 +140,54 @@ Just with any massively multiplayer online title, our online services will go th
 <details>
   <summary> <b> Avatar Status: </summary>
 <p>
+
 ![AAD7228B-84F9-44E3-91D3-4FC44D68527B](https://user-images.githubusercontent.com/67494727/177040136-6b1e0786-8be8-4408-8d0a-07565148a7d9.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> Alerts: </summary>
 <p>
+
 ![A6968E17-63C7-4206-8F80-DD6FF732721E](https://user-images.githubusercontent.com/67494727/177040241-3a0991b0-38c7-44e9-b4e8-53efd0c5628b.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> Icons: </summary>
 <p>
+
 ![EB43CF02-0895-4C05-A65A-EEE8090F2A84](https://user-images.githubusercontent.com/67494727/177040278-9a49e8c5-3f88-455f-a220-99e591bff15d.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> Inviting a Friend: </summary>
 <p>
+
 ![BC5B9075-2A54-45EE-B14D-8F6E2DEF59D1](https://user-images.githubusercontent.com/67494727/177040335-45483206-9a05-4b1a-b22e-80ddec70d85b.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> Going to a Friend: </summary>
 <p>
+
 ![E270FABA-69C6-45C7-9925-E0E4746244BE](https://user-images.githubusercontent.com/67494727/177041890-0f348dd6-c530-4416-9693-b8218b2a0a88.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> My Inventory: </summary>
 <p>
+
 ![1597C7AE-0A19-4F13-AC77-0B1924E15449](https://user-images.githubusercontent.com/67494727/177040543-56dea55f-3bb3-44b1-9aa8-e2b1056c82ba.png)
+
 </p>
 </details>
 
@@ -173,72 +195,49 @@ Just with any massively multiplayer online title, our online services will go th
 <details>
   <summary> <b> My Purchases: </summary>
 <p>
+
 ![14ADA2FB-65D4-43CB-9D87-1BC57690B7A5](https://user-images.githubusercontent.com/67494727/177040580-aca2609c-449e-4cd8-bf56-edcffe260407.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> My Rewards: </summary>
 <p>
+
 ![87044FE5-7230-47E7-B54A-3EC8DFD1A33C](https://user-images.githubusercontent.com/67494727/177040612-d5eff92d-905f-4f08-be64-b6ae76b8a1c1.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> Creating a Group: </summary>
 <p>
+
 ![79E1E127-86CA-421F-96B5-711F05F2A8A0](https://user-images.githubusercontent.com/67494727/177040673-50b1d6de-a7a0-459a-9fb6-50de8411a03a.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> Features of Groups: </summary>
 <p>
+
 ![02064D17-3841-49F4-A536-52D2D96E01E0](https://user-images.githubusercontent.com/67494727/177040735-7da2b652-b4b0-4ffc-8d78-4e498b32092d.png)
+
 </p>
 </details>
 
 <details>
   <summary> <b> Joining a Game: </summary>
 <p>
+
 ![4401938D-3848-42B9-9C68-4CDB8E4DA314](https://user-images.githubusercontent.com/67494727/177040780-03969824-ff9d-454c-85e9-2f96a3c63b8e.png)
+
 </p>
 </details>
 
-<details>
-  <summary> <b> Launching a Game: </summary>
-<p>
-![B49575C0-4443-4F2B-B582-ACD075314D92](https://user-images.githubusercontent.com/67494727/177040950-16e2965b-eb89-4bab-8dd5-f988859d9323.png)
-</p>
-</details>
 
-<details>
-  <summary> <b> Presets: </summary>
-<p>
-![A98C3BC2-9319-4398-88FE-25B5EAF3A7E9](https://user-images.githubusercontent.com/67494727/177041046-e7072d0b-577a-45e6-9c58-388443a5230e.png)
-</p>
-</details>
-
-<details>
-  <summary> <b> Avatar: </summary>
-<p>
-![21AF7CC8-B335-4329-B4E9-CF7F7725E589](https://user-images.githubusercontent.com/67494727/177041145-6b0682a7-935d-4c4a-a33a-40dfc8506a3d.png)
-</p>
-</details>
-
-<details>
-  <summary> <b> Changing the Wallpaper: </summary>
-<p>
-![934FB56C-804F-4709-B0AF-4596E1AC38AB](https://user-images.githubusercontent.com/67494727/177041184-f65d24f6-8412-446b-8ad1-a928691ad61a.png)
-</p>
-</details>
-
-<details>
-  <summary> <b> Pop-up Color: </summary>
-<p>
-![E1120761-EA34-4C1F-96FA-420DC10B7F65](https://user-images.githubusercontent.com/67494727/177041222-ebcce38a-2791-4ede-8549-1be1681727aa.png)
-</p>
-</details>
 
 # Multilingual Support for this write-up | WIP 🚧:
   
