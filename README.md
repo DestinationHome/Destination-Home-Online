@@ -237,6 +237,50 @@ Just with any massively multiplayer online title, our online services will go th
 </p>
 </details>
 
+  <details>
+  <summary> <b> Launching a Game: </summary>
+<p>
+
+![B49575C0-4443-4F2B-B582-ACD075314D92](https://user-images.githubusercontent.com/67494727/177040950-16e2965b-eb89-4bab-8dd5-f988859d9323.png)
+
+</p>
+</details>
+
+<details>
+  <summary> <b> Presets: </summary>
+
+<p>
+![A98C3BC2-9319-4398-88FE-25B5EAF3A7E9](https://user-images.githubusercontent.com/67494727/177041046-e7072d0b-577a-45e6-9c58-388443a5230e.png)
+
+</p>
+</details>
+
+<details>
+  <summary> <b> Avatar: </summary>
+<p>
+
+![21AF7CC8-B335-4329-B4E9-CF7F7725E589](https://user-images.githubusercontent.com/67494727/177041145-6b0682a7-935d-4c4a-a33a-40dfc8506a3d.png)
+
+</p>
+</details>
+
+<details>
+  <summary> <b> Changing the Wallpaper: </summary>
+<p>
+
+![934FB56C-804F-4709-B0AF-4596E1AC38AB](https://user-images.githubusercontent.com/67494727/177041184-f65d24f6-8412-446b-8ad1-a928691ad61a.png)
+
+</p>
+</details>
+
+<details>
+  <summary> <b> Pop-up Color: </summary>
+<p>
+
+![E1120761-EA34-4C1F-96FA-420DC10B7F65](https://user-images.githubusercontent.com/67494727/177041222-ebcce38a-2791-4ede-8549-1be1681727aa.png)
+
+</p>
+</details>
 
 
 # Multilingual Support for this write-up | WIP 🚧:
