@@ -191,7 +191,6 @@ Just with any massively multiplayer online title, our online services will go th
 </p>
 </details>
 
- 
 <details>
   <summary> <b> My Purchases: </b> </summary>
 <p>
