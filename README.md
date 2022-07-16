@@ -40,16 +40,16 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
     
 ![NPIA00005_screenshot_2022_05_11_21_59_37](https://user-images.githubusercontent.com/67494727/174608070-8d03ac8c-7429-4df1-9e5e-cf1c50c0c042.png)
   
- ℹ️ | Currently we are in our closed/internal **Alpha-Testing phase**. During this time we are working on fixing the following network services & functions within Home's intricate  ecosystem.
+ ℹ️ | Currently we are in our closed/internal **Alpha-Testing phase**. During this time we are working on fixing the following network services & functions within Home's intricate ecosystem.
 :---: | :---  
 
-- [x] Adding additional security services to protect our future database, as we know Home had many exploits during it's time on the **PLAYSTATION®3**.
-- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.89 offical firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
+- [x] Adding additional security services to protect our future database, as we know Home had many exploits during its time on the **PLAYSTATION®3**.
+- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.89 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
 - [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
 - [ ] Localization for all objects & all public/private scenes.
 - [x] Stress testing our current network infrastructure.
     
-Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here are the following development roadmap/pipeline that we are adhering to.
+Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
     
 - **1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.
     
@@ -66,9 +66,31 @@ Just with any massively multiplayer online title, our online services will go th
 - **4.** *Open Beta* -- Early Access available to **all members** of the [Discord](https://discord.gg/QguSBT3).
 - **5.** *Official Release*  
     
-⚠️ | Note there is no *ETA* for each stage! Developers work in their **free time** and any real life responsibilities e.g., *college*, *work*, *family matters* will dramatically affect progress; please be patient.
+⚠️ | Note there is no *ETA* for each stage! Developers work in their **free time** and any real-life responsibilities e.g., *college*, *work*, *family matters* will dramatically affect progress; please be patient.
 :---: | :---   
-  
+
+
+# 🚧 Destination Home Development Roadmap:
+
+![lw_sslounge_bg](https://user-images.githubusercontent.com/67494727/179326437-e0929657-89ad-4217-85b4-c66025b49645.png)
+
+Ever since we announced our official **alpha-testing** phase we know that the **Destination Home** × **PlayStation Home** community is always wanting to know the latest online updates. As a collective, the Destination Home Team has decided to be more apparent when it comes to our development process for Home's online revived services. Down below you can take a look at our current Roadmap update `7/15/2022`. 
+
+![Roadmap](https://user-images.githubusercontent.com/67494727/179325885-c60d70d8-f159-4b21-8282-e3716427d042.png)
+
+Our roadmap has **three classifications** which will detail our current priorities and how far they've come along in the development process as we provide occasional updates.
+
+- 🟢 **Short-term**
+- 🟠 **Mid-term**
+- 🔴 **Long-term**
+
+ ℹ️ | Note this roadmap will be updated occasionally as we work on our networking framework/infrastructure.
+:---: | :---  
+
+ 
+⚠️ | Please note: there is absolutely no timeline for this roadmap. We develop this project in our own free time and are not available 24/7 to work on it. Real-life responsibilities (work, school, personal) will affect development and take priority. Progress is also heavily reliant on the development of RPCN - the emulated version of PSN used by RPCS3 - as key networking functionality is yet to be implemented
+:---: | :---    
+
 # What's PlayStation Home?
   
 ![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
@@ -80,7 +102,7 @@ Just with any massively multiplayer online title, our online services will go th
 
 ![NPIA00005_screenshot_2022_07_02_07_11_32](https://user-images.githubusercontent.com/67494727/176998274-cb37391e-e5fb-498e-aa93-16ac9b2f2014.png)
 
-📙 | During Home's life-span it is has be noted that approximately **41 million** users worldwide accessed Home. However as newer social platforms are beginning to gain popularity, I know there are players who have never expirenced Home in it's true prime. This resource is a great place to get started to aid new users as they explore **PlayStation®Home** social platfrom for the first time!
+📙 | During Home's lifespan, it has been noted that approximately **41 million** users worldwide accessed Home. However as newer social platforms are beginning to gain popularity, I know there are players who have never experienced Home in its true prime. This resource is a great place to get started to aid new users as they explore **PlayStation®Home** social platform for the first time!
 :---: | :---   
 
 <details>
@@ -386,7 +408,7 @@ To keep this **README.md** file concise & straightforward I decided to make an o
 | The latest **PlayStation®Home** Online client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). | The latest custom RPCS3 **PlayStation®Home** Client from our [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). |
 | An active network connection. | An active network connection. |
 
-# Working services & features:
+# 🟢 Working services & features:
 
 ![Community_BootScreen2_background](https://user-images.githubusercontent.com/67494727/177429823-d24dd002-8b83-4b36-869c-671fa84b7280.png)
 
@@ -399,7 +421,7 @@ To keep this **README.md** file concise & straightforward I decided to make an o
 
 https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-afbe-388c5d9e10c9.mp4
 
-# Missing services/functions:
+# 🔴 Missing services/functions:
 
 ![Billabong_Batch030_LoadingScreenBackground_2013-10-30_1280x440](https://user-images.githubusercontent.com/67494727/177836040-9a61d183-56a3-49af-aef2-d11c0aead7d2.png)
 
@@ -419,7 +441,7 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
   
  ![170836541-94ee2396-cfd6-4017-88b3-135eef2488aa](https://user-images.githubusercontent.com/67494727/171184130-c1944536-e9b9-45db-a4c9-e612ed3f6644.png)
 
-Earning rewards/items was apart of PlayStation Home's original charm! During Home's online beta phase they were more then thousands of rewards from various events, minigames, and even physical PS3 titles to be earned. Recently I decided to create a full [archive/database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive) for the SCEA/SCEE region of Home to document each unique **PlayStation®Home** Reward object. 
+Earning rewards/items were a part of PlayStation Home's original charm! During Home's online beta phase they were more than thousands of rewards from various events, minigames, and even physical PS3 titles to be earned. Recently I decided to create a full [archive/database](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive) for the SCEA/SCEE region of Home to document each unique **PlayStation®Home** Reward object. 
 
 # 🕹️ PlayStation®Home Minigame Compatibility List:
 
@@ -431,13 +453,13 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 
 ![NPIA00005_screenshot_2022_06_25_21_45_11](https://user-images.githubusercontent.com/67494727/177837044-4215c329-545d-47bd-8631-3b23a93c4baf.png)
 
-- As all with any major software development project, even the best applications are known to have bugs, and PlayStation Home online is no exception. With that being said the Destination Home gives serious consideration when it comes to stability for our community. If you see any **critical bugs** please create a ticket/issue [here](https://github.com/DestinationHome/Destination-Home-Online/issues) on the official Destination Home Online repo. In order to fix bugs fast, we ask for users to provide as much documentation as possible. For instance:
+- As all with any major software development project, even the best applications are known to have bugs, and PlayStation Home online is no exception. With that being said the Destination Home Development team gives serious consideration when it comes to stability for our community. If you see any **critical bugs** please create a ticket/issue [here](https://github.com/DestinationHome/Destination-Home-Online/issues) on the official Destination Home Online repo. In order to fix bugs fast, we ask for users to provide as much documentation as possible. For instance:
 
   - What client are your using (RPCS3/PS3)?
   - Where did this bug occur? List the scene/space name.
   - Provide pictures/videos of the error occurring.
   
-- If you see an a issue topic that has already **been documented** please refrain from creating another report/thread as this will cause confusion for the development team.
+- If you see an issue topic that has already **been documented** please refrain from creating another **report/thread** as this will cause confusion for the development team.
 
 # 🤖 Destination Home Discord Cache Bot:
 
@@ -455,7 +477,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
   <img src="https://user-images.githubusercontent.com/67494727/175508950-e8d4e2c6-ab33-4e5e-954f-93ddea546e0d.png">
 </p>
 
-- Note any **values** in `[square brackets]` are *optional* and can be added by completing the previous parameter with `TAB`. By adding such parameters like `size` or `region` gives the development team a preview of what to expect from your unique cache dump!
+- Note any **values** in `[square brackets]` are *optional* and can be added by completing the previous parameter with `TAB`. By adding such parameters as `size` or `region` gives the development team a preview of what to expect from your unique cache dump!
 
 
 <p align="center">
@@ -506,7 +528,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 
 ![VeemeePark_Batch002_LoadingscreenBackground_2013-06-26_1280x440](https://user-images.githubusercontent.com/67494727/177836252-3e909c80-64eb-4a19-96c2-df0602925a4f.png)
 
-- Thanks to the Destination Home/PlayStation Home community for donating much needed data! Without you guys this preservation project wouldn't be online nor archived for educational purposes.
+- Thanks to the Destination Home/PlayStation Home community for donating much-needed data! Without you guys, this preservation project wouldn't be online nor archived for educational purposes.
 
 <h1 align="center">🏆 Cache Donator Hall Of Fame 🏆</h1>
 
