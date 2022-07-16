@@ -76,7 +76,7 @@ Just with any massively multiplayer online title, our online services will go th
 
 Ever since we announced our official **alpha-testing** phase we know that the **Destination Home** × **PlayStation Home** community is always wanting to know the latest online updates. As a collective, the Destination Home Team has decided to be more apparent when it comes to our development process for Home's online revived services. Down below you can take a look at our current Roadmap update `7/15/2022`. 
 
-![Roadmap](https://user-images.githubusercontent.com/67494727/179325885-c60d70d8-f159-4b21-8282-e3716427d042.png)
+![Roadmap](https://user-images.githubusercontent.com/67494727/179326946-3c696c13-c2c4-45c1-bd2a-ac6e5476854f.png)
 
 Our roadmap has **three classifications** which will detail our current priorities and how far they've come along in the development process as we provide occasional updates.
 
