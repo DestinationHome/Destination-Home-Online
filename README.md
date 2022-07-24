@@ -767,6 +767,19 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Cobalt</td>
         <td>RickyAndre8991</td>
     </tr>
+      <tr>
+        <td>Sharakon</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
 - Thanks to the [**RPCS3**](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
