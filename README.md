@@ -770,7 +770,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
       <tr>
         <td>Sharakon</td>
         <td>Tanzu15</td>
-        <td></td>
+        <td>youngcamel</td>
         <td></td>
         <td></td>
         <td></td>
