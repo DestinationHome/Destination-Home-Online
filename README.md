@@ -769,7 +769,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr>
       <tr>
         <td>Sharakon</td>
-        <td></td>
+        <td>Tanzu15</td>
         <td></td>
         <td></td>
         <td></td>
