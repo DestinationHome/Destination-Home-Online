@@ -772,8 +772,8 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Tanzu15</td>
         <td>youngcamel</td>
         <td>Quip</td>
-        <td></td>
-        <td></td>
+        <td>iAmCallumx</td>
+        <td>Beans</td>
         <td></td>
         <td></td>
         <td></td>
