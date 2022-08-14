@@ -774,8 +774,8 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Quip</td>
         <td>iAmCallumx</td>
         <td>Beans</td>
-        <td></td>
-        <td></td>
+        <td>Chef</td>
+        <td>Bees?</td>
         <td></td>
         <td></td>
         <td></td>
