@@ -776,7 +776,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Beans</td>
         <td>Chef</td>
         <td>Bees?</td>
-        <td></td>
+        <td>Windows7ge</td>
         <td></td>
         <td></td>
     </tr>
