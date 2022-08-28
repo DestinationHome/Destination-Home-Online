@@ -792,4 +792,4 @@ We are not affiliated with **Sony Interactive Entertainment (SIE)** or any other
 
 **All rights are reserved by Sony Interactive Entertainment Europe Limited, as well as the respective third-party companies responsible for implementing content into PlayStation®Home. Destination Home is working on PlayStation®Home as the adaptation of publicly leaked software, the usage of this software falling under abandonware due to the lack of copyright enforcement involving the tools. The online section of PlayStation®Home is protected by the laws implied by the Digital Millennium Copyright Act 17 U.S. Code § 1201 for the purpose of preservation, education, and public viewing as a museum effort. That the team's focus is to reproduce the functionality once accessible and hosted by Sony, PlayStation®Home. Tools that are provided to us will be to our best ability given the utmost protection unless stated otherwise by the provider. Our focus is the protection of Sony copyright and intellectual property while following the goal of reproduction of online functionality, and do not claim any of this as our own.**
 
-Test.
+Test-Test.
