@@ -69,6 +69,7 @@ Just with any massively multiplayer online title, our online services will go th
 ⚠️ | Note there is no *ETA* for each stage! Developers work in their **free time** and any real-life responsibilities e.g., *college*, *work*, *family matters* will dramatically affect progress; please be patient.
 :---: | :---   
 
+# ✅ Destination Home Beta Enrollment Process:
 
 # 🚧 Destination Home Development Roadmap:
 
