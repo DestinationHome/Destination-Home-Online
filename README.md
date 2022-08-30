@@ -71,6 +71,41 @@ Just with any massively multiplayer online title, our online services will go th
 
 # ✅ Destination Home Beta Enrollment Process:
 
+![CENTRAL PLAZA BETA ADD](https://user-images.githubusercontent.com/67494727/187321907-d5a3c9d0-ebca-4e3b-99f2-aa261f0ad854.png)
+
+The Closed Beta is a **2-week period** for users to test the online and provide the team with valuable data/information that will be used to further development.
+This version of Online has been *custom-tailored* for this testing and is *NOT* representative of what will eventually be made publicly available. 
+
+ ℹ️ | Important Information during the first Closed Beta Phase:
+:---: | :--- 
+
+- You are being given early access to help provide data/metrics for development.
+- Features/Functionality WILL be broken or missing
+- There WILL be bugs (especially on RPCS3).
+- Scenes, Clothing, Furniture and more will be very limited.
+- Any existing cache/savedata WILL be overwritten: ensure you've donated so it's not lost forever!
+
+ ℹ️ | Enrollment Information:
+:---: | :--- 
+
+- You may only enroll 1 username.
+- Your username will be tied to your Discord ID for the duration of the Beta.
+- You cannot change your enrolled username after submission -- double-check it's accurate!
+- If you intend on playing on both RPCS3 and PS3, please ensure your usernames are identical.
+- Your PSN account region is typically where you live(d) at the time of creation of the account.
+- Your RPCN account region will be North America (by default)
+- Over the 2-week period, access will be provided randomly in phases; be patient.
+- We have every right to revoke access to any beta users if the Destination Home Online Community Code of Conduct is breached.
+
+📸 | We encourage the sharing of photos/videos during the Closed Beta, but please do point out the above points when posting just so people don't get the wrong idea!
+:---: | :--- 
+
+# How to enroll in our Closed Beta Phase:
+
+🤖 | As of `8/12/2022` the Destination Home Team has now deployed our official Beta Enrollment Bot which automatically accepts our Cache Donators/Nitro Boosters RPCN/PSN ID's in preparation for our first Closed Beta. Users will already need to be a verified Cache Donator/Nitro Booster in our [Discord Server](https://discord.com/invite/QguSBT3) to proceed this open enrollment phase. To get started users can type in the following arguments/commands:
+:---: | :---
+  
+
 # 🚧 Destination Home Development Roadmap:
 
 ![lw_sslounge_bg](https://user-images.githubusercontent.com/67494727/179326437-e0929657-89ad-4217-85b4-c66025b49645.png)
@@ -87,7 +122,6 @@ Our roadmap has **three classifications** which will detail our current prioriti
 
  ℹ️ | Note this roadmap will be updated occasionally as we work on our networking framework/infrastructure.
 :---: | :---  
-
  
 ⚠️ | Please note: there is absolutely no timeline for this roadmap. We develop this project in our own free time and are not available 24/7 to work on it. Real-life responsibilities (work, school, personal) will affect development and take priority. Progress is also heavily reliant on the development of RPCN - the emulated version of PSN used by RPCS3 - as key networking functionality is yet to be implemented
 :---: | :---    
@@ -95,8 +129,7 @@ Our roadmap has **three classifications** which will detail our current prioriti
 # What's PlayStation Home?
   
 ![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
-  
-  
+    
 **PlayStation®Home** is a 3D social gaming community that allows **PLAYSTATION®3** users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of **PlayStation®Home**.
 
 # First time playing PlayStation®Home? Check out the official Help System Guide.
