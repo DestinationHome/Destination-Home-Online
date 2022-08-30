@@ -94,7 +94,7 @@ This version of Online has been *custom-tailored* for this testing and is *NOT* 
 - You cannot change your enrolled username after submission -- double-check it's accurate!
 - If you intend on playing on both RPCS3 and PS3, please ensure your usernames are identical.
 - Your PSN account region is typically where you live(d) at the time of creation of the account.
-- Your RPCN account region will be North America (by default)
+- Your RPCN account region will be **North America** (by default).
 - Over the 2-week period, access will be provided randomly in phases; be patient.
 - We have every right to revoke access to any beta users if the Destination Home Online Community Code of Conduct is breached.
 
