@@ -100,11 +100,29 @@ This version of Online has been *custom-tailored* for this testing and is *NOT* 
 📸 | We encourage the sharing of photos/videos during the Closed Beta, but please do point out the above points when posting just so people don't get the wrong idea!
 :---: | :--- 
 
-# How to enroll in our Closed Beta Phase:
-
+# ✍🏻 How to enroll in our Closed Beta Phase:
+    
+![hub](https://user-images.githubusercontent.com/67494727/187338433-2674242f-1e40-4348-8b78-1f2eb15063bf.png)
+ 
 🤖 | As of `8/12/2022` the Destination Home Team has now deployed our official Beta Enrollment Bot which automatically accepts our Cache Donators/Nitro Boosters RPCN/PSN ID's in preparation for our first Closed Beta. Users will already need to be a verified Cache Donator/Nitro Booster in our [Discord Server](https://discord.com/invite/QguSBT3) to proceed this open enrollment phase. To get started users can type in the following arguments/commands:
 :---: | :---
-  
+ 
+- `/beta enroll [platform] [username] [region] [agreement]`
+    
+  - The `version` parameter has the following 3 following options `PS3` `RPCS3` `BOTH` which will let us know what client you'll be using for our Beta Phase.
+   
+  - The `username` parameter allows you to type your **PSN/RPCN** ID. Be sure to type your ID exactly as it is shown on both network services.
+    
+   - The `region` parameter has **4** selections that you can choose from `North America, Europe, Japan, Other`. This will document what region you PSN account is from and give the development team an idea of localization services compatibility.
+
+   - The `agreement` parameter details you've read the beta information from the `/beta info` command in Discord.
+      
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67494727/187336237-82e46696-bc97-4d66-8f3e-572d4a96711c.png">
+</p>
+
+- Note any **values** in `[square brackets]` are *optional* and can be added by completing the previous parameter with `TAB`. By adding such parameters as `size` or `region` gives the development team a preview of what to expect from your unique cache dump!
+
 
 # 🚧 Destination Home Development Roadmap:
 
@@ -361,7 +379,6 @@ Welcome to the official guide on how users can re-experience [**PlayStation®Hom
 
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
 
-
 <h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
 
 <p align="center">
@@ -505,6 +522,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 - `/cache upload <link here> [version] [size] [region]`
 
   - The `version` parameter has the following ranges from `0.3 ➜ 1.86` which will document your Home client version.
+  
   - The `region` parameter has **4** selections that you can choose from `North America, Europe, Japan, Asia`. This will document what region you played in Home.
 
 <p align="center">
