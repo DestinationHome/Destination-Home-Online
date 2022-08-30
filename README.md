@@ -115,14 +115,19 @@ This version of Online has been *custom-tailored* for this testing and is *NOT* 
     
    - The `region` parameter has **4** selections that you can choose from `North America, Europe, Japan, Other`. This will document what region you PSN account is from and give the development team an idea of localization services compatibility.
 
-   - The `agreement` parameter details you've read the beta information from the `/beta info` command in Discord.
+   - The `agreement` parameter details that you've fully read the closed-beta information from the `/beta info` command in Discord.
       
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67494727/187336237-82e46696-bc97-4d66-8f3e-572d4a96711c.png">
 </p>
 
-- Note any **values** in `[square brackets]` are *optional* and can be added by completing the previous parameter with `TAB`. By adding such parameters as `size` or `region` gives the development team a preview of what to expect from your unique cache dump!
+- Note any **values** in `[square brackets]` are **MANDATORY** and will need to be filled out in order for you to be fully enrolled in our closed-beta testing phase!
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67494727/175782768-5fa03371-91de-4994-954d-915c32beb2ba.png">
+</p>
+
+![officially enrolled](https://user-images.githubusercontent.com/67494727/187340876-0818dc75-e345-4d8e-a15f-15be28a2379c.png)
 
 # 🚧 Destination Home Development Roadmap:
 
