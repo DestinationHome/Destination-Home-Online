@@ -16,6 +16,7 @@
   <a href="https://github.com/DestinationHome/Destination-Home-Online/issues">
          <img src="https://img.shields.io/github/issues/DestinationHome/Destination-Home-Online"
             alt="Github Issue Tracker"></a>
+          <a href="https://twitter.com/destinpshome?lang=en">  
         <img src="https://img.shields.io/twitter/follow/DestinPsHome?style=social&logo=twitter"
              alt="Follow us on Twitter"></a>
        <a href="https://www.twitch.tv/playstationhome/videos">
