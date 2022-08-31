@@ -835,7 +835,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Chef</td>
         <td>Bees?</td>
         <td>Windows7ge</td>
-        <td></td>
+        <td>Kanye West</td>
         <td></td>
     </tr>
 </table>
