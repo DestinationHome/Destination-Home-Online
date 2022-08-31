@@ -81,7 +81,7 @@ This version of Online has been *custom-tailored* for this testing and is *NOT* 
 :---: | :--- 
 
 - You are being given early access to help provide data/metrics for development.
-- Features/Functionality WILL be broken or missing
+- Features/Functionality WILL be broken or missing.
 - There WILL be bugs (especially on RPCS3).
 - Scenes, Clothing, Furniture and more will be very limited.
 - Any existing cache/savedata WILL be overwritten: ensure you've donated so it's not lost forever!
