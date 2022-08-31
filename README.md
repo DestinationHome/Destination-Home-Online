@@ -96,7 +96,7 @@ This version of Online has been *custom-tailored* for this testing and is *NOT* 
 - Your PSN account region is typically where you live(d) at the time of creation of the account.
 - Your RPCN account region will be **North America** (by default).
 - Over the 2-week period, access will be provided randomly in phases; be patient.
-- We have every right to revoke access to any beta users if the Destination Home Online Community Code of Conduct is breached.
+- We have every right to revoke access to any beta users if the [Destination Home Online Community Code of Conduct](https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct) is breached.
 
 📸 | We encourage the sharing of photos/videos during the Closed Beta, but please do point out the above points when posting just so people don't get the wrong idea!
 :---: | :--- 
