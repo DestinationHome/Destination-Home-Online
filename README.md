@@ -16,6 +16,7 @@
   <a href="https://github.com/DestinationHome/Destination-Home-Online/issues">
          <img src="https://img.shields.io/github/issues/DestinationHome/Destination-Home-Online"
             alt="Github Issue Tracker"></a>
+          <a href="https://twitter.com/destinpshome?lang=en">  
         <img src="https://img.shields.io/twitter/follow/DestinPsHome?style=social&logo=twitter"
              alt="Follow us on Twitter"></a>
        <a href="https://www.twitch.tv/playstationhome/videos">
@@ -69,6 +70,65 @@ Just with any massively multiplayer online title, our online services will go th
 ⚠️ | Note there is no *ETA* for each stage! Developers work in their **free time** and any real-life responsibilities e.g., *college*, *work*, *family matters* will dramatically affect progress; please be patient.
 :---: | :---   
 
+# ✅ Destination Home Beta Enrollment Process:
+
+![CENTRAL PLAZA BETA ADD](https://user-images.githubusercontent.com/67494727/187321907-d5a3c9d0-ebca-4e3b-99f2-aa261f0ad854.png)
+
+The Closed Beta is a **2-week period** for users to test the online and provide the team with valuable data/information that will be used to further development.
+This version of Online has been *custom-tailored* for this testing and is *NOT* representative of what will eventually be made publicly available. 
+
+ ℹ️ | Important Information during the first Closed Beta Phase:
+:---: | :--- 
+
+- You are being given early access to help provide data/metrics for development.
+- Features/Functionality WILL be broken or missing.
+- There WILL be bugs (especially on RPCS3).
+- Scenes, Clothing, Furniture and more will be very limited.
+- Any existing cache/savedata WILL be overwritten: ensure you've donated so it's not lost forever!
+
+ ℹ️ | Enrollment Information:
+:---: | :--- 
+
+- You may only enroll 1 username.
+- Your username will be tied to your Discord ID for the duration of the Beta.
+- You cannot change your enrolled username after submission -- double-check it's accurate!
+- If you intend on playing on both RPCS3 and PS3, please ensure your usernames are identical.
+- Your PSN account region is typically where you live(d) at the time of creation of the account.
+- Your RPCN account region will be **North America** (by default).
+- Over the 2-week period, access will be provided randomly in phases; be patient.
+- We have every right to revoke access to any beta users if the [Destination Home Online Community Code of Conduct](https://github.com/DestinationHome/Destination-Home-Online/wiki/%E2%85%A1-%7C-Destination-Home-Online-Community-Code-of-Conduct) is breached.
+
+📸 | We encourage the sharing of photos/videos during the Closed Beta, but please do point out the above points when posting just so people don't get the wrong idea!
+:---: | :--- 
+
+# ✍🏻 How to enroll in our Closed Beta Phase:
+    
+![hub](https://user-images.githubusercontent.com/67494727/187338433-2674242f-1e40-4348-8b78-1f2eb15063bf.png)
+ 
+🤖 | As of `8/12/2022` the Destination Home Team has now deployed our official Beta Enrollment Bot which automatically accepts our Cache Donators/Nitro Boosters RPCN/PSN ID's in preparation for our first Closed Beta. Users will already need to be a verified Cache Donator/Nitro Booster in our [Discord Server](https://discord.com/invite/QguSBT3) to proceed this open enrollment phase. To get started users can type in the following arguments/commands:
+:---: | :---
+ 
+- `/beta enroll [platform] [username] [region] [agreement]`
+    
+  - The `version` parameter has the following 3 following options `PS3` `RPCS3` `BOTH` which will let us know what client you'll be using for our Beta Phase.
+   
+  - The `username` parameter allows you to type your **PSN/RPCN** ID. Be sure to type your ID exactly as it is shown on both network services.
+    
+   - The `region` parameter has **4** selections that you can choose from `North America, Europe, Japan, Other`. This will document what region you PSN account is from and give the development team an idea of localization services compatibility.
+
+   - The `agreement` parameter details that you've fully read the closed-beta information from the `/beta info` command in Discord.
+      
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67494727/187336237-82e46696-bc97-4d66-8f3e-572d4a96711c.png">
+</p>
+
+- Note any **values** in `[square brackets]` are **MANDATORY** and will need to be filled out in order for you to be fully enrolled in our closed-beta testing phase!
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67494727/175782768-5fa03371-91de-4994-954d-915c32beb2ba.png">
+</p>
+
+![officially enrolled](https://user-images.githubusercontent.com/67494727/187340876-0818dc75-e345-4d8e-a15f-15be28a2379c.png)
 
 # 🚧 Destination Home Development Roadmap:
 
@@ -86,7 +146,6 @@ Our roadmap has **three classifications** which will detail our current prioriti
 
  ℹ️ | Note this roadmap will be updated occasionally as we work on our networking framework/infrastructure.
 :---: | :---  
-
  
 ⚠️ | Please note: there is absolutely no timeline for this roadmap. We develop this project in our own free time and are not available 24/7 to work on it. Real-life responsibilities (work, school, personal) will affect development and take priority. Progress is also heavily reliant on the development of RPCN - the emulated version of PSN used by RPCS3 - as key networking functionality is yet to be implemented
 :---: | :---    
@@ -94,8 +153,7 @@ Our roadmap has **three classifications** which will detail our current prioriti
 # What's PlayStation Home?
   
 ![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
-  
-  
+    
 **PlayStation®Home** is a 3D social gaming community that allows **PLAYSTATION®3** users to meet, chat, plan, and launch into games together. You can create your own custom avatar, decorate your personal apartment, play mini-games, shop, watch videos, attend special events, and much more - it's all part of **PlayStation®Home**.
 
 # First time playing PlayStation®Home? Check out the official Help System Guide.
@@ -327,7 +385,6 @@ Welcome to the official guide on how users can re-experience [**PlayStation®Hom
 
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
 
-
 <h1 align="center">📖 Table of Contents | Destination Home Online Wiki 📖</h1>
 
 <p align="center">
@@ -471,6 +528,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 - `/cache upload <link here> [version] [size] [region]`
 
   - The `version` parameter has the following ranges from `0.3 ➜ 1.86` which will document your Home client version.
+  
   - The `region` parameter has **4** selections that you can choose from `North America, Europe, Japan, Asia`. This will document what region you played in Home.
 
 <p align="center">
@@ -777,8 +835,8 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Chef</td>
         <td>Bees?</td>
         <td>Windows7ge</td>
-        <td></td>
-        <td></td>
+        <td>Kanye West</td>
+        <td>TurboTosti</td>
     </tr>
 </table>
 
