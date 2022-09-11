@@ -838,6 +838,19 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Kanye West</td>
         <td>TurboTosti</td>
     </tr>
+     <tr>
+        <td>Spooky Boii's</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>x</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
 - Thanks to the [**RPCS3**](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
