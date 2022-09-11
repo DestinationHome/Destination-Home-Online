@@ -839,7 +839,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>TurboTosti</td>
     </tr>
      <tr>
-        <td>Spooky Boii's</td>
+        <td>gamer45ever</td>
         <td></td>
         <td></td>
         <td></td>
