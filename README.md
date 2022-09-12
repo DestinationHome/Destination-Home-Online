@@ -840,7 +840,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr>
      <tr>
         <td>gamer45ever</td>
-        <td></td>
+        <td>SirDoggo</td>
         <td></td>
         <td></td>
         <td>x</td>
