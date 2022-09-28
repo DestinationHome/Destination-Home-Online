@@ -842,7 +842,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>gamer45ever</td>
         <td>SirDoggo</td>
         <td>aTom</td>
-        <td></td>
+        <td>Kon_aki</td>
         <td></td>
         <td></td>
         <td></td>
