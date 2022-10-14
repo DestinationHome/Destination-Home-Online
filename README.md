@@ -845,7 +845,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Kon_aki</td>
         <td>MetalZombie23</td>
         <td>skele boi's</td>
-        <td></td>
+        <td>Shadow_Zero</td>
         <td></td>
         <td></td>
         <td></td>
