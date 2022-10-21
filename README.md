@@ -846,9 +846,9 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>MetalZombie23</td>
         <td>skele boi's</td>
         <td>Shadow_Zero</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>CrimsonNyte</td>
+        <td>Chaotic Pumpkin</td>
+        <td>leezhiwei090905's</td>
         <td></td>
     </tr>
 </table>
