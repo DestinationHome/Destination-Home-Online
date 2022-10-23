@@ -850,7 +850,6 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Chaotic Pumpkin</td>
         <td>leezhiwei090905's</td>
         <td>Sda7</td>
-        <td></td>
     </tr>
 </table>
 
