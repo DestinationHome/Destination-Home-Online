@@ -2,8 +2,8 @@
 name: Bug report template for PlayStation Home Online
 about: Create a report to help us improve our custom PlayStation Home servers.
 title: ''
-labels: ''
-assignees: I-Knight-I, DedSecisHere, NagatoDEV, PSHFigment
+labels: Bug
+assignees: I-Knight-I, NagatoDEV
 
 ---
 
@@ -28,15 +28,18 @@ A clear and concise description of what you expected to happen.
 
 If applicable, add screenshots or videos to help explain your problem. This will allow the Destination Home team to fix critical bugs faster for our community. 
 
-**PlayStation 3 (please complete the following information):**
+# Client Information:
+**Region:** [SCEA, SCEE, SCEJ, SCEAsia, Other]
+**Country:**
+**Firmware Version:**
 
- - Firmware Version: [PS3 Firmware]
- - Public/Private Scene where this bug/error occurred at:
+**PlayStation 3:**
+**Firmware Type:** [OFW, HFW, CFW]
 
-**PC Specs (please complete the following information):**
- - General PC Specs: 
- - Custom RPCS3 Client Version: 
- - Public/Private Scene where this bug/error occurred at:
+**RPCS3:**
+**CPU:**
+**GPU:**
+**RAM:**
 
 **Additional context**
 
