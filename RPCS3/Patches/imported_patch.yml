@@ -1,0 +1,13 @@
+Version: 1.2
+
+PPU-8aaf3d8c1d18650967013d128f848327a91b5fe0:
+  Disable MLAA:
+    Games:
+      "PlayStation: Home":
+        NPIA00005: [ 01.87 ]
+    Author: "Knight"
+    Patch Version: 1.0
+    Group: ""
+    Notes: ""
+    Patch:
+      - [ be32, 0x0003bcb0, 0x38000000 ]
