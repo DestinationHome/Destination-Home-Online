@@ -37,7 +37,7 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 # 📣 Current Status of Destination Home Online Revival Servers/Services:
 
   <p align="center">
-  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Testing%20Period-Alpha-orange"></a>
+  <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Testing%20Period-Closed%Beta%Phase%I-orange"></a>
     
 ![NPIA00005_screenshot_2022_05_11_21_59_37](https://user-images.githubusercontent.com/67494727/174608070-8d03ac8c-7429-4df1-9e5e-cf1c50c0c042.png)
   
