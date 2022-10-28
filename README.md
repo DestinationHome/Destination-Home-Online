@@ -853,8 +853,8 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr>
        <tr>
         <td>Avari</td>
-        <td></td>
-        <td></td>
+        <td>fb888's</td>
+        <td>sega dude's</td>
         <td></td>
         <td></td>
         <td></td>
