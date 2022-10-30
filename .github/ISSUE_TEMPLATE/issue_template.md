@@ -8,11 +8,9 @@ assignees: I-Knight-I, NagatoDEV
 ---
 
 **Describe the bug**
-
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-
 Steps to reproduce the behavior:
 
 1. Go to '...'
@@ -21,26 +19,16 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-
 A clear and concise description of what you expected to happen.
 
 **Screenshots & Video Documentation**
-
 If applicable, add screenshots or videos to help explain your problem. This will allow the Destination Home team to fix critical bugs faster for our community. 
 
 # Client Information:
 **Region:** [SCEA, SCEE, SCEJ, SCEAsia, Other]
-**Country:**
-**Firmware Version:**
-
-**PlayStation 3:**
+**Country:** 
+**Platform:** [PS3, RPCS3]
 **Firmware Type:** [OFW, HFW, CFW]
 
-**RPCS3:**
-**CPU:**
-**GPU:**
-**RAM:**
-
 **Additional context**
-
 Add any other context about the problem here, that you may see fit to give a general overview of this issue.
