@@ -1,10 +1,11 @@
-# <h1 align="center">**Destination Home Online × Welcome Back to PlayStation®Home! | WIP**</h1>
+# <h1 align="center">**Destination Home Online × Welcome Back to PlayStation®Home!**<img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20I-orange"></h1>
 
-  <p align="center">	
-  <a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive"><img src="https://img.shields.io/github/downloads/DestinationHome/Destination-Home-Online/total?color=brightgreen%27"></a>
 
 ![NPIA00005_screenshot_2022_05_11_21_44_06](https://user-images.githubusercontent.com/67494727/168069489-c990264d-8946-4319-b305-370bdce93fa3.png)
 
+  <p align="center">	
+  <a href="https://github.com/NagatoDEV/PlayStation-Home-Master-Archive"><img src="https://img.shields.io/github/downloads/DestinationHome/Destination-Home-Online/total?color=brightgreen%27"></a>
+ 
 <p align="center">
   <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
     <a href="https://github.com/DestinationHome/Destination-Home-Online/graphs/contributors" alt="Contributors">
