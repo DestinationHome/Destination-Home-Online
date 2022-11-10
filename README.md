@@ -855,8 +855,8 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Avari</td>
         <td>fb888's</td>
         <td>sega dude's</td>
-        <td></td>
-        <td></td>
+        <td>Zorix</td>
+        <td>VTG</td>
         <td></td>
         <td></td>
         <td></td>
