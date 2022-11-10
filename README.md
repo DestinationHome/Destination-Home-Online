@@ -858,7 +858,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>sega dude's</td>
         <td>Zorix</td>
         <td>VTG</td>
-        <td></td>
+        <td>Ted</td>
         <td></td>
         <td></td>
         <td></td>
