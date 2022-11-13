@@ -859,9 +859,9 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Zorix</td>
         <td>VTG</td>
         <td>Ted</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Jacross</td>
+        <td>WAZABI</td>
+        <td>Kalvaxas</td>
         <td></td>
         <td></td>
     </tr>
