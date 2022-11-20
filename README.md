@@ -862,7 +862,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Jacross</td>
         <td>WAZABI</td>
         <td>Kalvaxas</td>
-        <td></td>
+        <td>Cygnotto's</td>
         <td></td>
     </tr>
 </table>
