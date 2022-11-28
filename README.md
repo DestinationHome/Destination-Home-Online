@@ -865,7 +865,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>WAZABI</td>
         <td>Kalvaxas</td>
         <td>Cygnotto's</td>
-        <td></td>
+        <td>TSRFJ</td>
     </tr>
 </table>
 
