@@ -867,6 +867,10 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Cygnotto's</td>
         <td>TSRFJ</td>
     </tr>
+     <tr>
+        <td>Tomyi</td>
+        <td>DARK</td>
+    </tr>
 </table>
 
 - Thanks to the [**RPCS3**](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
