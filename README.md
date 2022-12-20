@@ -871,6 +871,9 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Tomyi</td>
         <td>DARK</td>
         <td>TheOnlyWiseJEDI</td>
+        <td>Tony Montana</td>
+        <td>NeNa224</td>
+        <td>rjx316</td>
     </tr>
 </table>
 
