@@ -870,6 +870,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
      <tr>
         <td>Tomyi</td>
         <td>DARK</td>
+        <td>TheOnlyWiseJEDI</td>
     </tr>
 </table>
 
