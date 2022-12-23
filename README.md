@@ -874,6 +874,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Tony Montana</td>
         <td>NeNa224</td>
         <td>rjx316</td>
+        <td>Fritches</td>
     </tr>
 </table>
 
