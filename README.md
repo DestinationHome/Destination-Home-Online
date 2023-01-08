@@ -876,6 +876,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>rjx316</td>
         <td>Fritches</td>
         <td>Ariel</td>
+        <td>Cokes225</td>
     </tr>
 </table>
 
