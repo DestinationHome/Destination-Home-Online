@@ -877,6 +877,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Fritches</td>
         <td>Ariel</td>
         <td>Cokes225</td>
+        <td>Kin Wai Cheuk</td>
     </tr>
 </table>
 
