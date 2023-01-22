@@ -882,7 +882,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     <tr>
         <td>Shotgunsean</td>
         <td>Abitha</td>
-        <td></td>
+        <td>JrMan</td>
         <td></td>
         <td></td>
         <td></td>
