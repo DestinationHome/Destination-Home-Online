@@ -884,7 +884,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Abitha</td>
         <td>JrMan</td>
         <td>Agentevil</td>
-        <td></td>
+        <td>Schultka_</td>
         <td></td>
         <td></td>
         <td></td>
