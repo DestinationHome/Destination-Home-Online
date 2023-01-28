@@ -885,7 +885,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>JrMan</td>
         <td>Agentevil</td>
         <td>Schultka_</td>
-        <td></td>
+        <td>CozyLesbian</td>
         <td></td>
         <td></td>
         <td></td>
