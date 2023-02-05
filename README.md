@@ -878,6 +878,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Ariel</td>
         <td>Cokes225</td>
         <td>Kin Wai Cheuk</td>
+        <td>Sizzla</td>
     </tr>
     <tr>
         <td>Shotgunsean</td>
@@ -886,8 +887,8 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Agentevil</td>
         <td>Schultka_</td>
         <td>CozyLesbian</td>
-        <td></td>
-        <td></td>
+        <td>NovaThePerson</td>
+        <td>mrve's</td>
         <td></td>
         <td></td>
     </tr>
