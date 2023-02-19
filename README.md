@@ -890,6 +890,18 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>NovaThePerson</td>
         <td>mrve's</td>
         <td>iComputer7</td>
+        <td>Bradley</td>
+    </tr>
+    <tr>
+        <td>peanut_unlimited</>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
         <td></td>
     </tr>
 </table>
