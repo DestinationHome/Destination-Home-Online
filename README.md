@@ -897,9 +897,9 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>nitrate92</td>
         <td>NovaDaemon</td>
         <td>Emily</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Greatblaster360</td>
+        <td>shadowknight1620</td>
+        <tdKingofTheBeez></td>
         <td></td>
         <td></td>
         <td></td>
