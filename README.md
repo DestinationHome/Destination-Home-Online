@@ -48,7 +48,7 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 :---: | :---  
 
 - [x] Adding additional security services to protect our future database, as we know Home had many exploits during its time on the **PLAYSTATION®3**.
-- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.89 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
+- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.90 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
 - [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
 - [ ] Localization for all objects & all public/private scenes.
 - [x] Stress testing our current network infrastructure.
@@ -472,7 +472,7 @@ To keep this **README.md** file concise & straightforward I decided to make an o
 
 ![Community_BootScreen2_background](https://user-images.githubusercontent.com/67494727/177429823-d24dd002-8b83-4b36-869c-671fa84b7280.png)
 
-- [x] Official Firmware support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/5/22, v4.89 is the latest firmware for PS3`.
+- [x] Official Firmware support on the [latest](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/5/22, v4.90 is the latest firmware for PS3`.
 - [x]  We are using the [1.86 version of **PlayStation®Home**](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) for our production client.
 - [x] Trophy support will be available on PS3. RPCS3 will use its equivalent service for handling trophies.
 - [x] Rewards. `This includes furniture, clothing, apartments, etc`.
