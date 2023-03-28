@@ -1,6 +1,6 @@
 # <h1 align="center">**Destination Home Online × Welcome Back to PlayStation®Home!**</h1>
 <p align="center">	
-<img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20I-orange">
+<img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange">
 </a>
 
 ![NPIA00005_screenshot_2022_05_11_21_44_06](https://user-images.githubusercontent.com/67494727/168069489-c990264d-8946-4319-b305-370bdce93fa3.png)
