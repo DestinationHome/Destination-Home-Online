@@ -908,7 +908,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr>
     <tr>
         <td>Steven1230</td>
-        <td></td>
+        <td>Nightly 2.0</td>
         <td></td>
         <td></td>
         <td></td>
