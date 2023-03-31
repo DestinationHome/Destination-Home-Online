@@ -892,18 +892,32 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>mrve's</td>
         <td>iComputer7</td>
         <td>Bradley</td>
+        <td>penguinskillcaps [PSN]</td>
     </tr>
     <tr>
-        <td>peanut_unlimited</>
+        <td>peanut_unlimited</td>
         <td>nitrate92</td>
         <td>NovaDaemon</td>
         <td>Emily</td>
         <td>Greatblaster360</td>
         <td>shadowknight1620</td>
-        <tdKingofTheBeez></td>
+        <td>KingofTheBeez</td>
         <td>Mitchell</td>
-        <tdholmebrian></td>
+        <td>holmebrian</td>
         <td>wintr</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 
