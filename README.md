@@ -905,7 +905,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Mitchell</td>
         <td>holmebrian</td>
         <td>wintr</td>
-        <td></td>
+        <td>Mr. BoneZone</td>
     </tr>
     <tr>
         <td></td>
