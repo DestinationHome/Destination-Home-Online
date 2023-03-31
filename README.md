@@ -50,9 +50,8 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 - [x] Adding additional security services to protect our future database, as we know Home had many exploits during its time on the **PLAYSTATION®3**.
 - [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.90 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
 - [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
-- [] Localization for all objects & all public/private scenes.
-- [x] Stress testing our current network infrastructure.
-- [
+- [ ] Localization for all objects & all public/private scenes.
+- [x] Stress testing our current network infrastructure. 
     
 Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
     
