@@ -1,6 +1,6 @@
-This document has been updated in compliance with the recently System Software PS3 Release version 4.89.
+This document has been updated in compliance with the recently System Software PS3 Release version 4.90.1
 
-4.89 HFW: 1746FD1A7BA9F6DBB9428C9C64B54B0A
-The official HFW 4.89.1 has a EULA date of May 11, 2022 
+4.90.1 HFW: 5eaef6cf25b6c319228de713b270e464
+
 
 ~~~~~~~~
