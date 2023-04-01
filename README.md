@@ -2,6 +2,8 @@
 <p align="center">	
 <img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange">
 </a>
+<img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%2052.86.120.101-0995d3"
+    alt="🌐 Destination Home Public DNS Setting: 52.86.120.101 | Get Started by following our quick-start guide"></a>
 
 ![NPIA00005_screenshot_2022_05_11_21_44_06](https://user-images.githubusercontent.com/67494727/168069489-c990264d-8946-4319-b305-370bdce93fa3.png)
 
