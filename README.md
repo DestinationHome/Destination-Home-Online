@@ -29,8 +29,8 @@
         <img src="https://img.shields.io/badge/Follow%20us%20on-YouTube-ff0000"
             alt="Follow us on YouTube"></a>
            <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki">
-        <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%20%7C%20Get%20Started%20by%20following%20our%20quick--start%20guide-0995d3"
-            alt="🌐 Destination Home Public DNS Setting: | Get Started by following our quick-start guide"></a>
+        <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%2052.86.120.101%20%7C%20Get%20Started%20by%20following%20our%20quick--start%20guide-0995d3"
+            alt="🌐 Destination Home Public DNS Setting: 52.86.120.101 | Get Started by following our quick-start guide"></a>
              <a href="https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/">
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
             alt="PlayStation Home Cache Extraction Guide"></a>
@@ -384,7 +384,7 @@ Welcome to the official guide on how users can re-experience [**PlayStation®Hom
 
 ![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
 
-# <h1 align="center">🌐 Destination Home Public DNS Setting: *Soon to be announced.*</h1>
+# <h1 align="center">🌐 Destination Home Public DNS Setting: **52.86.120.101**</h1>
 
 ![NPIA00005_screenshot_2022_04_27_22_05_25](https://user-images.githubusercontent.com/67494727/165727137-22142bb8-ff30-473c-afde-3e71f6fbdf8e.png)
 
@@ -922,6 +922,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
 
 - Thanks to the [**RPCS3**](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
 - Thanks to the [**PS3Xploit Team**](https://github.com/PS3Xploit) for creating the lovely [HEN exploit](https://github.com/PS3Xploit/PS3HEN) (PS3 Homebrew ENabler) on PS3! 
+- Thanks to the [**PS Rewired**](https://psrewired.com/) & [**PSONE**](https://www.psone.online/home) development team for helping us with our Closed Beta 2 deployment environment infrastructure.  
 - Thank you Sony/PlayStation for creating this awe-inspiring Social World!
 
 # Legal Information:
