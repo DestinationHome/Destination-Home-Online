@@ -1,25 +1,25 @@
-﻿REGION INSTANCE:,PSN TERRITORY:,COUNTRY:,REGION CODE:,DESTINATION HOME SUPPORT:,NOTES:
-ASIA,SCEJ,Japan,ja-JP,Yes.,
-ASIA,SCEAsia,South Korea,ko-KR,Yes.,Users will need a South Korean account which requires i-Pin.
-ASIA,SCEAsia,Taiwan,zh-TW,No.,Cache Donation needed for localization. 
-EU,SCEE,France,fr-FR or fr-CH or fr-LU or fr-BE,Yes.,
-EU,SCEE,Italy,it-IT or it-CH,Yes.,
-EU,SCEE,Germany,de-DE or de-CH or de-AT,Yes.,
-EU,SCEE,Spain,es-ES,Yes.,
-US,SCEA,United States Of America,en-US,Yes.,
-ASIA,SCEAsia,China (Hong Kong),en-HK or zh-HK,Yes.,Hong Kong supports zh-HK (Traditional Chinese)
-ASIA,SCEAsia,Malaysia,en-MY,No.,Cache Donation needed for localization. 
-ASIA,SCEAsia,Thailand,en-TH,No.,Cache Donation needed for localization. 
-ASIA,SCEAsia,Singapore,en-SG,No.,Cache Donation needed for localization. 
-ASIA,SCEAsia,Idonesia,en-ID,No.,Cache Donation needed for localization. 
+REGION INSTANCE:,PSN TERRITORY:,COUNTRY:,REGION CODE:,DESTINATION HOME SUPPORT:,NOTES:
 EU,SCEA,Canada,en-CA or fr-CA,Maybe?,Cache Donation POSSIBLY needed for localization. 
-EU,SCEE,Russia,ru-RU,No.,Cache Donation needed for localization. 
-EU,SCEE,United Kingdom,en-GB,Yes.,
-EU,SCEE,Portugal,pt-PT,No.,Cache Donation needed for localization. 
-EU,SCEE,Finland,fi-Fi,No.,Cache Donation needed for localization. 
+ASIA,SCEAsia,China (Hong Kong),en-HK or zh-HK,Yes.,Hong Kong supports zh-HK (Traditional Chinese)
 EU,SCEE,Denmark,da-DK or en-DK,No.,Cache Donation needed for localization. 
+EU,SCEE,Finland,fi-Fi,No.,Cache Donation needed for localization. 
+EU,SCEE,France,fr-FR or fr-CH or fr-LU or fr-BE,Yes.,
+EU,SCEE,Germany,de-DE or de-CH or de-AT,Yes.,
+ASIA,SCEAsia,Idonesia,en-ID,No.,Cache Donation needed for localization. 
+EU,SCEE,Italy,it-IT or it-CH,Yes.,
+ASIA,SCEJ,Japan,ja-JP,Yes.,
+ASIA,SCEAsia,Malaysia,en-MY,No.,Cache Donation needed for localization. 
 EU,SCEE,New Zealand,en-NZ,No.,Cache Donation needed for localization. 
-EU,SCEE,Sweden,sv-SE,No.,Cache Donation needed for localization. 
 EU,SCEE,Norway,no-NO or en-NO,No.,Cache Donation needed for localization. 
 EU,SCEE,Poland,pl-PL,No.,Cache Donation needed for localization. 
+EU,SCEE,Portugal,pt-PT,No.,Cache Donation needed for localization. 
+EU,SCEE,Russia,ru-RU,No.,Cache Donation needed for localization. 
+ASIA,SCEAsia,Singapore,en-SG,No.,Cache Donation needed for localization. 
+ASIA,SCEAsia,South Korea,ko-KR,Yes.,Users will need a South Korean account which requires i-Pin.
+EU,SCEE,Spain,es-ES,Yes.,
+EU,SCEE,Sweden,sv-SE,No.,Cache Donation needed for localization. 
+ASIA,SCEAsia,Taiwan,zh-TW,No.,Cache Donation needed for localization. 
+ASIA,SCEAsia,Thailand,en-TH,No.,Cache Donation needed for localization. 
 EU,SCEE,United Arab Emirates,en-AE,No.,Cache Donation needed for localization. 
+EU,SCEE,United Kingdom,en-GB,Yes.,
+US,SCEA,United States Of America,en-US,Yes.,
