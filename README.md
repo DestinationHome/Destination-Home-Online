@@ -915,7 +915,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>brandon</td>
         <td>Azure Fang</td>
         <td>Lucario</td>
-        <td></td>
+        <td>BLACK_SUN_PRINCE8#1118</td>
         <td></td>
         <td></td>
         <td></td>
