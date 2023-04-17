@@ -914,7 +914,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>vadimka23320</td>
         <td>brandon</td>
         <td>Azure Fang</td>
-        <td></td>
+        <td>Lucario</td>
         <td></td>
         <td></td>
         <td></td>
