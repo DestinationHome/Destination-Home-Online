@@ -916,7 +916,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Azure Fang</td>
         <td>Lucario</td>
         <td>BLACK_SUN_PRINCE8</td>
-        <td></td>
+        <td>Ortana</td>
         <td></td>
         <td></td>
     </tr>
