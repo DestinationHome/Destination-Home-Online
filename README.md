@@ -913,7 +913,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Nightly 2.0</td>
         <td>vadimka23320</td>
         <td>brandon</td>
-        <td></td>
+        <td>Azure Fang</td>
         <td></td>
         <td></td>
         <td></td>
