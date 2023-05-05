@@ -610,7 +610,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>BiggusDickus</td>
     </tr>
     <tr>
-        <td>['B' (NostalgicBee)](https://github.com/MyNameIsBee)</td>
+        <td>B' (NostalgicBee)</td>
         <td>BinksDaWolf</td>
         <td>BlackBloodBorne</td>
         <td>Bliss</td>
