@@ -917,6 +917,19 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Lucario</td>
         <td>BLACK_SUN_PRINCE8</td>
         <td>Ortana</td>
+        <td>ArmorGon</td>
+        <td>Kyuusee</td>
+        <td>Malocca</td>
+    </tr>
+        <td>Baldy09</td>
+        <td>Funstab</td>
+        <td>Helen_Croft</td>
+        <td>Pure</td>
+        <td>buenoofspain</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
         <td></td>
         <td></td>
     </tr>
