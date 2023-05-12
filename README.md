@@ -928,7 +928,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>buenoofspain</td>
         <td>mighty</td>
         <td>Perk-Addicted</td>
-        <td></td>
+        <td>Tsuki The Dwagon</td>
         <td></td>
         <td></td>
         <td></td>
