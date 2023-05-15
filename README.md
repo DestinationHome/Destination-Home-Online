@@ -930,7 +930,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Perk-Addicted</td>
         <td>Tsuki The Dwagon</td>
         <td>xGOTEN_MATADORx</td>
-        <td></td>
+        <td>DeemingAmbition'</td>
         <td></td>
     </tr>
 </table>
