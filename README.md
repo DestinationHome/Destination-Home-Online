@@ -931,7 +931,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Tsuki The Dwagon</td>
         <td>xGOTEN_MATADORx</td>
         <td>DeemingAmbition'</td>
-        <td></td>
+        <td>brivera1126</td>
     </tr>
 </table>
 
