@@ -871,7 +871,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr>
      <tr>
         <td>Tomyi</td>
-        <td>-DARK-  (Zombie-Watchr)</td>
+        <td>-DARK- (Zombie-Watchr) | ★ Console Donator</td>
         <td>TheOnlyWiseJEDI</td>
         <td>Tony Montana</td>
         <td>NeNa224</td>
