@@ -933,6 +933,19 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>DeemingAmbition'</td>
         <td>brivera1126</td>
     </tr>
+    </tr>
+        <td>DeemingAmbition (⭐Eren & Vash⚜)</td>
+        <td>Fazr11</td>
+        <td>Kill Modz</td>
+        <td>AgataTheLion</td>
+        <td>Osmxn😸</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
 - Thanks to the [**RPCS3**](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
