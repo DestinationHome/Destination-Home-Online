@@ -645,7 +645,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>ExtremeCaliber</td>
         <td>Falcon</td>
         <td>Figment</td>
-        <td>Form</td>
+        <td>form</td>
         <td>Frostex</td>
     </tr>
     <tr>
