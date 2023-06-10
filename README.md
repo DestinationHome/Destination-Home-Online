@@ -944,6 +944,19 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>HipMoses</td>
         <td>DeadDr4gon</td>
         <td>yountj55</td>
+        <td>Tertie</td>
+    </tr>
+    </tr>
+        <td>Frosty666Smokey</td>
+        <td>Dubbled</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
         <td></td>
     </tr>
 </table>
