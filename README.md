@@ -884,7 +884,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr>
     <tr>
         <td>Shotgunsean</td>
-        <td>Abitha</td>
+        <td>Abiatha</td>
         <td>JrMan</td>
         <td>Agentevil</td>
         <td>Schultka_</td>
@@ -939,11 +939,11 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Kill Modz</td>
         <td>AgataTheLion</td>
         <td>Osmxn😸</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Toro</td>
+        <td>tiffany__37</td>
+        <td>HipMoses</td>
+        <td>DeadDr4gon</td>
+        <td>yountj55</td>
         <td></td>
     </tr>
 </table>
