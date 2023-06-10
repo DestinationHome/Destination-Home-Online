@@ -949,8 +949,8 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr>
         <td>Frosty666Smokey</td>
         <td>Dubbled</td>
-        <td></td>
-        <td></td>
+        <td>RobGamer</td>
+        <td>Ale from Italy</td>
         <td></td>
         <td></td>
         <td></td>
