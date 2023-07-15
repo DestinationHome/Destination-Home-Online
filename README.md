@@ -951,7 +951,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Dubbled</td>
         <td>RobGamer</td>
         <td>Ale from Italy</td>
-        <td></td>
+        <td>༯𝒟ℯ𝓈𝓉𝒾𝓃𝓎༯</td>
         <td></td>
         <td></td>
         <td></td>
