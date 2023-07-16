@@ -953,7 +953,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Ale from Italy</td>
         <td>༯𝒟ℯ𝓈𝓉𝒾𝓃𝓎༯</td>
         <td>Casey~</td>
-        <td></td>
+        <td>XYZexal</td>
         <td></td>
         <td></td>
         <td></td>
