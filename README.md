@@ -961,9 +961,9 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr>
     </tr>
         <td>JustAngie</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Citaze</td>
+        <td>StratosA</td>
+        <td>Coffee</td>
         <td></td>
         <td></td>
         <td></td>
