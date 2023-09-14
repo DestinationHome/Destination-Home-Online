@@ -954,8 +954,8 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>༯𝒟ℯ𝓈𝓉𝒾𝓃𝓎༯</td>
         <td>Casey~</td>
         <td>XYZexal</td>
-        <td></td>
-        <td></td>
+        <td>FunkyBassBoyJr</td>
+        <td>Ryuuka Shinrai</td>
         <td></td>
         <td></td>
     </tr>
