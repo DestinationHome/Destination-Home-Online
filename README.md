@@ -956,7 +956,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>XYZexal</td>
         <td>FunkyBassBoyJr</td>
         <td>Ryuuka Shinrai</td>
-        <td></td>
+        <td>cpurcell2</td>
         <td></td>
     </tr>
 </table>
