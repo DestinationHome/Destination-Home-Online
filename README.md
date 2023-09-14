@@ -959,6 +959,19 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>cpurcell2</td>
         <td>GermanTheWolf</td>
     </tr>
+    </tr>
+        <td>JustAngie</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr> 
 </table>
 
 - Thanks to the [**RPCS3**](https://github.com/RPCS3/rpcs3) development team for helping to fix critical bugs for Home online.
