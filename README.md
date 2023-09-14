@@ -965,7 +965,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>StratosA</td>
         <td>Coffee</td>
         <td>ben</td>
-        <td></td>
+        <td>Clip</td>
         <td></td>
         <td></td>
         <td></td>
