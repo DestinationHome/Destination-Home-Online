@@ -957,7 +957,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>FunkyBassBoyJr</td>
         <td>Ryuuka Shinrai</td>
         <td>cpurcell2</td>
-        <td></td>
+        <td>GermanTheWolf</td>
     </tr>
 </table>
 
