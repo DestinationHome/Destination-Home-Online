@@ -966,9 +966,9 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Coffee</td>
         <td>ben</td>
         <td>Clip</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Sniper_king202</td>
+        <td>Frycopy</td>
+        <td>Limon /Deadbay</td>
         <td></td>
         <td></td>
     </tr> 
