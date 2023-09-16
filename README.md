@@ -969,7 +969,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Sniper_king202</td>
         <td>Frycopy</td>
         <td>Limon /Deadbay</td>
-        <td></td>
+        <td>BreakLikeGlass</td>
         <td></td>
     </tr> 
 </table>
