@@ -970,7 +970,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Frycopy</td>
         <td>Limon /Deadbay</td>
         <td>BreakLikeGlass</td>
-        <td></td>
+        <td>Gwendle</td>
     </tr> 
 </table>
 
