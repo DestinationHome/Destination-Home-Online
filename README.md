@@ -974,7 +974,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr> 
     </tr>
         <td>DrUberBloom</td>
-        <td></td>
+        <td>[ nwe9r ]</td>
         <td></td>
         <td></td>
         <td></td>
