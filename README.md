@@ -32,24 +32,24 @@
             alt="Follow us on YouTube"></a>
            <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki">
         <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%2052.86.120.101%20%7C%20Get%20Started%20by%20following%20our%20quick--start%20guide-0995d3"
-            alt="🌐 Destination Home Public DNS Setting: 52.86.120.101 | Get Started by following our quick-start guide"></a>
+            alt="🌐 Publiczne ustawienie DNS dla Destination Home: 52.86.120.101 | Rozpocznij używając naszej instrukcji szybkiej obsługi"></a>
              <a href="https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/">
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
-            alt="PlayStation Home Cache Extraction Guide"></a>
+            alt="Instrukcja do wyciągania cache PlayStation Home"></a>
   
-We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your **PlayStation®Home** cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
+Jesteśmy zespołem zajmującym się przywracaniem oryginalnej funkcji online [**PlayStation®Home**](https://en.wikipedia.org/wiki/PlayStation_Home) dla prezerwacji historii gier i edukacji. Podaruj twoją pamięc cache **PlayStation®Home** [tutaj](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
  
-# 📣 Current Status of Destination Home Online Revival Servers/Services:
+# 📣 Aktualny Stan Odrodzonych Serwerów/Serwisów Destination Home:
 
   <p align="center">
   <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange"></a>
     
 ![NPIA00005_screenshot_2022_05_11_21_59_37](https://user-images.githubusercontent.com/67494727/174608070-8d03ac8c-7429-4df1-9e5e-cf1c50c0c042.png)
   
- ℹ️ | Currently we are in our **Closed-Beta phase**. During this time we are working on fixing the following network services & functions within Home's intricate ecosystem.
+ ℹ️ | Aktualnie jesteśmy w stanie **Zamkniętej Wersji Beta**. W trakcie tego czasu pracujemy nad naprawą następujących serwisów i funkcji sieciowych w środku skomplikowanym ekosystemie "Home".
 :---: | :---  
 
-- [x] Adding additional security services to protect our future database, as we know Home had many exploits during its time on the **PLAYSTATION®3**.
+- [x] Dodając dodatkowe serwisy ochrony aby ochronić naszą przyszłą bazę danych, bo wiemy że "Home" miało dużo eksploitacji w swoim czasie na systemie **PLAYSTATION®3**.
 - [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.90 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
 - [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
 - [ ] Localization for all objects & all public/private scenes.
