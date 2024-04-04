@@ -50,10 +50,10 @@ Jesteśmy zespołem zajmującym się przywracaniem oryginalnej funkcji online [*
 :---: | :---  
 
 - [x] Dodając dodatkowe serwisy ochrony aby ochronić naszą przyszłą bazę danych, bo wiemy że "Home" miało dużo eksploitacji w swoim czasie na systemie **PLAYSTATION®3**.
-- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.90 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
-- [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
-- [ ] Localization for all objects & all public/private scenes.
-- [x] Stress testing our current network infrastructure. 
+- [x] Pewność że nasz klient "Home" jest kompatybilny z każdym oprogramowaniem PS3 n.p. [Oficjalne Oprogramowanie 4.90](https://www.playstation.com/pl-pl/support/hardware/ps3/system-software/).
+- [x] Napawa jakichkolwiek zepsutych serwisów i funkcji n.p. zepsuta treść wideo lub aktywność sieci pomiędzy mini-gierkami. 
+- [ ] Lokalizacja regionowa dla wszystkich obiektów i wszystkich publicznych/prywatnych scen.
+- [x] Testy do obciążenia naszej obecnej infrastrukturę sieciową. 
     
 Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
     
