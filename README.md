@@ -481,6 +481,8 @@ To keep this **README.md** file concise & straightforward I decided to make an o
 - [x]  [Teleporter System for core scenes](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) e.g., **The Hub, First Floor Mall, Pier Park**.
 - [x] Cross-region support `Users can access all regional spaces despite the origin country connected to their PSN account. For instance, a player who is from Japan can access North American scenes and vice-versa`.
 - [x] Users who have **PlayStation®Plus** on PSN will have access to additional font colors for their IDs in-game & have the ability to customize their avatar's hair in any color. For more information about this feature, feel free to view the video down below.
+- [x] [Home Tycoon from HellFire Games](https://blog.playstation.com/2012/10/01/this-week-in-playstation-home-build-your-own-virtual-city-in-home-tycoon/). 
+    - Home Tycoon was a free-to-play, fully customizable 3D city building game. (This was basically a game inside of a game).
 
 https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-afbe-388c5d9e10c9.mp4
 
@@ -490,8 +492,6 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 
 - [ ] [Clans/Clubs](https://playstation.fandom.com/wiki/Clubs). 
 - [ ] Commerce Points "Stores" for **RPCS3**.
-- [ ] [Home Tycoon from HellFire Games](https://blog.playstation.com/2012/10/01/this-week-in-playstation-home-build-your-own-virtual-city-in-home-tycoon/). 
-    - Home Tycoon was a free-to-play, fully customizable 3D city building game. (This was basically a game inside of a game).
 - [ ] [Inspect Feature for Avatars](https://blog.playstation.com/2013/09/18/new-to-playstation-home-inspect-items/).
 - [ ] [Quest Manager](https://www.engadget.com/2011-08-23-playstation-home-relaunches-this-fall-with-a-questing-system-th.htm).
 - [ ] **PlayStation™Network Matching2 Services** will not be available for **RPCS3**.
