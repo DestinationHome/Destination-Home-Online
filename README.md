@@ -981,7 +981,7 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Vor</td>
         <td>Black Widow</td>
         <td>TailsFan95</td>
-        <td></td>
+        <td>chillmanmax</td>
         <td></td>
         <td></td>
     </tr> 
