@@ -978,9 +978,9 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
         <td>Xecular</td>
         <td>Ch0wW</td>
         <td>MasterGamer423</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Vor</td>
+        <td>Black Widow</td>
+        <td>TailsFan95</td>
         <td></td>
         <td></td>
         <td></td>
