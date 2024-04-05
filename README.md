@@ -975,9 +975,9 @@ In regards to minigames, unfortunately for certain scenes, not all minigames wil
     </tr>
         <td>DrUberBloom</td>
         <td>[ nwe9r ]</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Xecular</td>
+        <td>Ch0wW</td>
+        <td>MasterGamer423</td>
         <td></td>
         <td></td>
         <td></td>
