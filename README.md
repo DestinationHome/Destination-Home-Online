@@ -55,7 +55,7 @@ Jesteśmy zespołem zajmującym się przywracaniem oryginalnej funkcji online [*
 - [ ] Lokalizacja regionowa dla wszystkich obiektów i wszystkich publicznych/prywatnych scen.
 - [x] Testy do obciążenia naszej obecnej infrastrukturę sieciową. 
     
-Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
+Tak jak z każdym innym wielkim tytułem wieloosobowym online, nasze serwisy online będą przechodzić przez rygorystyczne cykle/etapy aby upewnić się... Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
     
 - **1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.
     
