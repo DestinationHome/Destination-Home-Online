@@ -55,18 +55,18 @@ Jesteśmy zespołem zajmującym się przywracaniem oryginalnej funkcji online [*
 - [ ] Lokalizacja regionowa dla wszystkich obiektów i wszystkich publicznych/prywatnych scen.
 - [x] Testy do obciążenia naszej obecnej infrastrukturę sieciową. 
     
-Tak jak z każdym innym wielkim tytułem wieloosobowym online, nasze serwisy online będą przechodzić przez rygorystyczne cykle/etapy aby upewnić się... Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
+Tak jak z każdym innym wielkim tytułem wieloosobowym online, nasze serwisy online będą przechodzić przez rygorystyczne cykle/etapy aby upewnić się że wtedy gdy w pełni wydamy "Home" do większości, możemy się upewnić ze *większość* problemów bedą rozwiązane. Tutaj na dole jest nasza mapa rozwoju do której się trzymamy.
     
-- **1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.
+- **1.** *Zamknięta Alfa* - Węwnętrzne testowanie przez **Testerów/Pomocników** i **Deweloperów**.
     
-- **2.** *Closed Beta* [**Session 1**] - Testing by **Cache Donators** & **Nitro Boosters**.
+- **2.** *Zamknięta Beta* [**Sesja 1**] - Testowanie przez **Ludzi Którzy Dali Darowiznę Cache** i **Boosterzy Nitro**.
     
-    - **Closed Beta** access will be expanded in **four** incremental phases:
+    - Dostęp do **Zamkniętej Bety** będzie rozwiększony w **czterech** stopniowych fazach:
     
-       - Phase I: 20 people.
-       - Phase II: 50 people.
-       - Phase III: 100 people.
-       - Phase IV: All donators/boosters.
+       - Faza I: 20 Osób.
+       - Faza II: 50 Osób.
+       - Faza III: 100 people.
+       - Faza IV: Wszyscy którzy dali darowniznę/boosterzy.
     
 - **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content added to our client.
 - **4.** *Open Beta* -- Early Access available to **all members** of the [Discord](https://discord.gg/QguSBT3).
