@@ -68,9 +68,9 @@ Tak jak z każdym innym wielkim tytułem wieloosobowym online, nasze serwisy onl
        - Faza III: 100 people.
        - Faza IV: Wszyscy którzy dali darowniznę/boosterzy.
     
-- **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content added to our client.
-- **4.** *Open Beta* -- Early Access available to **all members** of the [Discord](https://discord.gg/QguSBT3).
-- **5.** *Official Release*  
+- **3.** *Zamknięta Beta* [**Sesja 2**] -- To co jest na górze ale z ulepszeniami, naprawami i więcej zawartości dodanego do naszego klienta.
+- **4.** *Otwarta Beta* -- Wczesny dostęp dostępny do **wszytkich członków** naszego serwera [Discord](https://discord.gg/QguSBT3).
+- **5.** *Oficjalne Wydanie*  
     
 ⚠️ | Note there is no *ETA* for each stage! Developers work in their **free time** and any real-life responsibilities e.g., *college*, *work*, *family matters* will dramatically affect progress; please be patient.
 :---: | :---   
