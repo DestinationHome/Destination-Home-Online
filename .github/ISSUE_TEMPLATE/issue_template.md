@@ -3,7 +3,6 @@ name: Bug report template for PlayStation Home Online
 about: Create a report to help us improve our custom PlayStation Home servers.
 title: ''
 labels: Bug
-assignees: NagatoDEV, Toykyle
 
 ---
 
