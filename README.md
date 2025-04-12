@@ -46,19 +46,12 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 - [x] Stress testing our current network infrastructure. 
     
 Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
+
+**Closed Beta** access will be expanded in **four** incremental phases:
     
 - ~~**1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.~~
-    
 - ~~**2.** *Closed Beta* [**Session 1**] - Testing by **Cache Donators** & **Nitro Boosters**.~~
-    
-   - **Closed Beta** access will be expanded in **four** incremental phases:
-    
-       - Phase I: 20 people.
-       - Phase II: 50 people.
-       - Phase III: 100 people.
-       - Phase IV: All donators/boosters.
-    
-- **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content added to our client.
+- **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content.
 - **4.** *Open Beta* -- Early Access available to **all members** of the [Discord](https://discord.gg/QguSBT3).
 - **5.** *Official Release*  
     
@@ -68,9 +61,6 @@ Just with any massively multiplayer online title, our online services will go th
 # ✅ Destination Home Beta Enrollment Process:
 
 ![CENTRAL PLAZA BETA ADD](https://user-images.githubusercontent.com/67494727/187321907-d5a3c9d0-ebca-4e3b-99f2-aa261f0ad854.png)
-
-The Closed Beta is a **2-week period** for users to test the online and provide the team with valuable data/information that will be used to further development.
-This version of Online has been *custom-tailored* for this testing and is *NOT* representative of what will eventually be made publicly available. 
 
  ℹ️ | Important Information during the first Closed Beta Phase:
 :---: | :--- 
