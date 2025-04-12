@@ -2,8 +2,7 @@
 <p align="center">	
 <img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange">
 </a>
-<img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%2052.86.120.101-0995d3"
-    alt="🌐 Destination Home Public DNS Setting: 52.86.120.101 | Get Started by following our quick-start guide"></a>
+<img alt="Public DNS Server for Playing" src="https://img.shields.io/badge/DNS_Server-52.86.120.101-blue">
 
 ![NPIA00005_screenshot_2022_05_11_21_44_06](https://user-images.githubusercontent.com/67494727/168069489-c990264d-8946-4319-b305-370bdce93fa3.png)
 
@@ -22,18 +21,12 @@
          <img src="https://img.shields.io/github/issues/DestinationHome/Destination-Home-Online"
             alt="Github Issue Tracker"></a>
           <a href="https://twitter.com/destinpshome?lang=en">  
-        <img src="https://img.shields.io/twitter/follow/DestinPsHome?style=social&logo=twitter"
-             alt="Follow us on Twitter"></a>
-       <a href="https://www.twitch.tv/playstationhome/videos">
-        <img src="https://img.shields.io/badge/Follow%20us%20on-Twitch-8048fa"
-            alt="Follow us on Twitch"></a>
+        <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/destinpshome">
+            </a>
          <a href="https://www.youtube.com/channel/UCQhwhFevEgsRqMTHof7FwPQ">
-        <img src="https://img.shields.io/badge/Follow%20us%20on-YouTube-ff0000"
+            <img src="https://img.shields.io/badge/Follow%20us%20on-YouTube-ff0000"
             alt="Follow us on YouTube"></a>
-           <a href="https://github.com/DestinationHome/Destination-Home-Online/wiki">
-        <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20Destination%20Home%20Public%20DNS%20Setting%3A%2052.86.120.101%20%7C%20Get%20Started%20by%20following%20our%20quick--start%20guide-0995d3"
-            alt="🌐 Destination Home Public DNS Setting: 52.86.120.101 | Get Started by following our quick-start guide"></a>
-             <a href="https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/">
+         <a href="https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/">
         <img src="https://img.shields.io/badge/-PlayStation%20Home%20Cache%20Extraction%20Guide%20Home-003247"
             alt="PlayStation Home Cache Extraction Guide"></a>
   
@@ -43,32 +36,22 @@ We're a team dedicated to restoring [**PlayStation®Home**](https://en.wikipedia
 
   <p align="center">
   <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Testing%20Period-Closed%20Beta%20Phase%20II-orange"></a>
-    
-![NPIA00005_screenshot_2022_05_11_21_59_37](https://user-images.githubusercontent.com/67494727/174608070-8d03ac8c-7429-4df1-9e5e-cf1c50c0c042.png)
   
  ℹ️ | Currently we are in our **Closed-Beta phase**. During this time we are working on fixing the following network services & functions within Home's intricate ecosystem.
 :---: | :---  
 
 - [x] Adding additional security services to protect our future database, as we know Home had many exploits during its time on the **PLAYSTATION®3**.
-- [x] Ensuring that our Home client is compatible with all PS3 firmware e.g., [4.90 official firmware](https://www.playstation.com/en-us/support/hardware/ps3/system-software/).
 - [x] Fixing any broken services & functions e.g., broken video content, network activity between minigames. 
 - [ ] Localization for all objects & all public/private scenes.
 - [x] Stress testing our current network infrastructure. 
     
 Just with any massively multiplayer online title, our online services will go through **rigorous** development cycles/stages to ensure that once we fully release Home back to the masses, we can ensure that *most* issues are sorted out. Down below here is the following development roadmap/pipeline that we are adhering to.
+
+**Closed Beta** access will be expanded in **four** incremental phases:
     
-- **1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.
-    
-- **2.** *Closed Beta* [**Session 1**] - Testing by **Cache Donators** & **Nitro Boosters**.
-    
-    - **Closed Beta** access will be expanded in **four** incremental phases:
-    
-       - Phase I: 20 people.
-       - Phase II: 50 people.
-       - Phase III: 100 people.
-       - Phase IV: All donators/boosters.
-    
-- **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content added to our client.
+- ~~**1.** *Closed Alpha* - Internal testing by **Testers/Helpers** and **Developers**.~~
+- ~~**2.** *Closed Beta* [**Session 1**] - Testing by **Cache Donators** & **Nitro Boosters**.~~
+- **3.** *Closed Beta* [**Session 2**] -- As above but with improvements, fixes and more content.
 - **4.** *Open Beta* -- Early Access available to **all members** of the [Discord](https://discord.gg/QguSBT3).
 - **5.** *Official Release*  
     
@@ -78,9 +61,6 @@ Just with any massively multiplayer online title, our online services will go th
 # ✅ Destination Home Beta Enrollment Process:
 
 ![CENTRAL PLAZA BETA ADD](https://user-images.githubusercontent.com/67494727/187321907-d5a3c9d0-ebca-4e3b-99f2-aa261f0ad854.png)
-
-The Closed Beta is a **2-week period** for users to test the online and provide the team with valuable data/information that will be used to further development.
-This version of Online has been *custom-tailored* for this testing and is *NOT* representative of what will eventually be made publicly available. 
 
  ℹ️ | Important Information during the first Closed Beta Phase:
 :---: | :--- 
